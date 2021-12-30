@@ -20,7 +20,7 @@ As the starting points, we will review basic machine learning models like linear
 
 This course will mainly focus on high-level understandings of these concepts and also provide the students handles to implement their own text analysis models (e.g., how to use 3rd-party libs, and how to set hyper-parameters).
 
-After the midterm exam, we will take about more advanced text mining problems, such as phrase mining, named entity recognition, and taxonomy construction. We will go beyond the traditional supervised methods and put some emphasis on unsupervised, weakly supervised, and distantly supervised methods.
+After the midterm exam, we will talk about more advanced text mining problems, such as phrase mining, named entity recognition, and taxonomy construction. We will go beyond the traditional supervised methods and put some emphasis on unsupervised, weakly supervised, and distantly supervised methods.
 Bootstrapping, comparative analysis, learning from seed words and existing knowledge bases will be the key methodologies to know.
 
 We will have a take-home midterm, a few homework assignments, a Kaggle-like competition, and a final (team-based) project. These four parts will have roughly the same weights.
