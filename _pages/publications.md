@@ -23,7 +23,7 @@ Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
 Dheeraj Mekala, Tu Vu, Timo Schick and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)]
 * Fine-grained Contrastive Learning for Relation Extraction <br/>
 William Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12491](https://arxiv.org/abs/2205.12491)]
-* Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification
+* Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification <br/>
 Zi Lin, Jeremiah Liu and Jingbo Shang. **EMNLP** 2022.
 * WeDef: Weakly Supervised Backdoor Defense for Text Classification <br/>
 Lesheng Jin, Zihan Wang and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.11803](https://arxiv.org/abs/2205.11803)]
