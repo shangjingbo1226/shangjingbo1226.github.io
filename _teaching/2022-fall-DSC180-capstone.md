@@ -76,7 +76,25 @@ Discussion Questions
 
 ### Week 5: Experimental Results - Replication {#week5}
 
-We will do something based on X-Class repo and a small dataset. The details will come soon. Stay tuned.
+We will aim to reproduce some baseline methods used in ConWea: (1) IR-TF-IDF and (2) Word2Vec.
+We are skipping the neural network models since DSMLP doesn't have enough GPU memory to support BERT model training.
+
+Quoting from the ConWea paper's Section 6.2, we have 
+1. **IR-TF-IDF** treats the seed word set for each class as a query. The relevance of a document to a label is computed by aggregated TF-IDF values of its respective seed words. The label with the highest relevance is assigned to each document.
+2. **Word2Vec** first learns word vector representations (Mikolov et al., 2013) for all terms in the corpus and derive label representations by aggregating the vectors of its respective seed words. Finally, each document is labeled with the most similar label based on cosine similarity.
+
+We have explained these two methods in the discussion session too. If you still have quesitons after revisisting the recording, please email me. 
+
+Here are some tips:
+- In IR-TF-IDF, it is basically counting. The Python library [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) might be useuful. The IDF calculation is also straightforward after tokenization, so please feel free to implement it yourself (e.g., using for-loop and dictionary) in Python.
+- In Word2Vec, you are asked to train word2vec embedding based on the input documents in each dataset. You may find [gesim](https://radimrehurek.com/gensim/models/word2vec.html) package useful.
+- For the seed words, please refer to the ConWea repo. 
+
+At the minimum, you are expected to show:
+1. A table of your replicated results, including the two methods mentioned above and the micro-F1 and macro-F1 scores. Specifically, we will focus on the two coarse-grained datasets in ConWea: (1) NYT-coarse and (2) 20News-coarse. Please feel free to include the fine-grained datasets. 
+2. The implementation details of your replication. It will be the best to include some concrete steps, formulas, and package information. 
+3. The well-documented code repo of your replication. 
+4. Any takeaways, challenges encountered, and thoughts are encouraged to be included in the report.
 
 
 ### Week 6: Case Studies {#week6}
