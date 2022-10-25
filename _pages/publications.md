@@ -36,7 +36,7 @@ Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXi
 * Progressive Sentiment Analysis for Code-Switched Text Data <br/>
 Sudhanshu Ranjan, Dheeraj Mekala and Jingbo Shang. **EMNLP** (Findings) 2022.
 * Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting <br/>
-Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. [[arXiv:2110.03135](https://arxiv.org/abs/2110.03135)]
+Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. (selected as **oral**) [[arXiv:2110.03135](https://arxiv.org/abs/2110.03135)]
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification. <br/>
 Shuheng Li, Dezhi Hong, Jingbo Shang and Rajesh Gupta. **SenSys** 2022.
 * DeepViFi: Detecting Oncoviral Infections in Cancer Genomes using Transformers <br/>
