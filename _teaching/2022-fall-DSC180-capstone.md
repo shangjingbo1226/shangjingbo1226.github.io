@@ -96,6 +96,8 @@ At the minimum, you are expected to show:
 3. The well-documented code repo of your replication. 
 4. Any takeaways, challenges encountered, and thoughts are encouraged to be included in the report.
 
+**Note:** If you found the performance is worse than the paper's reported values, please pay attention to pre-processing and other tuning effort --- think about tokenization, stopwords, stemming, lemmatization, different TF-IDF variants, hyper-parameters in word2vec, etc. Please keep in mind that In the paper, we tried our best to tune the baselines to make them strong. Therefore, in this replication practice, we don't have to exactly re-produce the performance. As long as your implementation is on the right track, it is okay to be slightly worse than the reported numbers. 
+
 
 ### Week 6: Case Studies {#week6}
 
