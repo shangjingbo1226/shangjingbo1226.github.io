@@ -13,7 +13,8 @@ author_profile: true
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
-###
+### 2023
+
 * PrimeNet: Pre-training for Irregular Multivariate Time Series<br/>
 Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **AAAI** 2023.
 
