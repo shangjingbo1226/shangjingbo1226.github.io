@@ -56,7 +56,7 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/zi lin.jpg" class="author__avatar" alt="Zi Lin">
+            <img src="/images/img/students/zi lin.jpeg" class="author__avatar" alt="Zi Lin">
       </div>
       <div class="author__content">
             <p><a href = "https://zi-lin.com/">Zi Lin</a><br/>(2021 - )</p>
@@ -181,7 +181,17 @@ Current Members
             <img src="/images/img/students/sudhanshu rajan.jpg" class="author__avatar" alt="Sudhanshu Ranjan">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan </a><br/>(2021 - )</p>
+            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan</a><br/>(2021 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/prashant vaidyanathan.jpeg" class="author__avatar" alt="Prashant Vaidyanathan">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/prashant-kv/">Prashant Vaidyanathan</a><br/>(2022 - )</p>
       </div>
       </center>
     </div>
