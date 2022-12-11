@@ -76,7 +76,7 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/dheeraj mekala.png" class="author__avatar" alt="Dheeraj Mekala">
+            <img src="/images/img/students/dheeraj mekala.jpeg" class="author__avatar" alt="Dheeraj Mekala">
       </div>
       <div class="author__content">
             <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a><br/>(2021 - )</p>
