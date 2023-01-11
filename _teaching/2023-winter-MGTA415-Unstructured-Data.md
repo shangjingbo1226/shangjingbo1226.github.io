@@ -84,7 +84,7 @@ Lecture Schedule
 **HW Note**: All HWs **due before the lecture time 2PM PT**. 
 
 Week | Date        | Topic & Slides                                              | Events
-1    | 01/11 (Wed) | Intro and Text Preprocessing                                | 
+1    | 01/11 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/w82ll3b3mkltcrh/AAALjPYEza_mcmiLQSjPEk9ia?dl=0)                                | 
 2    | 01/18 (Wed) | Machine Learning Concepts and Basics                        | HW1 out
 3    | 01/25 (Wed) | Text Classification using Bag-of-Words                      | 
 4    | 02/01 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW2 out, DM Challenge out
@@ -98,9 +98,9 @@ Week | Date        | Topic & Slides                                             
 Homework (24%)
 ======
 
-- **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/7x82ktmkd4p4y8h/MGTA_415_HW1.pdf?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
-- **[HW2: Word Embedding and Language Models](https://www.dropbox.com/s/05jsuy6eahlp3e7/MGTA_415_HW2.pdf?dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
-- **[HW3: Phrase Mining and Image Classification](https://www.dropbox.com/sh/lp53g1onbugz9rl/AAB7Taw18OSj3i_c0mHWrAY6a?dl=0) (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
+- **HW1: Text Pre-processing and Classification (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
+- **HW2: Word Embedding and Language Models (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
+- **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
 Midterm (26%)
 ======
