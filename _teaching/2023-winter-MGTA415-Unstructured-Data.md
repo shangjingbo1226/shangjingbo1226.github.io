@@ -85,7 +85,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                              | Events
 1    | 01/11 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/w82ll3b3mkltcrh/AAALjPYEza_mcmiLQSjPEk9ia?dl=0)                                | 
-2    | 01/18 (Wed) | Machine Learning Concepts and Basics                        | HW1 out
+2    | 01/18 (Wed) | [Machine Learning Concepts and Basics](https://www.dropbox.com/sh/1kieopbgpb2vhid/AAAa3Xu12A6r38fbyQ_Ui0IGa?dl=0)                        | HW1 out
 3    | 01/25 (Wed) | Text Classification using Bag-of-Words                      | 
 4    | 02/01 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW2 out, DM Challenge out
 5    | 02/08 (Wed) | Information Retrieval & Topic Modeling                      | HW1 due
@@ -98,7 +98,7 @@ Week | Date        | Topic & Slides                                             
 Homework (24%)
 ======
 
-- **HW1: Text Pre-processing and Classification (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
+- **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/7rv6si7i8i2zf37/MGTA415_HW1.pdf?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **HW2: Word Embedding and Language Models (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
 - **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
