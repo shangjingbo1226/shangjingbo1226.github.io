@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* On Compositional Uncertainty Quantification for Seq2seq Graph Parsing<br/>
+Zi Lin, Jeremiah Zhe Liu, Du Phan, Panupong Pasupat and Jingbo Shang. **ICLR** 2023.
 * PrimeNet: Pre-training for Irregular Multivariate Time Series<br/>
 Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **AAAI** 2023.
 
