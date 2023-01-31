@@ -78,11 +78,11 @@ Week | Date        | Topic & Slides                                             
 2    | 01/19 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/sh/ykes3hkyxluoi7u/AAAB-6UJS_MM1mtLvL62Mo36a?dl=0) | HW1 Due
 3    | 01/24 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/sh/tk9rbd78lokkq0r/AABtyQDnebskcobAI5Dn7Ti-a?dl=0) |
 3    | 01/26 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/sh/1doodjvf4lf0nfg/AADOn8m1eq9ovauCikdTKfT5a?dl=0) | 
-4    | 01/31 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
-4    | 02/02 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
-5    | 02/07 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
-5    | 02/09 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
-6    | 02/14 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |
+4    | 01/31 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/sh/3vav2l98hiwneoz/AAB83L3kHjmUMEUavqQqZ9vca?dl=0) | HW2 Due, HW3 out
+4    | 02/02 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/sh/e4kr8rhffi0kpza/AABfizqi8HUgKQjjsd1uUoREa?dl=0) |
+5    | 02/07 (Tue) | [Cluster Analysis - Density-based Clustering: DBSCAN](https://www.dropbox.com/sh/pe9svi7jbdagk2x/AABfNVrhVGMtvOgFWHNCUrgNa?dl=0) |
+5    | 02/09 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/sh/mkypn0oa10imiko/AADOM1UbnPwTWI7clfQ5-SMMa?dl=0) | DM Challenge out
+6    | 02/14 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/sh/o8qgzn7dww4q3i0/AACB2ddFbaKIzEsLrwzU8bIaa?dl=0) |
 6    | 02/16 (Thu) | Midterm (24 hours on this date) |
 7    | 02/21 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
 7    | 02/23 (Thu) | Recommender System - Latent Factor Models |
