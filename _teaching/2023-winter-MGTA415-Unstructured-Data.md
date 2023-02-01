@@ -87,8 +87,8 @@ Week | Date        | Topic & Slides                                             
 1    | 01/11 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/w82ll3b3mkltcrh/AAALjPYEza_mcmiLQSjPEk9ia?dl=0)                                | 
 2    | 01/18 (Wed) | [Machine Learning Concepts and Basics](https://www.dropbox.com/sh/1kieopbgpb2vhid/AAAa3Xu12A6r38fbyQ_Ui0IGa?dl=0)                        | HW1 out
 3    | 01/25 (Wed) | [Text Classification using Bag-of-Words](https://www.dropbox.com/sh/91osz5pv3r58rpn/AAAkuOUIohmIHSuP_aHD9UEba?dl=0)                      | 
-4    | 02/01 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW2 out, DM Challenge out
-5    | 02/08 (Wed) | Information Retrieval & Topic Modeling                      | HW1 due
+4    | 02/01 (Wed) | [Word Embedding & Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/33t7pf6sviw34z6/AAAmmthQqyfSjxtoezEaI7L1a?dl=0) | HW2 out, DM Challenge out
+5    | 02/08 (Wed) | [Information Retrieval & Topic Modeling](https://www.dropbox.com/sh/qw2hrdttu5rdbxz/AADa8MWaRXf6u9gwcXZEkLXZa?dl=0)                      | HW1 due
 6    | 02/15 (Wed) | Midterm Exam                                                |
 7    | 02/22 (Wed) | Phrase Mining and its applications                          | HW2 due, HW3 out
 8    | 03/01 (Wed) | Image Classification                                        | DM challenge due
