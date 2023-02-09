@@ -99,7 +99,7 @@ Homework (24%)
 ======
 
 - **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/7rv6si7i8i2zf37/MGTA415_HW1.pdf?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
-- **HW2: Word Embedding and Language Models (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
+- **[HW2: Word Embedding and Language Models](https://www.dropbox.com/s/k0scnrdn0fndb9g/MGTA415_HW2.pdf?dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
 - **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
 Midterm (26%)
