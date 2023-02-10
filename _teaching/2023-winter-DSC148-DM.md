@@ -118,8 +118,8 @@ Data Mining Challenge (25%)
 
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 9 to Mar 2**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: [here](https://www.dropbox.com/s/tq30ogcpoaezan4/DSC%20148_%20Intro%20to%20Data%20Mining%20%E2%80%93%20Data%20Mining%20Challenge.pdf?dl=0)
+- Kaggle challenge link: [here](https://www.kaggle.com/competitions/ucsd-dsc190-wi23-introduction-to-data-mining/)
 
 Project (25%)
 ======
