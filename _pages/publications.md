@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Towards Diverse and Coherent Augmentation for Time-Series Forecasting<br/>
+Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **ICASSP** 2023.  
 * On Compositional Uncertainty Quantification for Seq2seq Graph Parsing<br/>
 Zi Lin, Jeremiah Zhe Liu, Du Phan, Panupong Pasupat and Jingbo Shang. **ICLR** 2023.
 * PrimeNet: Pre-training for Irregular Multivariate Time Series<br/>
