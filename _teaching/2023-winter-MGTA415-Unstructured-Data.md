@@ -90,10 +90,10 @@ Week | Date        | Topic & Slides                                             
 4    | 02/01 (Wed) | [Word Embedding & Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/33t7pf6sviw34z6/AAAmmthQqyfSjxtoezEaI7L1a?dl=0) | HW2 out, DM Challenge out
 5    | 02/08 (Wed) | [Information Retrieval & Topic Modeling](https://www.dropbox.com/sh/qw2hrdttu5rdbxz/AADa8MWaRXf6u9gwcXZEkLXZa?dl=0)                      | HW1 due
 6    | 02/15 (Wed) | Midterm Exam                                                |
-7    | 02/22 (Wed) | Phrase Mining and its applications                          | HW2 due, HW3 out
-8    | 03/01 (Wed) | Image Classification                                        | DM challenge due
-9    | 03/08 (Wed) | Named Entity Recognition                                    | 
-10   | 03/15 (Wed) | Weakly Supervised Text Classification                       | HW3 due
+7    | 02/22 (Wed) | [Phrase Mining and its applications](https://www.dropbox.com/sh/wdbt6qpnvc1te7d/AADLXdI-M5ilk68YEQS-Jt_Ra?dl=0)                          | HW2 due, HW3 out
+8    | 03/01 (Wed) | [Image Classification](https://www.dropbox.com/sh/4zxgua4g0ozll76/AAAoRMHgI9tG5TAGkAzRFkJpa?dl=0)                                        | DM challenge due
+9    | 03/08 (Wed) | [Named Entity Recognition](https://www.dropbox.com/sh/fx0823fbzlg9v8v/AACcvJzlLzSSMgSp3BkdfwUja?dl=0)                                    | 
+10   | 03/15 (Wed) | [Weakly Supervised Text Classification](https://www.dropbox.com/sh/ic6qtbiqmb427g5/AAAbybNY7rnGG3kuboBunhfMa?dl=0)                       | HW3 due
 
 Homework (24%)
 ======
