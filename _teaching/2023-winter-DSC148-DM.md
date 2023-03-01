@@ -46,11 +46,11 @@ Office Hours
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Dheeraj Mekala
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Wednesdays, 4 to 5 PM
+    - Zoom link: [https://ucsd.zoom.us/j/97330988404](https://ucsd.zoom.us/j/97330988404)
 - Zilong Wang
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Fridays, 2 to 3 PM
+    - CSE 2217
 
 Note: all times are in **Pacific Time**.
 
