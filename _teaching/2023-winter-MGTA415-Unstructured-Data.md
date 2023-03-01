@@ -61,8 +61,8 @@ Office Hours
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Xiaochen Gao
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Mondays, 1 to 2 PM
+    - Zoom link: [https://ucsd.zoom.us/j/95771525971](https://ucsd.zoom.us/j/95771525971)
 
 Note: all times are in **Pacific Time**.
 
@@ -100,7 +100,7 @@ Homework (24%)
 
 - **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/7rv6si7i8i2zf37/MGTA415_HW1.pdf?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **[HW2: Word Embedding and Language Models](https://www.dropbox.com/s/k0scnrdn0fndb9g/MGTA415_HW2.pdf?dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
-- **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
+- **[HW3: Phrase Mining and Image Classification](https://www.dropbox.com/sh/tj4mdd7qyee9px6/AACjZmnt4quKniv7RcLgWaAAa?dl=0) (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
 Midterm (26%)
 ======
@@ -114,10 +114,10 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 Data Mining Challenge (25%)
 ======
 
-It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 1 to Feb 28**. Note that the time displayed on Kaggle is in UTC, not PT.
+It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 1 to ~~Feb 28~~ Mar 7**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: On the Kaggle site.
+- Kaggle challenge link: [here](https://www.kaggle.com/t/7cf9bd59c3169b608101c2d6b790a3ea)
 
 Project (25%)
 ======
