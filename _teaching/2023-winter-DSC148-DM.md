@@ -88,8 +88,8 @@ Week | Date        | Topic & Slides                                             
 7    | 02/23 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/sh/y3lekdke4zqmn1o/AACs3y6VrGjaI-cPWIXWE-lua?dl=0) |
 8    | 02/28 (Tue) | [Text Mining - Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/6zok1aan1ooqduu/AAC0XSTIizY2DJa1vuTcexqsa?dl=0) |
 8    | 03/02 (Thu) | [Text Mining - Advanced Text Representations](https://www.dropbox.com/sh/74ollavmb91vvrq/AADhBVNG2eKgn7qf2FoT667ia?dl=0) | DM Challenge due
-9    | 03/07 (Tue) | Network Mining - Small-Worlds & Random Graph Models | 
-9    | 03/09 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding |
+9    | 03/07 (Tue) | [Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank](https://www.dropbox.com/sh/rtuv5byglzgx5dm/AAB0vTSWChubkYtwj7bJ_Tqua?dl=0) | 
+9    | 03/09 (Thu) | [Network Mining - Personalized PageRank and Node Embedding](https://www.dropbox.com/sh/w1hymo5qqd6nuf9/AAAxQ5QqGiOiSyZxLFs8-mX1a?dl=0) |
 10   | 03/14 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
 10   | 03/16 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due
 
@@ -101,7 +101,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/s/5g9n1o1hzm90xn0/DSC148_WI23_HW1.pdf?dl=1) (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
 - **[HW2: Regression and Classification](https://www.dropbox.com/s/vodasirrj13mnbb/DSC148___WI23_HW2.pdf?dl=0) (8%).** This homework mainly focuses on regression and classification tasks.
 - **[HW3: Cluster and Pattern Analysis](https://www.dropbox.com/s/7qu7okq3hvteup9/HW3.zip?dl=0) (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
-- **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
+- **[HW4: Applications](https://www.dropbox.com/s/eadrn1ehcp56do8/HW4.zip?dl=0) (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
 
 Midterm (26%)
 ======
