@@ -141,3 +141,5 @@ Here is a quick overview:
     - Each model has a point associated with it. 6 points required. Points for each model is available at the end of the instruction slides.
     - Write a report (pages based on points) describing your interesting findings.
     - Up to 5% bonus towards the total course grade. Roughly 1 point, 1%.
+
+Sample project reports are [here](https://www.dropbox.com/sh/6h2x141rh6if95g/AABnk8dVw3SbbHIYadXsn7Hba?dl=0).
