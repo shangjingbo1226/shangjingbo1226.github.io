@@ -96,7 +96,7 @@ Data Mining Challenge (30%)
 ======
 
 It is a individual-based text mining competition with quantitative evaluation. 
-The challenge runs **from April 25 2020 0:00:01 AM to May 25, 2020 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
+The challenge runs **from April 25 2023 0:00:01 AM to May 25, 2023 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: TBD
 - Kaggle challenge link: TBD
