@@ -51,12 +51,14 @@ TAs and Tutors
 - **Teaching Assistants**:
 
 CSE 251A TAs:
+
     - Danlu Chen (dac013 AT ucsd.edu)
     - Chengyu Dong (cdong AT ucsd.edu)
     - Dheeraj Mekala (dmekala AT ucsd.edu)
     - Yufan Zhuang (y5zhuang AT ucsd.edu)
     
 CSE 151A TAs:
+
     - Weitang Liu (wel022 AT ucsd.edu)
     - Zilong Wang (ziw049 AT ucsd.edu)
     - Zihan Wang (ziw224 AT ucsd.edu)
@@ -71,6 +73,7 @@ Office Hours
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 
 CSE 251A TAs:
+
     - Danlu Chen
         - Office Hour: Thursdays, 5 to 6 PM
         - Zoom link: [https://ucsd.zoom.us/j/96843826752?pwd=Y29lUjFGK3NMTHpRYW9pVXRkU0E2QT09](https://ucsd.zoom.us/j/96843826752?pwd=Y29lUjFGK3NMTHpRYW9pVXRkU0E2QT09)
@@ -86,6 +89,7 @@ CSE 251A TAs:
 
     
 CSE 151A TAs:
+
     - Weitang Liu
         - Office Hour: Mondays, 3:30 to 4:30 PM
         - CSE Basement Room: CSE B240A
