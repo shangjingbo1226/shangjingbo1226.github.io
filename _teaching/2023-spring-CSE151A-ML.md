@@ -77,7 +77,7 @@ Office Hours
         - CSE Basement Room: CSE B215
     - Dheeraj Mekala
         - Office Hour: Fridays, 10 to 11 AM
-        - CSE Basement Room: CSE B240A
+        - Zoom link: [https://ucsd.zoom.us/j/97330988404](https://ucsd.zoom.us/j/97330988404)
     - Yufan Zhuang
         - Office Hour: Mondays 2 to 3 PM
         - CSE Basement Room: CSE B250A
