@@ -44,6 +44,7 @@ Co-scheduling: CSE 151A and CSE 251A
 - CSE 151A and CSE 251A are co-scheduled in Spring'23. These two courses will share the same lectures.
 - The most difficult course materials will be optional for 151A while required for 251A.
 - The HW and Midterm will be more challenging for CSE 251A. 
+- The Piazza forum is shared.
 
 TAs and Tutors
 ======
@@ -115,7 +116,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 04/04 (Tue) | Introduction: Concepts and Evaluations | HW1 out
+1    | 04/04 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/nszfnsi4jendkch/AADGxuRRC_vSkp7bXCKQRE7Da?dl=0) | HW1 out
 1    | 04/06 (Thu) | A Geometric View of Linear Algebra |
 2    | 04/11 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
 2    | 04/13 (Thu) | Gradients and Optimization |
