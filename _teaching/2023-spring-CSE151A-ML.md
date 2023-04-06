@@ -117,7 +117,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 04/04 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/nszfnsi4jendkch/AADGxuRRC_vSkp7bXCKQRE7Da?dl=0) | HW1 out
-1    | 04/06 (Thu) | A Geometric View of Linear Algebra |
+1    | 04/06 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/6c1jjhqodhutwh1/AACaSynpzebBAoEXklnm8sLaa?dl=0) |
 2    | 04/11 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
 2    | 04/13 (Thu) | Gradients and Optimization |
 3    | 04/18 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
@@ -155,6 +155,6 @@ Midterm (40%)
 It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 2 hours.
 
 - **Start**: May 11, 9:30 AM PT
-- **End**: May 11, 9:30 AM PT
+- **End**: May 12, 9:30 AM PT
 - Midterm problems download: TBD
 - Please **make your submissions on Gradescope**.
