@@ -87,7 +87,7 @@ Week | Date        | Topic & Slides                                             
 Homework (30%)
 ======
 
-- **HW1.** Text Classification with Different Techniques. 
+- **HW1.** Text Classification with Different Techniques. [HW1.zip](https://www.dropbox.com/s/3yy3fwhi602pgbt/HW-1.zip?dl=0)
     - Due: April 25, before lecture time
 - **HW2.** Phrase Mining Applications and Future Work. 
     - Due: May 23, before lecture time
