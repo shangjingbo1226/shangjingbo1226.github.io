@@ -110,7 +110,7 @@ Project (40%)
     - 3 to 4 members are recommended, given the limited presentation slots.
 
 **Final Deliverables**
-- Project Proposal (5%)
+- Project Proposal (5%) [instruction](https://www.dropbox.com/s/vtct1ihynpouqcx/CSE291_Text_Mining___Project_Proposal.pdf?dl=0)
     - Define your own research problem and justify its importance
     - Be ambitious! We could aim for ACL/EMNLP conference!
 - Research Paper (20%)
