@@ -65,7 +65,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 04/04 (Tue) | [Intro, Logistics, and Course Project](https://www.dropbox.com/sh/1r8g3f2kzuank3g/AABoV9NF5PewF1Zwg8rxoVqRa?dl=0) |
 1    | 04/06 (Thu) | [Basics: Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/5xqopi8t74s2hp6/AAAYz3mo9iWOsA1ZoLwiuCQca?dl=0) | HW1 out
-2    | 04/11 (Tue) | Word Embedding: word2vec and GloVe |
+2    | 04/11 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/sh/h99resj6iqrw1fg/AAA7TR6x7zLASY6BWeQmOFTQa?dl=0) |
 2    | 04/13 (Thu) | Language Models: from N-Gram to Neural LMs |
 3    | 04/18 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
 3    | 04/20 (Thu) | Sentiment Analysis and Document Classification |
