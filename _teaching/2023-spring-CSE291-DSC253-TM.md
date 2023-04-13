@@ -66,7 +66,7 @@ Week | Date        | Topic & Slides                                             
 1    | 04/04 (Tue) | [Intro, Logistics, and Course Project](https://www.dropbox.com/sh/1r8g3f2kzuank3g/AABoV9NF5PewF1Zwg8rxoVqRa?dl=0) |
 1    | 04/06 (Thu) | [Basics: Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/5xqopi8t74s2hp6/AAAYz3mo9iWOsA1ZoLwiuCQca?dl=0) | HW1 out
 2    | 04/11 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/sh/h99resj6iqrw1fg/AAA7TR6x7zLASY6BWeQmOFTQa?dl=0) |
-2    | 04/13 (Thu) | Language Models: from N-Gram to Neural LMs |
+2    | 04/13 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/e0nenfh6la9tmny/AAAK6XJh7ojJaq_9A6VGMc80a?dl=0) |
 3    | 04/18 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
 3    | 04/20 (Thu) | Sentiment Analysis and Document Classification |
 4    | 04/25 (Tue) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due (before lecture time), DM challenge roll-out
