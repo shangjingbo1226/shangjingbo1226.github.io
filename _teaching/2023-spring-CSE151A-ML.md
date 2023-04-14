@@ -144,7 +144,7 @@ Homework (60%)
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
 - **HW1: Concepts and Evaluations (15%). [151A HW1](https://www.dropbox.com/s/jp00907jek6ihvb/CSE%20151A%20HW1.zip?dl=0) [251A HW1](https://www.dropbox.com/s/agr7wklrwogdyb5/CSE%20251A%20HW1.zip?dl=0)** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **HW2: KNN and Linear Models (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **HW2: KNN and Linear Models (15%). [151A HW2](https://www.dropbox.com/s/iobynioeu6098e5/CSE-151A-HW2.zip?dl=0) [251A HW2](https://www.dropbox.com/s/ex9hb5msce2n3wg/CSE-251A-HW2.zip?dl=0)** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
