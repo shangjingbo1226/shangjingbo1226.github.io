@@ -120,8 +120,8 @@ Week | Date        | Topic & Slides                                             
 1    | 04/06 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/6c1jjhqodhutwh1/AACaSynpzebBAoEXklnm8sLaa?dl=0) |
 2    | 04/11 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/sh/b3l27vrcjil73od/AABJYSVxVS0E4d-9yD8DLI3Oa?dl=0) | HW1 due
 2    | 04/13 (Thu) | [Gradients and Optimization](https://www.dropbox.com/sh/rn6wojuojglhno3/AABcSfMBsUO_PowHRi-PUgJKa?dl=0) | HW2 out
-3    | 04/18 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
-3    | 04/20 (Thu) | Overfitting and Regularization | 
+3    | 04/18 (Tue) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/sh/c40zr5jq788960g/AABRU3hm1aZVGpvcNEaGhwOFa?dl=0) |
+3    | 04/20 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/sh/ijv4vszp2xklwdk/AACYayVDlRpX6yi9iPEnPE8Ha?dl=0) | 
 4    | 04/25 (Tue) | Support Vector Machine (SVM) | 
 4    | 04/27 (Thu) | SVM: Duality and Kernel | HW2 due, HW3 out
 5    | 05/02 (Tue) | K-Means Clustering & its Variants |
@@ -144,7 +144,7 @@ Homework (60%)
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
 - **HW1: Concepts and Evaluations (15%). [151A HW1](https://www.dropbox.com/s/jp00907jek6ihvb/CSE%20151A%20HW1.zip?dl=0) [251A HW1](https://www.dropbox.com/s/agr7wklrwogdyb5/CSE%20251A%20HW1.zip?dl=0)** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **HW2: KNN and Linear Models (15%). [151A HW2](https://www.dropbox.com/s/iobynioeu6098e5/CSE-151A-HW2.zip?dl=0) [251A HW2](https://www.dropbox.com/s/ex9hb5msce2n3wg/CSE-251A-HW2.zip?dl=0)** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **HW2: KNN and Linear Models (15%). [151A HW2](https://www.dropbox.com/s/iobynioeu6098e5/CSE-151A-HW2.zip?dl=0) [251A HW2](https://www.dropbox.com/s/fenuf0qxoa3bjf9/CSE-251A-HW2_Apr14.zip?dl=0)** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.

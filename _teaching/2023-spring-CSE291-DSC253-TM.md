@@ -67,8 +67,8 @@ Week | Date        | Topic & Slides                                             
 1    | 04/06 (Thu) | [Basics: Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/5xqopi8t74s2hp6/AAAYz3mo9iWOsA1ZoLwiuCQca?dl=0) | HW1 out
 2    | 04/11 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/sh/h99resj6iqrw1fg/AAA7TR6x7zLASY6BWeQmOFTQa?dl=0) |
 2    | 04/13 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/e0nenfh6la9tmny/AAAK6XJh7ojJaq_9A6VGMc80a?dl=0) |
-3    | 04/18 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
-3    | 04/20 (Thu) | Sentiment Analysis and Document Classification |
+3    | 04/18 (Tue) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/sh/9nfa5a6jswl5lyd/AADe6MVsAoC81Fn-bXZ7sMyxa?dl=0) | Project Proposal Due (End of the Day)
+3    | 04/20 (Thu) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/sh/8fersonuouafwep/AABZhZDnmndupRu7-wC5VioOa?dl=0) |
 4    | 04/25 (Tue) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due (before lecture time), DM challenge roll-out
 4    | 04/27 (Thu) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
 5    | 05/02 (Tue) | Entity Set Expansion: from Seed Words to Sets |
