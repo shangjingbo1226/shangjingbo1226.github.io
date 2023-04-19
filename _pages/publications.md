@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Minimally Supervised Contextual Inference from Human Mobility: An Iterative Collaborative Distillation Framework<br/>
+Jiayun Zhang, Xinyang Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **IJCAI** 2023. 
 * Towards Diverse and Coherent Augmentation for Time-Series Forecasting<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **ICASSP** 2023.  
 * On Compositional Uncertainty Quantification for Seq2seq Graph Parsing<br/>
