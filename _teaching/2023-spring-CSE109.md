@@ -55,8 +55,8 @@ Lecture Schedule
 Date | Topic & Slides | Homework | Additional Notes
 04/03 | [Introduction](https://www.dropbox.com/sh/83nk7u808jalodg/AACOlymTzWEOD_CE9yT_iL8wa?dl=0) | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
 04/10 | [Ad Hoc, Simulation & Search](https://www.dropbox.com/sh/g5g4m6zl9yhgui2/AABeyihISU0moffF-VdksvWKa?dl=0) | Problem Set #1 |
-04/17 | Dynamic Programming (Simple) | Problem Set #2 |
-04/24 | Basic Graph Algorithms | Problem Set #3 |
+04/17 | [Dynamic Programming (Simple)](https://www.dropbox.com/sh/or6hatlrh5fc547/AACUqgxPy0eifcI1pwe6gnGIa?dl=0) | Problem Set #2 |
+04/24 | [Basic Graph Algorithms](https://www.dropbox.com/sh/omir069sdb9095y/AAD8dUXgDZWxGthHfT7U032ga?dl=0) | Problem Set #3 |
 05/01 | Computational Geometry | Problem Set #4 |
 05/08 | Dynamic Programming (Intermediate) | Problem Set #5 |
 05/15 | Combinatorics and Algebra |  Problem Set #6 |
