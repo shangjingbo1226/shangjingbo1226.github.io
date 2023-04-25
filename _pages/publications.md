@@ -15,6 +15,10 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Gradient-based Wang--Landau Algorithm: A Novel Sampler for Output Distribution of Neural Networks over the Input Space<br/>
+Weitang Liu, Yi-Zhuang You, Ying Wai Li and Jingbo Shang. **ICML** 2023. [[arXiv:2302.09484](https://arxiv.org/abs/2302.09484)]
+* Understand and Modularize Generator Optimization in ELECTRA-style Pretraining<br/>
+Chengyu Dong, Liyuan Liu, Hao Cheng, Jingbo Shang, Jianfeng Gao and Xiaodong Liu. **ICML** 2023.
 * Minimally Supervised Contextual Inference from Human Mobility: An Iterative Collaborative Distillation Framework<br/>
 Jiayun Zhang, Xinyang Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **IJCAI** 2023. 
 * Towards Diverse and Coherent Augmentation for Time-Series Forecasting<br/>
