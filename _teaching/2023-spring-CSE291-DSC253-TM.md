@@ -89,7 +89,7 @@ Homework (30%)
 
 - **HW1.** Text Classification with Different Techniques. [HW1.zip](https://www.dropbox.com/s/3yy3fwhi602pgbt/HW-1.zip?dl=0)
     - Due: April 25, before lecture time
-- **HW2.** Phrase Mining Applications and Future Work. 
+- **HW2.** Phrase Mining Applications and Future Work. [HW2.pdf](https://drive.google.com/file/d/1hmtfAgvuFH1GVDKYaLI8L9F3DJnqrmdP/view?usp=share_link)
     - Due: May 23, before lecture time
 
 Data Mining Challenge (30%)
@@ -98,8 +98,9 @@ Data Mining Challenge (30%)
 It is a individual-based text mining competition with quantitative evaluation. 
 The challenge runs **from April 25 2023 0:00:01 AM to May 25, 2023 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: [dm_files.zip](https://www.dropbox.com/s/mftzpo0ttz05g0w/dm_files.zip?dl=0)
+- [Kaggle challenge link](https://www.kaggle.com/competitions/2023-ucsd-cse291-data-driven-text-mining)
+- [Survey to map Kaggle account name to student names](https://docs.google.com/forms/d/e/1FAIpQLSdHf-65yxD9aiKcDEz0ql1Knm84gHqAwLx34p1Bdw8prvDBzQ/viewform?usp=sf_link)
 
 Project (40%)
 ======
