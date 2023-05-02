@@ -124,9 +124,9 @@ Week | Date        | Topic & Slides                                             
 3    | 04/20 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/sh/ijv4vszp2xklwdk/AACYayVDlRpX6yi9iPEnPE8Ha?dl=0) | 
 4    | 04/25 (Tue) | [Support Vector Machine (SVM)](https://www.dropbox.com/sh/6twjn6mpa1jvdab/AAAUdDTzVi2Sl0SdmSMP83N7a?dl=0) | 
 4    | 04/27 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/sh/5tuqxb3277h0cjr/AAC9-z5ZUFdNfuoouMOyGuvRa?dl=0) | HW2 due, HW3 out
-5    | 05/02 (Tue) | K-Means Clustering & its Variants |
-5    | 05/04 (Thu) | "Soft" Clustering: Gaussian Mixture |
-6    | 05/09 (Tue) | Principle Component Analysis |
+5    | 05/02 (Tue) | [K-Means Clustering & its Variants](https://www.dropbox.com/sh/dz9ewcybutkbiff/AADZlcjmqpyX22Y6kft2rG6Sa?dl=0) |
+5    | 05/04 (Thu) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/sh/x6kjv78uznkfatb/AAB1e0zxBTlBbsJTXVpisqSoa?dl=0) |
+6    | 05/09 (Tue) | [Principle Component Analysis](https://www.dropbox.com/sh/nh85lpbyxt70vxi/AAA-dQiVgDJGPD5rQB6Itgapa?dl=0) |
 6    | 05/11 (Thu) | **Midterm** (no class, take-home, 24-hour) |
 7    | 05/16 (Tue) | Naive Bayes and Decision Tree | HW4 out
 7    | 05/18 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
