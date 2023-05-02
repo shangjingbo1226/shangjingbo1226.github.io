@@ -20,7 +20,7 @@ Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang and Jinho D. Choi. **ACL** 2023.
 * A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches<br/>
 Zihan Wang, Tianle Wang, Dheeraj Mekala and Jingbo Shang. **ACL** (Findings) 2023. 
 * Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs<br/>
-Zijie Huang, Daheng Wang, Binxuan Huang, Chenwei Zhang, Jingbo Shang, Yan Liang, Zhengyang Wang, Xian Li, Christos Faloutsos, Yizhou Sun and Wei Wang<br/>. **ACL** (Findings) 2023.
+Zijie Huang, Daheng Wang, Binxuan Huang, Chenwei Zhang, Jingbo Shang, Yan Liang, Zhengyang Wang, Xian Li, Christos Faloutsos, Yizhou Sun and Wei Wang. **ACL** (Findings) 2023.
 * PV2TEA: Patching Visual Modality to Textual-Established Product Attribute Extraction<br/>
 Hejie Cui, Rongmei Lin, Nasser Zalmout, Chenwei Zhang, Jingbo Shang, Carl Yang and Xian Li. **ACL** (Findings) 2023.
 * Gradient-based Wang--Landau Algorithm: A Novel Sampler for Output Distribution of Neural Networks over the Input Space<br/>
