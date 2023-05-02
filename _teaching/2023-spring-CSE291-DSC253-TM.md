@@ -71,8 +71,8 @@ Week | Date        | Topic & Slides                                             
 3    | 04/20 (Thu) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/sh/8fersonuouafwep/AABZhZDnmndupRu7-wC5VioOa?dl=0) |
 4    | 04/25 (Tue) | [Topic Modeling: PLSA, LDA, and HMM](https://www.dropbox.com/sh/2uz3v12jsw9mx4y/AACPM6UaOfve7gtpDxdJjMJ6a?dl=0) | HW1 Due (before lecture time), DM challenge roll-out
 4    | 04/27 (Thu) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/sh/ixqendkcxvmhp4l/AAAr9YLJcU85Tg7wQaKnFd9Aa?dl=0) | HW2 out
-5    | 05/02 (Tue) | Entity Set Expansion: from Seed Words to Sets |
-5    | 05/04 (Thu) | Entity Recognition: from Supervised to Data-Driven |
+5    | 05/02 (Tue) | [Entity Set Expansion: from Seed Words to Sets](https://www.dropbox.com/sh/0l28dykay654xvr/AAAmlomtA98SXPSWwFtzizj6a?dl=0) |
+5    | 05/04 (Thu) | [Entity Recognition: from Supervised to Data-Driven](https://www.dropbox.com/sh/jhpu7lzxd4k8ed1/AACdzwvmndoUk9rCRDyohUcQa?dl=0) |
 6    | 05/09 (Tue) | Relation Extraction and Attribute Discovery |
 6    | 05/11 (Thu) | Text-Rich Network: a Collaboration between Texts and Networks |
 7    | 05/16 (Tue) | Topic Taxonomy Construction |
