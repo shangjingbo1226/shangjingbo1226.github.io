@@ -58,7 +58,7 @@ Date | Topic & Slides | Homework | Additional Notes
 04/17 | [Dynamic Programming (Simple)](https://www.dropbox.com/sh/or6hatlrh5fc547/AACUqgxPy0eifcI1pwe6gnGIa?dl=0) | Problem Set #2 |
 04/24 | [Basic Graph Algorithms](https://www.dropbox.com/sh/omir069sdb9095y/AAD8dUXgDZWxGthHfT7U032ga?dl=0) | Problem Set #3 |
 05/01 | [Computational Geometry](https://www.dropbox.com/sh/ctb8r7mdny0wcf8/AADAFajpMKdd4r_0hO65lG1Ta?dl=0) | Problem Set #4 |
-05/08 | Dynamic Programming (Intermediate) | Problem Set #5 |
+05/08 | [Dynamic Programming (Intermediate)](https://www.dropbox.com/sh/wf3cf002j5abvk7/AACmgmNcei79DZpZ7jTcbkgIa?dl=0) | Problem Set #5 |
 05/15 | Combinatorics and Algebra |  Problem Set #6 |
 05/22 | Network Flow | Problem Set #7 | 
 05/29 | No Class (Memorial Day) | |
