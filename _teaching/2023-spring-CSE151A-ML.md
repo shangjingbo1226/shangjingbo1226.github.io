@@ -156,5 +156,5 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: May 11, 9:30 AM PT
 - **End**: May 12, 9:30 AM PT
-- Midterm problems download: TBD
+- Midterm problems download: [151A](https://www.dropbox.com/s/nuqwoznbaygqwnc/CSE151A_23SP_Midterm-final2.0.pdf?dl=0) [251A](https://www.dropbox.com/s/hkwduotr53ib32g/CSE251A_23SP_Midterm__2_0_.pdf?dl=0)
 - Please **make your submissions on Gradescope**.
