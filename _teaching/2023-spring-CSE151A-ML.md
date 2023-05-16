@@ -128,7 +128,7 @@ Week | Date        | Topic & Slides                                             
 5    | 05/04 (Thu) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/sh/x6kjv78uznkfatb/AAB1e0zxBTlBbsJTXVpisqSoa?dl=0) |
 6    | 05/09 (Tue) | [Principle Component Analysis](https://www.dropbox.com/sh/nh85lpbyxt70vxi/AAA-dQiVgDJGPD5rQB6Itgapa?dl=0) |
 6    | 05/11 (Thu) | **Midterm** (no class, take-home, 24-hour) |
-7    | 05/16 (Tue) | Naive Bayes and Decision Tree | HW4 out
+7    | 05/16 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/sh/efql24zb2lfedio/AABTaiOAGZSI7k114HvjV8Aka?dl=0) | HW4 out
 7    | 05/18 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
 8    | 05/23 (Tue) | Multi-class Classification |
 8    | 05/25 (Thu) | Feed-forward Neural Networks |
