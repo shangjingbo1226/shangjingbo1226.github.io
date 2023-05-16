@@ -15,6 +15,12 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Navigating Alignment For Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework<br/>
+Jiayun Zhang, Xiyuan Zhang, Xinyang Zhang, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **KDD** 2023.
+* UCEpic: Unifying Aspect Planning and Lexical Constraints for Generating Explanations in Recommendation<br/>
+Jiacheng Li, Zhankui He, Jingbo Shang and Julian McAuley. **KDD** 2023.
+* Text Is All You Need: Learning Language Representations for Sequential Recommendation<br/>
+Jiacheng Li, Ming Wang, Jin Li, Jinmiao Fu, Xin Shen, Jingbo Shang and Julian McAuley. **KDD** 2023.
 * Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach<br/>
 Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang and Jinho D. Choi. **ACL** 2023.
 * A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches<br/>
