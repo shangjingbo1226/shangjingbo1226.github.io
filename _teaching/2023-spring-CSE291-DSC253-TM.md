@@ -79,7 +79,7 @@ Week | Date        | Topic & Slides                                             
 7    | 05/18 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/sh/9ikaxds2ovgptvo/AACRxpIhgSvWxs6sb00MYXzya?dl=0) |
 8    | 05/23 (Tue) | [Learning with Noisy Data](https://www.dropbox.com/sh/6fmq4w94tnz0ulr/AABqbrA-s-n3YRmPTRFlh6S9a?dl=0) | HW2 due (before lecture time)
 8    | 05/25 (Thu) | [Label Bias in Weak Supervision & Few-shot NER](https://www.dropbox.com/sh/ey1vqvb6iqbgxva/AAAUmmtS7fks0pu_IJoD3bgCa?dl=0) | DM challenge due
-9    | 05/30 (Tue) | (tentative) Large Language Models (ChatGPT, GPT-4, Bard, LLaMa, etc) | 
+9    | 05/30 (Tue) | [Large Language Models](https://www.dropbox.com/sh/tr2dcpurss6in5b/AADEDy7oOpkHz5yvSBjSiThfa?dl=0) | 
 9    | 06/01 (Thu) | Project Presentations                                           |
 10   | 06/06 (Tue) | Project Presentations                                           |
 10   | 06/08 (Thu) | Project Presentations                                           |
