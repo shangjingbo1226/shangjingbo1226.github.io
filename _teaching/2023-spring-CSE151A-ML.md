@@ -147,7 +147,7 @@ Your lowest (of five) homework grades is dropped (or one homework can be skipped
 - **HW2: KNN and Linear Models (15%). [151A HW2](https://www.dropbox.com/s/iobynioeu6098e5/CSE-151A-HW2.zip?dl=0) [251A HW2](https://www.dropbox.com/s/fenuf0qxoa3bjf9/CSE-251A-HW2_Apr14.zip?dl=0)** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%). [151A HW3](https://www.dropbox.com/s/uaiwd75vworpe76/CSE-151A-HW3.zip?dl=0) [251A HW3](https://www.dropbox.com/s/fb4hxn456lh77mk/CSE251%20HW3%20SP23.zip?dl=0)** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%). [151A HW4](https://www.dropbox.com/s/2x8notimnv78yfk/CSE151A-SP23-HW4.zip?dl=0) [251A HW4](https://www.dropbox.com/s/b9svm6hy0jjnnai/CSE-251A-HW4.zip?dl=0)** This homework mainly focuses on decision tree, random forest, and AdaBoost.
-- **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
+- **HW5: Neural Networks (15%). [151A HW5](https://www.dropbox.com/s/g6nw9755peofs70/CSE%20151A-HW5.zip?dl=0) [251A HW5](https://www.dropbox.com/s/zawqpq09wrfhm73/CSE%20251A-HW5.zip?dl=0)** This homework mainly focuses on implementation of some simple neural networks.
 
 Midterm (40%)
 ======
