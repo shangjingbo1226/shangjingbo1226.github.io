@@ -60,9 +60,9 @@ Date | Topic & Slides | Homework | Additional Notes
 05/01 | [Computational Geometry](https://www.dropbox.com/sh/ctb8r7mdny0wcf8/AADAFajpMKdd4r_0hO65lG1Ta?dl=0) | Problem Set #4 |
 05/08 | [Dynamic Programming (Intermediate)](https://www.dropbox.com/sh/wf3cf002j5abvk7/AACmgmNcei79DZpZ7jTcbkgIa?dl=0) | Problem Set #5 |
 05/15 | [Combinatorics and Algebra](https://www.dropbox.com/sh/u72i5dcdahdn88a/AADvHiqrNhcIxG7xFSyzzxfxa?dl=0) |  Problem Set #6 |
-05/22 | Network Flow | Problem Set #7 | 
+05/22 | [Network Flow](https://www.dropbox.com/sh/6y5kozj6kxyom2n/AAC3tRiG1iDicMrdnq__4vOza?dl=0) | Problem Set #7 | 
 05/29 | No Class (Memorial Day) | |
-06/05 | Segment Tree | Problem Set #8 |
+06/05 | [Segment Tree](https://www.dropbox.com/sh/1u94bx93x329n4v/AADBXztvG8ysKYNf1qLvCkx0a?dl=0) | Problem Set #8 |
 
 
 Homework and Grading Policy
