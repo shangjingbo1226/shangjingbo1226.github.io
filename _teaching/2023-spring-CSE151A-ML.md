@@ -135,7 +135,7 @@ Week | Date        | Topic & Slides                                             
 9    | 05/30 (Tue) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/sh/pl1mi26a06q9ns3/AAC5Mftg4DWcNGVI3zdQKQora?dl=0)  | HW4 due, HW5 out
 9    | 06/01 (Thu) | [Semi-supervised and Weakly-supervised Learning](https://www.dropbox.com/sh/ns0pkelu1eztq9o/AAD4HyJjZp1-Wnu3i7TW0rvPa?dl=0) | 
 10   | 06/06 (Tue) | [Learning with Noisy/Biased Data](https://www.dropbox.com/sh/z1x46zuabiow4az/AABrx9zZWmWpABSgMZpdQYFXa?dl=0) |
-10   | 06/08 (Thu) | (tentative) Large Language Models | HW5 due
+10   | 06/08 (Thu) | [Large Language Models](https://www.dropbox.com/sh/l0s7ea24nutd5lf/AACOP8SAHXOTq91GcIkqQmUia?dl=0) | HW5 due
 
 
 Homework (60%)
