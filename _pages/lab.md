@@ -168,16 +168,6 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/lesheng jin.jpeg" class="author__avatar" alt="Lesheng Jin">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
             <img src="/images/img/students/sudhanshu rajan.jpg" class="author__avatar" alt="Sudhanshu Ranjan">
       </div>
       <div class="author__content">
@@ -211,6 +201,16 @@ Lab Alumni
 ## Masters
 
 <div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/lesheng jin.jpeg" class="author__avatar" alt="Lesheng Jin">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a><br/>(2023 -> OctoML as MLSys Engineer )</p>
+      </div>
+      </center>
+    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
