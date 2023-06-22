@@ -7,8 +7,10 @@ author_profile: true
 
 <p align="center">
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
-</p>
+</p> 
 
+🏆 **NSF CAREER Award**, 2023
+<br/>
 🏆 Google Research Scholar Award, 2021
 <br/>
 📢 HDSI@UCSD: [Jingbo Shang, Runner-Up ACM SIGKDD Dissertation Award](https://datascience.ucsd.edu/jingbo-shang-wins-acm-sigkdd-dissertation-award/)
