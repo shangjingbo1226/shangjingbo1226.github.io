@@ -168,16 +168,6 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/sudhanshu rajan.jpg" class="author__avatar" alt="Sudhanshu Ranjan">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
             <img src="/images/img/students/prashant vaidyanathan.jpeg" class="author__avatar" alt="Prashant Vaidyanathan">
       </div>
       <div class="author__content">
@@ -190,8 +180,7 @@ Current Members
 ## Undergraduate Students
 
 
-- Colin Wang
-- Kewen Zhao
+
 
 <br/>
 
@@ -207,7 +196,17 @@ Lab Alumni
             <img src="/images/img/students/lesheng jin.jpeg" class="author__avatar" alt="Lesheng Jin">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a><br/>(2023 -> OctoML as MLSys Engineer )</p>
+            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a><br/>(2023 -> OctoML as MLSys Engineer)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/sudhanshu rajan.jpg" class="author__avatar" alt="Sudhanshu Ranjan">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan</a><br/>(2023 -> AI/NLP startup)</p>
       </div>
       </center>
     </div>
@@ -265,6 +264,8 @@ Lab Alumni
 
 ## Bachelors
 
+- Colin Wang (2023 --> Princeton for Master study)
+- Kewen Zhao (2023 --> CMU for Master study)
 - Beilei He (2022 --> UPenn for Master study)
 - Yuxuan Fan (2022 --> Startup)
 - Zhenyu Bi (2021 --> CMU for Master study)
