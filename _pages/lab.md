@@ -277,8 +277,12 @@ Lab Alumni
 
 Acknowledgement
 ======
-Our work is sponsored in part by NSF Convergence Accelerator under award OIA-2040727, NIH Bridge2AI Center Program under award 1U54HG012510-01, as well as generous gifts from Google, Adobe, and Teradata.
+Our work is sponsored in part by NSF CAREER Award 2239440, NIH Bridge2AI Center Program under award 1U54HG012510-01, as well as generous gifts from Google, Adobe, and Teradata.
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
 The U.S. Government is authorized to reproduce and distribute reprints for government purposes not withstanding any copyright annotation hereon.
+
+**Previous Support**:
+
+- Convergence Accelerator under award OIA-2040727.
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
