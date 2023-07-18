@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Learning Concise and Descriptive Attributes for Visual Recognition<br/>
+An Yan, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley. **ICCV** 2023. 
 * Navigating Alignment For Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework<br/>
 Jiayun Zhang, Xiyuan Zhang, Xinyang Zhang, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **KDD** 2023.
 * UCEpic: Unifying Aspect Planning and Lexical Constraints for Generating Explanations in Recommendation<br/>
