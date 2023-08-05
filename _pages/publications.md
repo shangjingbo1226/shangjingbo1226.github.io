@@ -15,6 +15,10 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* WOT-Class: Weakly Supervised Open-world Text Classification<br/>
+Tianle Wang, Zihan Wang, Weitang Liu and Jingbo Shang. **CIKM** 2023.
+* Unleashing the Power of Shared Label Structures for Human Activity Recognition<br/>
+Xiyuan Zhang, Ranak Roy Chowdhury, Jiayun Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **CIKM** 2023.
 * Learning Concise and Descriptive Attributes for Visual Recognition<br/>
 An Yan, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley. **ICCV** 2023. 
 * Navigating Alignment For Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework<br/>
