@@ -103,6 +103,46 @@ Current Members
       </div>
       </center>
     </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/xintong li.jpg" class="author__avatar" alt="Xintong Li">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://kaylee0501.github.io/">Xintong Li</a><br/>(2023 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/letian peng.jpg" class="author__avatar" alt="Letian Peng">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://komeijiforce.github.io/">Leitian Peng</a><br/>(2023 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/feng yao.jpg" class="author__avatar" alt="Feng Yao">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://yaof20.github.io/">Feng Yao</a><br/>(2023 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/yuwei zhang.jpg" class="author__avatar" alt="Yuwei Zhang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zhang-yu-wei.github.io/">Yuwei Zhang</a><br/>(2023 - )</p>
+      </div>
+      </center>
+    </div>
 </div>
 
 
@@ -226,7 +266,7 @@ Lab Alumni
             <img src="/images/img/students/jimin mun.jpeg" class="author__avatar" alt="JiMin Mun">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/jimin-mun/">JiMin Mun</a><br/>(2021 --> Salesforce)</p>
+            <p><a href = "https://www.linkedin.com/in/jimin-mun/">JiMin Mun</a><br/>(2021 --> Salesforce --> CMU for PhD study)</p>
       </div>
       </center>
     </div>
