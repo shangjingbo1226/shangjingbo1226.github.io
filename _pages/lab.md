@@ -215,6 +215,17 @@ Current Members
       </div>
       </center>
     </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/tianle wang.jpg" class="author__avatar" alt="Tianle Wang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://wtl666wtl.github.io/">Tianle Wang</a><br/>(2023 - )</p>
+      </div>
+      </center>
+    </div>
+
 </div>
 
 ## Undergraduate Students
