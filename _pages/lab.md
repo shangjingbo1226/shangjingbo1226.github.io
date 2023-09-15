@@ -119,7 +119,7 @@ Current Members
             <img src="/images/img/students/letian peng.jpg" class="author__avatar" alt="Letian Peng">
       </div>
       <div class="author__content">
-            <p><a href = "https://komeijiforce.github.io/">Leitian Peng</a><br/>(2023 - )</p>
+            <p><a href = "https://komeijiforce.github.io/">Letian Peng</a><br/>(2023 - )</p>
       </div>
       </center>
     </div>
