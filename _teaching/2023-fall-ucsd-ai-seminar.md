@@ -28,7 +28,7 @@ Week | Date  | Talk Info | Speaker | Affiliation
 3    | 10/16 | [Learning from Weak Supervision: Label Noise or Bias?](#week3) [slides] [recording] | Jingbo Shang | UC San Diego
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
 5    | 10/30 | [Title TBD](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
-6    | 11/06 | [Title TBD](#week6) [slides] [recording] | Alexander Rush | Cornell
+6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [slides] [recording] | Alexander Rush | Cornell
 7    | 11/13 | [Title TBD](#week7) [slides] [recording] | Xian Ren | USC
 8    | 11/20 | [Title TBD](#week8) [slides] [recording] | Yejin Choi | University of Washington
 9    | 11/27 | [Title TBD](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
@@ -88,15 +88,15 @@ TBD
 
 TBD
 
-## Week 6: TBD {#week6}
+## Week 6: Scaling Data-Constrained Language Model {#week6}
 
 ### Abstract
 
-TBD
+Extrapolating scaling trends suggest that training dataset size for LLMs may soon be limited by the amount of text data available on the internet. In this talk we investigate scaling language models in data-constrained regimes. Specifically, we run a set of empirical experiments varying the extent of data repetition and compute budget. From these experiments we propose and empirically validate a scaling law for compute optimality that accounts for the decreasing value of repeated tokens and excess parameters. Finally, we discuss and experiment with approaches for mitigating data scarcity.
 
 ### Speaker Bio
 
-TBD
+Alexander "Sasha" Rush is an Associate Professor at Cornell Tech and a researcher at Hugging Face. His research interest is in the study of language models with applications in controllable text generation, efficient inference, and applications in summarization and information extraction. In addition to research, he has written several popular open-source software projects supporting NLP research, programming for deep learning, and virtual academic conferences. His projects have received paper and demo awards at major NLP, visualization, and hardware conferences, an NSF Career Award and Sloan Fellowship. He tweets at @srush_nlp. 
 
 ## Week 7: TBD {#week7}
 
