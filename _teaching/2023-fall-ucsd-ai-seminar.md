@@ -29,8 +29,7 @@ Week | Date  | Talk Info | Speaker | Affiliation
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
 5    | 10/30 | [Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [slides] [recording] | Alexander Rush | Cornell
-7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning? 
-](#week7) [slides] [recording] | Xiang Ren | USC
+7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning?](#week7) [slides] [recording] | Xiang Ren | USC
 8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [recording] | Yejin Choi | University of Washington
 9    | 11/27 | [Title TBD](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
 10   | 12/04 | [Title TBD](#week10) [slides] [recording]| Alex Tamkin | UC San Diego
