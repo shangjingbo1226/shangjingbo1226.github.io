@@ -24,13 +24,13 @@ Lecture Schedule
 
 Week | Date  | Talk Info | Speaker | Affiliation 
 1    | 10/02 | [Build an Ecosystem, Not a Monolith](#week1) [slides] [recording]| Colin Raffel | University of Toronto and Hugging Face
-2    | 10/09 | [Title TBD](#week2) [slides] [recording]| Yu Su | Ohio State University | 
+2    | 10/09 | [Language agents: a critical evolutionary step of AI](#week2) [slides] [recording]| Yu Su | Ohio State University | 
 3    | 10/16 | [Learning from Weak Supervision: Label Noise or Bias?](#week3) [slides] [recording] | Jingbo Shang | UC San Diego
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
-5    | 10/30 | [Title TBD](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
+5    | 10/30 | [Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [slides] [recording] | Alexander Rush | Cornell
 7    | 11/13 | [Title TBD](#week7) [slides] [recording] | Xian Ren | USC
-8    | 11/20 | [Title TBD](#week8) [slides] [recording] | Yejin Choi | University of Washington
+8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [recording] | Yejin Choi | University of Washington
 9    | 11/27 | [Title TBD](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
 10   | 12/04 | [Title TBD](#week10) [slides] [recording]| Alex Tamkin | UC San Diego
 
@@ -45,16 +45,17 @@ Bio: Colin Raffel is an associate professor at the University of Toronto and a f
 
 Colin Raffel is an associate professor at the University of Toronto and a faculty researcher at Hugging Face. His work aims to make it easy to get computers to do new things.
 
-## Week 2: TBD {#week2}
+## Week 2: Language agents: a critical evolutionary step of AI {#week2}
 
 ### Abstract
 
-TBD
+A heated ongoing discussion in AI is language agents that, powered by large language models (LLMs), can follow instructions to autonomously carry out complex tasks in real-world environments. However, the concept of agent has been introduced into AI for decades, so what's different this time around? I argue that a fundamental change is the capability of using language as a vehicle for both thought and communication, a trait that was unique to humans. Language was immensely critical for the evolution of biological intelligence, and now artificial intelligence seems to be following a similar evolutionary path.
+
+In this talk, I will first describe a possible conceptual framework for language agents and touch on important topics such as memory, tool use, grounding, and reasoning. I will then briefly introduce several of our recent work on language agents, including 1) Mind2Web, that aims to develop generalist language agents for real-world website, 2) LLM-Planner, that leverages LLMs for robot planning to interact with physical environments, and 3) Pangu, a generic neurosymbolic framework for developing language agents for different environments, which features a symbolic agent and a neural LM working in a concerted fashion.
 
 ### Speaker Bio
 
-TBD
-
+Yu Su is a Distinguished Assistant Professor of Engineering at the Ohio State University. He obtained his Ph.D. from University of California, Santa Barbara and his bachelor's degree from Tsinghua University. He co-directs the OSU NLP group and serves in leadership roles in multiple national AI institutes. He has broad interests in developing artificial intelligence, with a primary interest in the role of language as a vehicle of thought and communication. His research has received Outstanding Paper Awards from ACL and COLING and his work at Microsoft has led to a new conversational interface for Microsoft Outlook.
 
 ## Week 3: Learning from Weak Supervision: Label Noise or Bias? {#week3}
 
@@ -78,15 +79,15 @@ This talk is based on joint work with Zixiang Chen, Junkai Zhang, Yiwen Kou, Xia
 
 Quanquan Gu is an Associate Professor of Computer Science at UCLA. His research is in the area of artificial intelligence and machine learning, with a focus on developing and analyzing nonconvex optimization algorithms for machine learning to understand large-scale, dynamic, complex, and heterogeneous data and building the theoretical foundations of deep learning and reinforcement learning. He received his Ph.D. degree in Computer Science from the University of Illinois at Urbana-Champaign in 2014. He is a recipient of the Sloan Research Fellowship, NSF CAREER Award, Simons Berkeley Research Fellowship among other industrial research awards.
 
-## Week 5: TBD {#week5}
+## Week 5: Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents {#week5}
 
 ### Abstract
 
-TBD
+How can we build autonomous agents that benefit from large-scale (pre-)training while still exhibiting emergent and flexible behavior? In this talk, I will discuss recent innovations in terms of algorithms, models, and large scale applications that can bring us closer to uniting the power of large datasets with the flexibility of reinforcement learning, to make it possible to train systems that can generalize as broadly as large-scale supervised systems while solving new problems in new ways. I will discuss the algorithmic foundations of offline reinforcement learning, discuss applications in robotics, language modeling, and image generation, and present some recent large-scale robotic learning efforts that provide us with a preview of what such future autonomous systems might look like.
 
 ### Speaker Bio
 
-TBD
+Sergey Levine received a BS and MS in Computer Science from Stanford University in 2009, and a Ph.D. in Computer Science from Stanford University in 2014. He joined the faculty of the Department of Electrical Engineering and Computer Sciences at UC Berkeley in fall 2016. His work focuses on machine learning for decision making and control, with an emphasis on deep learning and reinforcement learning algorithms. Applications of his work include autonomous robots and vehicles, as well as applications in other decision-making domains. His research includes developing algorithms for end-to-end training of deep neural network policies that combine perception and control, scalable algorithms for inverse reinforcement learning, deep reinforcement learning algorithms, and more.
 
 ## Week 6: Scaling Data-Constrained Language Model {#week6}
 
@@ -108,15 +109,15 @@ TBD
 
 TBD
 
-## Week 8: TBD {#week8}
+## Week 8: Possible Impossibilities and Impossible Possibilities {#week8}
 
 ### Abstract
 
-TBD
+In this talk, I will question if there can be possible impossibilities of large language models  (i.e., the fundamental limits of transformers, if any) and the impossible possibilities of language models (i.e., seemingly impossible alternative paths beyond scale, if at all). 
 
 ### Speaker Bio
 
-TBD
+Yejin Choi is Wissner-Slivka Professor and a MacArthur Fellow at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She is also a senior director at AI2 overseeing the project Mosaic and a Distinguished Research Fellow at the Institute for Ethics in AI at the University of Oxford. Her research investigates if (and how) AI systems can learn commonsense knowledge and reasoning, if machines can (and should) learn moral reasoning, and various other problems in NLP, AI, and Vision including neuro-symbolic integration, language grounding with vision and interactions, and AI for social good. She is a co-recipient of 2 Test of Time Awards (at ACL 2021 and ICCV 2021), 7 Best/Outstanding Paper Awards (at ACL 2023, NAACL 2022, ICML 2022, NeurIPS 2021, AAAI 2019, and ICCV 2013), the Borg Early Career Award (BECA) in 2018, the inaugural Alexa Prize Challenge in 2017, and IEEE AI's 10 to Watch in 2016.
 
 
 ## Week 9: TBD {#week9}
