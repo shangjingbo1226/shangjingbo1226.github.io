@@ -29,7 +29,8 @@ Week | Date  | Talk Info | Speaker | Affiliation
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
 5    | 10/30 | [Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [slides] [recording] | Alexander Rush | Cornell
-7    | 11/13 | [Title TBD](#week7) [slides] [recording] | Xian Ren | USC
+7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning? 
+](#week7) [slides] [recording] | Xiang Ren | USC
 8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [recording] | Yejin Choi | University of Washington
 9    | 11/27 | [Title TBD](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
 10   | 12/04 | [Title TBD](#week10) [slides] [recording]| Alex Tamkin | UC San Diego
@@ -99,15 +100,15 @@ Extrapolating scaling trends suggest that training dataset size for LLMs may soo
 
 Alexander "Sasha" Rush is an Associate Professor at Cornell Tech and a researcher at Hugging Face. His research interest is in the study of language models with applications in controllable text generation, efficient inference, and applications in summarization and information extraction. In addition to research, he has written several popular open-source software projects supporting NLP research, programming for deep learning, and virtual academic conferences. His projects have received paper and demo awards at major NLP, visualization, and hardware conferences, an NSF Career Award and Sloan Fellowship. He tweets at @srush_nlp. 
 
-## Week 7: TBD {#week7}
+## Week 7: Reflex or Reflect: When Do Language Tasks Need Slow Reasoning? {#week7}
 
 ### Abstract
 
-TBD
+Large language models, such as GPT-3, excel at generating reflexive responses that mimic human-like language, but they fall short when it comes to complex reasoning that requires slower thinking, deeper reflection and a nuanced interpretation of language. This talk will share two lines of efforts in approaching the above problem. In the first part, I will introduce RICA and RobustRL, two benchmarks that expose language models to logical robustness challenges in language inference. The second part presents our exploration on transferring the Chain-of-Thoughts ability to smaller language models while enhancing model's logical consistency. We show that a smaller, distilled LM can yield dramatically better task accuracy and rationale-prediction consistency.
 
 ### Speaker Bio
 
-TBD
+Xiang Ren is an associate professor and Viterbi Early Career Chair at the USC Computer Science Department, a Research Team Leader at USC ISI, and the director of the Intelligence and Knowledge Discovery (INK) Lab at USC. Priorly, he spent time as a research scholar at the Stanford University and received his Ph.D. in Computer Science from the University of Illinois Urbana-Champaign. Ren's research seeks to build generalizable natural language processing (NLP) systems which can handle a wide variety of language tasks and situations. He works on new algorithms and datasets to make NLP systems cheaper to develop and maintain, arm machine models with common sense, and improve model's transparency and reliability to build user trust. His research work has received several best paper awards in top NLP and AI conference venues. Ren has been awarded a NSF CAREER Award, multiple faculty research awards from Google, Facebook, Amazon, JP Morgan and Sony, and the 2018 ACM SIGKDD Doctoral Dissertation Award.
 
 ## Week 8: Possible Impossibilities and Impossible Possibilities {#week8}
 
