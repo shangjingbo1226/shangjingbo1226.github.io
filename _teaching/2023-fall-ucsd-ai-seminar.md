@@ -1,7 +1,7 @@
 ---
 title: "UCSD CSE AI Seminar, Fall 2023"
 collection: teaching
-type: "Graduate Class"
+type: "Seminar & Graduate Course"
 permalink: /teaching/2023-fall-ucsd-ai-seminar
 venue: "CSE, UCSD"
 date: 2023-10-02
@@ -9,7 +9,7 @@ location: "La Jolla, CA"
 author_profile: false
 ---
 
-**Class Time**: Mondays, 12:30PM to 1:30PM.  **Room**: CSE 1202.  **Zoom Streaming**: [https://ucsd.zoom.us/j/92652773524](https://ucsd.zoom.us/j/92652773524).
+**Time**: Mondays, 12:30PM to 1:30PM.  **Room**: CSE 1202.  **Zoom Streaming**: [https://ucsd.zoom.us/j/92652773524](https://ucsd.zoom.us/j/92652773524).
 
 Overview
 ======
@@ -17,7 +17,7 @@ Overview
 UCSD CSE AI Seminar focuses on discussing the state-of-the-art methods in AI-related fields. We invite distinguished researchers to talk about their most recent works. For graduate students who want to earn course credits by attending this seminar, please enroll into CSE 259. 
 
 
-Lecture Schedule
+Talk Schedule
 ======
 
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
