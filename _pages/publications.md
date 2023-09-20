@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* Physics-Informed Data Denoising for Real-Life Sensing Systems<br/>
+Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, Ranak Roy Chowdhury, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang and Rajesh Gupta. **SenSys** 2023.
 * A Comparative Atlas of Single-cell Chromatin Accessibility in the Human Brain<br/>
 Yang Eric Li, Sebastian Preissl, Michael Miller, Nicholas D. Johnson, Zihan Wang, Henry Jiao, Chenxu Zhu, Zhaoning Wang, Yang Xie, Olivier Poirion, Colin Kern, Antonio Pinto-Duarte, Wei Tian, Kimberly Siletti, Nora Emerson, Julia Osteen, Jacinta Lucero, Lin Lin, Qian Yang, Quan Zhu, Sarah Espinoza, Anna Marie Yanny, Julie Nyhus, Nick Dee, Tamara Casper, Nadiya Shapovalova, Daniel Hirschstein, Rebecca D. Hodge, Sten Linnarsson, Trygve Bakken, Boaz Levi, C. Dirk Keene, Jingbo Shang, Ed S. Lein, Allen Wang, M. Margarita Behrens, Joseph R. Ecker and Bing Ren. **Science** 2023. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.11.09.515833v1.full)]
 * WOT-Class: Weakly Supervised Open-world Text Classification<br/>
