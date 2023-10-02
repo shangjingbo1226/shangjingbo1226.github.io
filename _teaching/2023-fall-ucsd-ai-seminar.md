@@ -23,7 +23,7 @@ Talk Schedule
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
 Week | Date  | Talk Info | Speaker | Affiliation 
-1    | 10/02 | [Build an Ecosystem, Not a Monolith](#week1) [slides] [recording]| Colin Raffel | University of Toronto and Hugging Face
+1    | 10/02 | [Build an Ecosystem, Not a Monolith](#week1) [slides] [[recording](https://www.dropbox.com/scl/fi/zt9rybncchqlwv9vhujc8/1-Colin-Raffel-Build-an-Ecosystem-Not-a-Monolith.mp4?rlkey=ixqmlz375umavgepoog61pvur&dl=0)]| Colin Raffel | University of Toronto and Hugging Face
 2    | 10/09 | [Language agents: a critical evolutionary step of AI](#week2) [slides] [recording]| Yu Su | Ohio State University | 
 3    | 10/16 | [Learning from Weak Supervision: Label Noise or Bias?](#week3) [slides] [recording] | Jingbo Shang | UC San Diego
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
