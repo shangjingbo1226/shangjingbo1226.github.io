@@ -15,6 +15,24 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2023
 
+* ClusterLLM: Large Language Models as a Guide for Text Clustering<br/>
+Yuwei Zhang, Zihan Wang and Jingbo Shang. **EMNLP** 2023.
+* Debiasing Made State-of-the-art: Revisiting the Simple Seed-based Weak Supervision for Text Classification<br/>
+Chengyu Dong, Zihan Wang and Jingbo Shang. **EMNLP** 2023. 
+* Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting<br/>
+William P Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2023.
+* Goal-Driven Explainable Clustering via Language Descriptions<br/>
+Zihan Wang, Jingbo Shang and Ruiqi Zhong. **EMNLP** 2023.
+* SELFOOD: Self-Supervised Out-Of-Distribution Detection via Learning to Rank<br/>
+Dheeraj Mekala, Adithya Samavedhi, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2023.
+* Less than One-shot: Named Entity Recognition via Extremely Weak Supervision<br/>
+Letian Peng, Zihan Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
+* Towards Zero-shot Relation Extraction in Web Mining: A Multimodal Approach with Relative XML Path<br/>
+Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
+* Retrieval-Augmented Parsing for Complex Graphs by Exploiting Structure and Uncertainty<br/>
+Zi Lin, Quan Yuan, Panupong Pasupat, Jeremiah Zhe Liu and Jingbo Shang. **EMNLP** (Findings) 2023.
+* Unveiling Hidden Challenges of Toxicity Detection in Real-World User-AI Conversation<br/>
+Zi Lin, Zihan Wang, Yongqi Tong, Yangkun Wang, Yuxin Guo, Yujia Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
 * Physics-Informed Data Denoising for Real-Life Sensing Systems<br/>
 Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, Ranak Roy Chowdhury, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang and Rajesh Gupta. **SenSys** 2023.
 * A Comparative Atlas of Single-cell Chromatin Accessibility in the Human Brain<br/>
