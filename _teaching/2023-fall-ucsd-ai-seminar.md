@@ -24,8 +24,8 @@ Talk Schedule
 
 Week | Date  | Talk Info | Speaker | Affiliation 
 1    | 10/02 | [Build an Ecosystem, Not a Monolith](#week1) [[slides](https://www.dropbox.com/scl/fi/3ckrrgfr52w0j03jivkuo/1-Colin-Raffel-Build-an-Ecosystem-Not-a-Monolith.pdf?rlkey=j380upb014seebhb8xgwcm38j&dl=0)] [[recording](https://www.dropbox.com/scl/fi/zt9rybncchqlwv9vhujc8/1-Colin-Raffel-Build-an-Ecosystem-Not-a-Monolith.mp4?rlkey=ixqmlz375umavgepoog61pvur&dl=0)]| Colin Raffel | University of Toronto and Hugging Face
-2    | 10/09 | [Language agents: a critical evolutionary step of AI](#week2) [slides] [recording]| Yu Su | Ohio State University | 
-3    | 10/16 | [Learning from Weak Supervision: Label Noise or Bias?](#week3) [slides] [recording] | Jingbo Shang | UC San Diego
+2    | 10/09 | [Language agents: a critical evolutionary step of AI](#week2) [[slides](https://www.dropbox.com/scl/fi/3kdv2fv09c8nfv0r9zvob/2-Yu-Su-Language-Agents.pdf?rlkey=qenoklm5tnksdfkotfjtmukgb&dl=0)] [[recording](https://www.dropbox.com/scl/fi/hy3x93xjjr063qgdr5uos/2-Yu-Su-Language-Agents.mp4?rlkey=9gx7vulnai2t52pwodqimmyao&dl=0)] | Yu Su | Ohio State University | 
+3    | 10/16 | [Learning from Weak Supervision: Label Noise or Bias?](#week3) [[slides](https://www.dropbox.com/scl/fi/w5ln2qk6malfj8o6s6760/3-Jingbo-Shang-Label-Noise-or-Bias.pdf?rlkey=hv0kkipvmo2tyso10egfgkh07&dl=0)] [[recording](https://www.dropbox.com/scl/fi/c9doo7p5ek16s9bhjqnm8/3-Jingbo-Shang-Label-Noise-or-Bias.mp4?rlkey=s6ru15aop24imzdo32bssywin&dl=0)] | Jingbo Shang | UC San Diego
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [slides] [recording] | Quanquan Gu | UCLA
 5    | 10/30 | [Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](#week5) [slides] [recording] | Sergey Levine | UC Berkeley
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [slides] [recording] | Alexander Rush | Cornell
