@@ -31,7 +31,7 @@ Week | Date  | Talk Info | Speaker | Affiliation
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [[slides](https://www.dropbox.com/scl/fi/i6jk78wvyvvetp35nxgn8/6-Sasha-Rush-Scaling-and-Aligning-Open-Language-Models.pdf?rlkey=82i6dmsxzl59fixpuxlmwz5l5&dl=0)] [[recording](https://www.dropbox.com/scl/fi/4hq187etuxa7jn6oflj44/6-Sasha-Rush-Scaling-and-Aligning-Open-Language-Models.mp4?rlkey=yel8dvcpfa3xyn4zwqd36cnf5&dl=0)] | Alexander Rush | Cornell
 7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning?](#week7) [slides] [recording] | Xiang Ren | USC
 8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [recording] | Yejin Choi | University of Washington
-9    | 11/27 | [Title TBD](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
+9    | 11/27 | [Something Old, Something New: Machine Learning at the End of History](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
 10   | 12/04 | [Title TBD](#week10) [slides] [recording]| Leon Bergen | UC San Diego
 
 ## Week 1: Build an Ecosystem, Not a Monolith {#week1}
@@ -120,15 +120,15 @@ In this talk, I will question if there can be possible impossibilities of large 
 Yejin Choi is Wissner-Slivka Professor and a MacArthur Fellow at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She is also a senior director at AI2 overseeing the project Mosaic and a Distinguished Research Fellow at the Institute for Ethics in AI at the University of Oxford. Her research investigates if (and how) AI systems can learn commonsense knowledge and reasoning, if machines can (and should) learn moral reasoning, and various other problems in NLP, AI, and Vision including neuro-symbolic integration, language grounding with vision and interactions, and AI for social good. She is a co-recipient of 2 Test of Time Awards (at ACL 2021 and ICCV 2021), 7 Best/Outstanding Paper Awards (at ACL 2023, NAACL 2022, ICML 2022, NeurIPS 2021, AAAI 2019, and ICCV 2013), the Borg Early Career Award (BECA) in 2018, the inaugural Alexa Prize Challenge in 2017, and IEEE AI's 10 to Watch in 2016.
 
 
-## Week 9: TBD {#week9}
+## Week 9: Something Old, Something New: Machine Learning at the End of History {#week9}
 
 ### Abstract
 
-TBD
+In this talk I'll present two very disparate pieces of work: First, a set of comprehensive empirical results exploring the in-context learning capabilities of non-transformer architectures, including both more classical architectures like RNNs and CNNs as well as recently proposed attention-free alternatives to the transformer. I'll argue that these results point the way towards "infinite context" in-context learning, allowing for learning from massive data in the forward pass alone. Second, I'll describe an application of deep learning to a long standing historical problem: revealing the printers of secretly printed revolutionary pamphlets from the English Civil War by visually matching uniquely damaged pieces of movable type. Together, I will use these studies to venture a response to two questions: Are transformers the final model? Are chatbots the final challenge? 
 
 ### Speaker Bio
 
-TBD
+Taylor Berg-Kirkpatrick is an Associate Professor in the department of Computer Science and Engineering at UC San Diego. Previously, Taylor was an Assistant Professor in the Language Technologies Institute at Carnegie Mellon University. Before this, he was a Research Scientist at Semantic Machines after completing his Ph.D. in Computer Science at the University of California Berkeley in Fall 2015.  He is the recipient of an NSF CAREER award, a Google Faculty Research Award, and an Amazon Research Award. Taylor's lab focuses on using machine learning to understand structured human data, including language but also sources like music, document images, and other complex artifacts.
 
 
 ## Week 10: TBD {#week10}
