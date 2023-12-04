@@ -29,10 +29,10 @@ Week | Date  | Talk Info | Speaker | Affiliation
 4    | 10/23 | [Why Does Sharpness-Aware Minimization Generalize Better Than SGD?](#week4) [[slides](https://www.dropbox.com/scl/fi/hd9sdj4zvjtrzoi9r04vi/4-Quanquan-Gu-Why-Does-Sharpness-Aware-Minimization-Generalize-Better-Than-SGD.pdf?rlkey=san8njlg6p639i3hzkt9v5se1&dl=0)] [[recording](https://www.dropbox.com/scl/fi/st3a02gaytdqkldr6tzto/4-Quanquan-Gu-Why-Does-Sharpness-Aware-Minimization-Generalize-Better-Than-SGD.mp4?rlkey=738mk2sujt6mw68124e4ysq22&dl=0)] | Quanquan Gu | UCLA
 5    | 10/30 | [Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](#week5) [[slides](https://www.dropbox.com/scl/fi/fbl1k9hyhp6vuok41npyo/5-Sergey-Levine-Reinforcement-Learning-with-Large-Datasets-a-Path-to-Resourceful-Autonomous-Agents.pdf?rlkey=enzxo9lk3xdlvvdn5y4fxezy5&dl=0)] [[recording](https://www.dropbox.com/scl/fi/u54gy0528p7dml45ul7fb/5-Sergey-Levine-Reinforcement-Learning-with-Large-Datasets-a-Path-to-Resourceful-Autonomous-Agents.mp4?rlkey=t5b8rjp3c75t1uwv0ulp4q8po&dl=0)] | Sergey Levine | UC Berkeley
 6    | 11/06 | [Scaling Data-Constrained Language Model](#week6) [[slides](https://www.dropbox.com/scl/fi/i6jk78wvyvvetp35nxgn8/6-Sasha-Rush-Scaling-and-Aligning-Open-Language-Models.pdf?rlkey=82i6dmsxzl59fixpuxlmwz5l5&dl=0)] [[recording](https://www.dropbox.com/scl/fi/4hq187etuxa7jn6oflj44/6-Sasha-Rush-Scaling-and-Aligning-Open-Language-Models.mp4?rlkey=yel8dvcpfa3xyn4zwqd36cnf5&dl=0)] | Alexander Rush | Cornell
-7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning?](#week7) [slides] [recording] | Xiang Ren | USC
-8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [recording] | Yejin Choi | University of Washington
-9    | 11/27 | [Something Old, Something New: Machine Learning at the End of History](#week9) [slides] [recording]| Taylor Berg-Kickpatrick | UC San Diego
-10   | 12/04 | [Title TBD](#week10) [slides] [recording]| Leon Bergen | UC San Diego
+7    | 11/13 | [Reflex or Reflect: When Do Language Tasks Need Slow Reasoning?](#week7) [[slides](https://www.dropbox.com/scl/fi/qfzzlscgedztlagyy72j0/7-Xiang-Ren-Reflex-or-Reflect-When-Do-Language-Tasks-Need-Slow-Reasoning.pdf?rlkey=vhaf8h4lc6e1mzifhke5wp6ca&dl=0)] [[recording](https://www.dropbox.com/s/chfsdoq1lr7dvm7/7-Xiang%20Ren-Reflex%20or%20Reflect-%20When%20Do%20Language%20Tasks%20Need%20Slow%20Reasoning%3F.mp4?dl=0)] | Xiang Ren | USC
+8    | 11/20 | [Possible Impossibilities and Impossible Possibilities](#week8) [slides] [[recording](https://www.dropbox.com/s/v0smj1t6o7vxzh0/8-Yejin%20Choi-Possible%20Impossibilities%20and%20Impossible%20Possibilities.mp4?dl=0)] | Yejin Choi | University of Washington
+9    | 11/27 | [Something Old, Something New: Machine Learning at the End of History](#week9) [slides] [[recording](https://www.dropbox.com/scl/fi/gr6dpu3go7gi2ldcir7u6/9-Taylor-Berg-Patrick-Something-Old-Something-New-Machine-Learning-at-the-End-of-History.mp4?rlkey=zi9kslqtds6e4jsa1mph82owx&dl=0)] | Taylor Berg-Kickpatrick | UC San Diego
+10   | 12/04 | [Large Language Models for Complex Query Retrieval](#week10) [slides] [recording]| Leon Bergen | UC San Diego
 
 ## Week 1: Build an Ecosystem, Not a Monolith {#week1}
 
@@ -131,12 +131,12 @@ In this talk I'll present two very disparate pieces of work: First, a set of com
 Taylor Berg-Kirkpatrick is an Associate Professor in the department of Computer Science and Engineering at UC San Diego. Previously, Taylor was an Assistant Professor in the Language Technologies Institute at Carnegie Mellon University. Before this, he was a Research Scientist at Semantic Machines after completing his Ph.D. in Computer Science at the University of California Berkeley in Fall 2015.  He is the recipient of an NSF CAREER award, a Google Faculty Research Award, and an Amazon Research Award. Taylor's lab focuses on using machine learning to understand structured human data, including language but also sources like music, document images, and other complex artifacts.
 
 
-## Week 10: TBD {#week10}
+## Week 10: Large Language Models for Complex Query Retrieval {#week10}
 
 ### Abstract
 
-TBD
+This talk discusses recent work on information retrieval for complex queries, addressing the limitations of keyword or BERT-based search methods. We begin by identifying the challenges in retrieving relevant information in scenarios such as clinical trial selection or scientific research identification. The focus is on how to effectively integrate large language models into information retrieval systems in a scalable way. We examine several stages of the information retrieval pipeline: data annotation, data generation, and document reranking. The talk will discuss two strategies — information regularization and task decomposition — that improve the performance of language models for complex queries. I will discuss the implications of large language models for information retrieval, emphasizing their potential to transform how we query vast data sets.
 
 ### Speaker Bio
 
-TBD
+Leon Bergen is an Associate Professor in the department of Linguistics at University of California, San Diego, and associate director of the Laboratory for Emerging Intelligence. He was previously a research scientist at X and Google, and did a postdoc at Stanford. He received his Ph.D. from MIT in Brain and Cognitive Sciences in 2015.
