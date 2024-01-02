@@ -46,7 +46,8 @@ Office Hours
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Bill Hogan
-    - Office Hour: TBD
+    - Office Hour: Mondays, 10 to 11 AM
+    - Zoom link: [https://ucsd.zoom.us/my/billh](https://ucsd.zoom.us/my/billh)
 - Weitang Liu
     - Office Hour: TBD
 - Yufan Zhuang
