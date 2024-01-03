@@ -37,7 +37,7 @@ Math, Stats, and Coding: `(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 1
 TAs
 ======
 
-- **Teaching Assistants**: Bill Hogan (whogan AT ucsd.ed), Weitang Liu (wel022 AT ucsd.edu), and Yufan Zhuang (y5zhuang AT ucsd.edu)
+- **Teaching Assistants**: Bill Hogan (whogan AT ucsd.edu), Weitang Liu (wel022 AT ucsd.edu), and Yufan Zhuang (y5zhuang AT ucsd.edu)
 
 Office Hours
 ======
