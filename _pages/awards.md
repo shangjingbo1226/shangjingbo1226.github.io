@@ -9,6 +9,8 @@ author_profile: true
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p> 
 
+🏆 Jacobs School Early Career Faculty Development Award, UCSD, 2024
+<br/>
 🏆 **NSF CAREER Award**, 2023
 <br/>
 🏆 Google Research Scholar Award, 2021
