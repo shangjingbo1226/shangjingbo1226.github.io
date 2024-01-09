@@ -49,9 +49,11 @@ Office Hours
     - Office Hour: Mondays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/billh](https://ucsd.zoom.us/my/billh)
 - Weitang Liu
-    - Office Hour: TBD
+    - Office Hour: Fridays, 7pm to 8pm
+    - Zoom link: [https://ucsd.zoom.us/j/93170362758](https://ucsd.zoom.us/j/93170362758)
 - Yufan Zhuang
-    - Office Hour: TBD
+    - Office Hour: Wednesdays, 11am to 12pm
+    - Zoom link: [https://ucsd.zoom.us/j/7971151616](https://ucsd.zoom.us/j/7971151616)
 
 Note: all times are in **Pacific Time**.
 
@@ -73,7 +75,7 @@ Lecture Schedule
 **HW Note**: All HWs due by the end of the day on the due date, i.e., 11:59 PM PT. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/09 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/o2jyr2zh42qj74lcjxlso/h?rlkey=l4zwc7azavxjqb9e3ooxvsbix&dl=0) | HW1 out
+1    | 01/09 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/o2jyr2zh42qj74lcjxlso/h?rlkey=l4zwc7azavxjqb9e3ooxvsbix&dl=0) | [HW1 out](https://www.dropbox.com/scl/fi/22lf6ti11tp7djspxdp37/DSC148_HW1.pdf?rlkey=yzemrk2gzsabrduhkdl596x27&dl=0)
 1    | 01/11 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/k48vpzsb9astxjs4szslw/h?rlkey=nzvk6jcizpmmccirjnw1w3j7x&dl=0) |
 2    | 01/16 (Tue) | Supervised - Overfitting and Regularization | HW2 out
 2    | 01/18 (Thu) | Supervised - Support Vector Machine | HW1 Due
@@ -99,7 +101,7 @@ Homework (24%)
 
 Your lowest (of four) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Concepts and Evaluations (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
+- **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fi/22lf6ti11tp7djspxdp37/DSC148_HW1.pdf?rlkey=yzemrk2gzsabrduhkdl596x27&dl=0) (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
 - **HW2: Regression and Classification (8%).** This homework mainly focuses on regression and classification tasks.
 - **HW3: Cluster and Pattern Analysis (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
 - **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
