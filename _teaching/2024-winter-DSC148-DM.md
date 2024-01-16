@@ -77,8 +77,8 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 01/09 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/o2jyr2zh42qj74lcjxlso/h?rlkey=l4zwc7azavxjqb9e3ooxvsbix&dl=0) | [HW1 out](https://www.dropbox.com/scl/fi/22lf6ti11tp7djspxdp37/DSC148_HW1.pdf?rlkey=yzemrk2gzsabrduhkdl596x27&dl=0)
 1    | 01/11 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/k48vpzsb9astxjs4szslw/h?rlkey=nzvk6jcizpmmccirjnw1w3j7x&dl=0) |
-2    | 01/16 (Tue) | Supervised - Overfitting and Regularization | HW2 out
-2    | 01/18 (Thu) | Supervised - Support Vector Machine | HW1 Due
+2    | 01/16 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/rg0806eogkamcfz6irwrx/h?rlkey=gz1ritb718myr98p0zdijf7zt&dl=0) | HW2 out
+2    | 01/18 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/e35238s8dh9f187qi3qd5/h?rlkey=crdmjjzuxpuw00a1gslxrhgas&dl=0) | HW1 Due
 3    | 01/23 (Tue) | Supervised - Naive Bayes and Decision Tree |
 3    | 01/25 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
 4    | 01/30 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
