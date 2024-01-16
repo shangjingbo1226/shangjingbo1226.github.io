@@ -13,6 +13,15 @@ author_profile: true
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
+### 2024
+
+* Toward Student-oriented Teacher Network Training for Knowledge Distillation<br/>
+Chengyu Dong, Liyuan Liu and Jingbo Shang. **ICLR** 2024. [[arXiv:2206.06661](https://arxiv.org/abs/2206.06661)]
+* Fast-ELECTRA for Efficient Pre-training<br/>
+Chengyu Dong, Liyuan Liu, Hao Cheng, Jingbo Shang, Jianfeng Gao and Xiaodong Liu. **ICLR** 2024.
+* Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding<br/>
+Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee and Tomas Pfister. **ICLR** 2024.
+
 ### 2023
 
 * ClusterLLM: Large Language Models as a Guide for Text Clustering<br/>
@@ -74,8 +83,6 @@ Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta and Jin
 
 * [Waveformer: Linear-Time Attention with Forward and Backward Wavelet Transform](https://arxiv.org/abs/2210.01989) <br/>
 Yufan Zhuang, Zihan Wang, Fangbo Tao and Jingbo Shang. arXiv:2210.01989.
-* [SoTeacher: A Student-oriented Teacher Network Training Framework for Knowledge Distillation](https://arxiv.org/abs/2206.06661) <br/>
-Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
 * [Leveraging QA Datasets to Improve Generative Data Augmentation](https://aclanthology.org/2022.emnlp-main.660.pdf)<br/>
 Dheeraj Mekala, Tu Vu, Timo Schick and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)] [[code](https://github.com/dheeraj7596/CONDA)]
 * [Fine-grained Contrastive Learning for Relation Extraction](https://aclanthology.org/2022.emnlp-main.71.pdf)<br/>
