@@ -79,8 +79,8 @@ Week | Date        | Topic & Slides                                             
 1    | 01/11 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/k48vpzsb9astxjs4szslw/h?rlkey=nzvk6jcizpmmccirjnw1w3j7x&dl=0) |
 2    | 01/16 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/rg0806eogkamcfz6irwrx/h?rlkey=gz1ritb718myr98p0zdijf7zt&dl=0) | HW2 out
 2    | 01/18 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/e35238s8dh9f187qi3qd5/h?rlkey=crdmjjzuxpuw00a1gslxrhgas&dl=0) | HW1 Due
-3    | 01/23 (Tue) | Supervised - Naive Bayes and Decision Tree |
-3    | 01/25 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
+3    | 01/23 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/4xste1vsp4ungmq0x8ogk/h?rlkey=bto53rtadqcuy9x6dfxk832z7&dl=0) |
+3    | 01/25 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/t0k0plzfg8e3s3lnc57za/h?rlkey=qqip0nq52fwgclmhu5be8ou55&dl=0) | 
 4    | 01/30 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
 4    | 02/01 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
 5    | 02/06 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
