@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* How Few Davids Improve One Goliath: Federated Learning in Resource-Skew Edge Computing Environments<br/>
+Jiayun Zhang, Shuheng Li, Haiyu Huang, Zihan Wang, Xiaohan Fu, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **WWW** 2024. 
 * Toward Student-oriented Teacher Network Training for Knowledge Distillation<br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. **ICLR** 2024. [[arXiv:2206.06661](https://arxiv.org/abs/2206.06661)]
 * Fast-ELECTRA for Efficient Pre-training<br/>
