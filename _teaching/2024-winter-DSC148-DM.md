@@ -81,7 +81,7 @@ Week | Date        | Topic & Slides                                             
 2    | 01/18 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/e35238s8dh9f187qi3qd5/h?rlkey=crdmjjzuxpuw00a1gslxrhgas&dl=0) | HW1 Due
 3    | 01/23 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/4xste1vsp4ungmq0x8ogk/h?rlkey=bto53rtadqcuy9x6dfxk832z7&dl=0) |
 3    | 01/25 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/t0k0plzfg8e3s3lnc57za/h?rlkey=qqip0nq52fwgclmhu5be8ou55&dl=0) | 
-4    | 01/30 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/68mar2dwtfy8bjlt57udi/h?rlkey=o1564idx4z3ahscnayb84mj6a&dl=0) | HW2 Due, HW3 out
+4    | 01/30 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/68mar2dwtfy8bjlt57udi/h?rlkey=o1564idx4z3ahscnayb84mj6a&dl=0) | HW2 Due, [HW3 out](https://www.dropbox.com/scl/fi/l313itllwpdg79h54qqe8/DSC148_W24_HW3.pdf?rlkey=qs8z7m9azicy4yrcgcqawvida&dl=0)
 4    | 02/01 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/9g3e3zcph732ygn5qg10v/h?rlkey=8oxhlu5qb4xzfev4l0yrhsocz&dl=0) |
 5    | 02/06 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
 5    | 02/08 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
@@ -103,7 +103,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fi/22lf6ti11tp7djspxdp37/DSC148_HW1.pdf?rlkey=yzemrk2gzsabrduhkdl596x27&dl=0) (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
 - **[HW2: Regression and Classification](https://www.dropbox.com/scl/fi/dco7zyni1dtus47ge5d51/DSC148_W24_HW2.pdf?rlkey=ppbyjfovx2cnmkh8b5a48au2s&dl=0) (8%).** This homework mainly focuses on regression and classification tasks.
-- **HW3: Cluster and Pattern Analysis (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
+- **[HW3: Cluster and Pattern Analysis](https://www.dropbox.com/scl/fi/l313itllwpdg79h54qqe8/DSC148_W24_HW3.pdf?rlkey=qs8z7m9azicy4yrcgcqawvida&dl=0) (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
 - **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
 
 Midterm (26%)
