@@ -83,8 +83,8 @@ Week | Date        | Topic & Slides                                             
 3    | 01/25 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/t0k0plzfg8e3s3lnc57za/h?rlkey=qqip0nq52fwgclmhu5be8ou55&dl=0) | 
 4    | 01/30 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/68mar2dwtfy8bjlt57udi/h?rlkey=o1564idx4z3ahscnayb84mj6a&dl=0) | HW2 Due, [HW3 out](https://www.dropbox.com/scl/fi/l313itllwpdg79h54qqe8/DSC148_W24_HW3.pdf?rlkey=qs8z7m9azicy4yrcgcqawvida&dl=0)
 4    | 02/01 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/9g3e3zcph732ygn5qg10v/h?rlkey=8oxhlu5qb4xzfev4l0yrhsocz&dl=0) |
-5    | 02/06 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
-5    | 02/08 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
+5    | 02/06 (Tue) | [Cluster Analysis - Density-based Clustering: DBSCAN](https://www.dropbox.com/scl/fo/x61vmvhd9rl28geaxmvmn/h?rlkey=4fwmvsio76qldwdmp50f077pj&dl=0) |
+5    | 02/08 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/scl/fo/thywjvhjb1pxizx3lufq6/h?rlkey=97goddx5ljhvbgy491clwqyb6&dl=0) | DM Challenge out
 6    | 02/13 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |
 6    | 02/15 (Thu) | Midterm (no class, 24 hours on this date) |
 7    | 02/20 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
