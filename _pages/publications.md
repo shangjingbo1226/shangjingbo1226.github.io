@@ -15,6 +15,18 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
+Letian Peng\*, Yuwei Zhang\*, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang and Jingbo Shang. [[arXiv:2402.09642](https://arxiv.org/abs/2402.09642)]
+* Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
+Dheeraj Mekala\*, Alex Nguyen\* and Jingbo Shang. [[arXiv:2402.10430](https://arxiv.org/abs/2402.10430)]
+* Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
+Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu and Jingbo Shang. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
+* Learning a Decision Tree Algorithm with Transformers<br/>
+Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. [[arXiv:2402.03774](https://arxiv.org/abs/2402.03774)]
+* MemoryLLM: Towards Self-Updatable Large Language Models<br/>
+Yu Wang, Xiusi Chen, Jingbo Shang and Julian McAuley. [[arXiv:2402.04624](https://arxiv.org/abs/2402.04624)]
+* Large Language Models for Time Series: A Survey<br/>
+Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
 * How Few Davids Improve One Goliath: Federated Learning in Resource-Skew Edge Computing Environments<br/>
 Jiayun Zhang, Shuheng Li, Haiyu Huang, Zihan Wang, Xiaohan Fu, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **WWW** 2024. 
 * Toward Student-oriented Teacher Network Training for Knowledge Distillation<br/>
@@ -26,6 +38,10 @@ Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot,
 
 ### 2023
 
+* OmniOutput: A Model-centric Evaluation Framework through Output Distribution<br/>
+Weitang Liu, Ying Wai Li, Tianle Wang, Yi-Zhuang You and Jingbo Shang. [[arXiv:2312.03291](https://arxiv.org/abs/2312.03291)]
+* EmojiLM: Modeling the New Emoji Language<br/>
+Letian Peng, Zilong Wang, Hang Liu, Zihan Wang and Jingbo Shang. [[arXiv:2311.01751](https://arxiv.org/abs/2311.01751)]
 * ClusterLLM: Large Language Models as a Guide for Text Clustering<br/>
 Yuwei Zhang, Zihan Wang and Jingbo Shang. **EMNLP** 2023.
 * Debiasing Made State-of-the-art: Revisiting the Simple Seed-based Weak Supervision for Text Classification<br/>
@@ -42,7 +58,7 @@ Letian Peng, Zihan Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
 Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
 * Retrieval-Augmented Parsing for Complex Graphs by Exploiting Structure and Uncertainty<br/>
 Zi Lin, Quan Yuan, Panupong Pasupat, Jeremiah Zhe Liu and Jingbo Shang. **EMNLP** (Findings) 2023.
-* Unveiling Hidden Challenges of Toxicity Detection in Real-World User-AI Conversation<br/>
+* ToxicChat: Unveiling Hidden Challenges of Toxicity Detection in Real-World User-AI Conversation<br/>
 Zi Lin, Zihan Wang, Yongqi Tong, Yangkun Wang, Yuxin Guo, Yujia Wang and Jingbo Shang. **EMNLP** (Findings) 2023.
 * Physics-Informed Data Denoising for Real-Life Sensing Systems<br/>
 Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, Ranak Roy Chowdhury, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang and Rajesh Gupta. **SenSys** 2023.
