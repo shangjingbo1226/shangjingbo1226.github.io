@@ -87,8 +87,8 @@ Week | Date        | Topic & Slides                                             
 5    | 02/08 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/scl/fo/thywjvhjb1pxizx3lufq6/h?rlkey=97goddx5ljhvbgy491clwqyb6&dl=0) | [DM Challenge out](https://www.dropbox.com/scl/fi/vgaqnqw61infuaqigkscn/DSC-148_-Intro-to-Data-Mining-Data-Mining-Challenge.pdf?rlkey=d2cx62vyk6j6zu4s4ncgoqzez&dl=0)
 6    | 02/13 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/scl/fo/kveodn83xatcayyvtjff7/h?rlkey=d9npxxnh4ixkxe43r1pgj7kwx&dl=0)  |
 6    | 02/15 (Thu) | Midterm (no class, 24 hours on this date) |
-7    | 02/20 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
-7    | 02/22 (Thu) | Recommender System - Latent Factor Models |
+7    | 02/20 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/scl/fo/rh2g0xjdex83ygtzoyi5e/h?rlkey=rz3gojbu0yrlwoal9699i7dit&dl=0) | HW3 Due, HW4 out
+7    | 02/22 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/scl/fo/8mzsj04kbesjy0wk4mqg0/h?rlkey=r9f1czfg4rvs3nl3f07nj1mge&dl=0) |
 8    | 02/27 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF |
 8    | 02/29 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
 9    | 03/05 (Tue) | Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank | 
