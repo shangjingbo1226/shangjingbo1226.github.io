@@ -87,7 +87,7 @@ Week | Date        | Topic & Slides                                             
 5    | 02/08 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/scl/fo/thywjvhjb1pxizx3lufq6/h?rlkey=97goddx5ljhvbgy491clwqyb6&dl=0) | [DM Challenge out](https://www.dropbox.com/scl/fi/vgaqnqw61infuaqigkscn/DSC-148_-Intro-to-Data-Mining-Data-Mining-Challenge.pdf?rlkey=d2cx62vyk6j6zu4s4ncgoqzez&dl=0)
 6    | 02/13 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/scl/fo/kveodn83xatcayyvtjff7/h?rlkey=d9npxxnh4ixkxe43r1pgj7kwx&dl=0)  |
 6    | 02/15 (Thu) | Midterm (no class, 24 hours on this date) |
-7    | 02/20 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/scl/fo/rh2g0xjdex83ygtzoyi5e/h?rlkey=rz3gojbu0yrlwoal9699i7dit&dl=0) | HW3 Due, HW4 out
+7    | 02/20 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/scl/fo/rh2g0xjdex83ygtzoyi5e/h?rlkey=rz3gojbu0yrlwoal9699i7dit&dl=0) | HW3 Due, [HW4 out](https://www.dropbox.com/scl/fi/abirx9tzcyugnsmz23wzi/DSC148_W24_HW4.pdf?rlkey=jyxbtsd5q1utwtd1pptkgblb5&dl=0)
 7    | 02/22 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/scl/fo/8mzsj04kbesjy0wk4mqg0/h?rlkey=r9f1czfg4rvs3nl3f07nj1mge&dl=0) |
 8    | 02/27 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF |
 8    | 02/29 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
@@ -104,7 +104,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fi/22lf6ti11tp7djspxdp37/DSC148_HW1.pdf?rlkey=yzemrk2gzsabrduhkdl596x27&dl=0) (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
 - **[HW2: Regression and Classification](https://www.dropbox.com/scl/fi/dco7zyni1dtus47ge5d51/DSC148_W24_HW2.pdf?rlkey=ppbyjfovx2cnmkh8b5a48au2s&dl=0) (8%).** This homework mainly focuses on regression and classification tasks.
 - **[HW3: Cluster and Pattern Analysis](https://www.dropbox.com/scl/fi/l313itllwpdg79h54qqe8/DSC148_W24_HW3.pdf?rlkey=qs8z7m9azicy4yrcgcqawvida&dl=0) (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
-- **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
+- **[HW4: Applications](https://www.dropbox.com/scl/fi/abirx9tzcyugnsmz23wzi/DSC148_W24_HW4.pdf?rlkey=jyxbtsd5q1utwtd1pptkgblb5&dl=0) (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
 
 Midterm (26%)
 ======
