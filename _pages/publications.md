@@ -27,6 +27,8 @@ Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. [[arXiv:
 Yu Wang, Xiusi Chen, Jingbo Shang and Julian McAuley. [[arXiv:2402.04624](https://arxiv.org/abs/2402.04624)]
 * Large Language Models for Time Series: A Survey<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
+* Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation<br/>
+Prashant Krishnan, Zilong Wang and Jingbo Shang. **LREC-COLING** 2024.
 * How Few Davids Improve One Goliath: Federated Learning in Resource-Skew Edge Computing Environments<br/>
 Jiayun Zhang, Shuheng Li, Haiyu Huang, Zihan Wang, Xiaohan Fu, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **WWW** 2024. 
 * Toward Student-oriented Teacher Network Training for Knowledge Distillation<br/>
