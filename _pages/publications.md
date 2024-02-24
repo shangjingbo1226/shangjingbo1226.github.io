@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* ToolVerifier: Generalization to New Tools via Self-Verification<br/>
+Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
 Letian Peng\*, Yuwei Zhang\*, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang and Jingbo Shang. [[arXiv:2402.09642](https://arxiv.org/abs/2402.09642)]
 * Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
