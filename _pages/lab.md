@@ -162,16 +162,6 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/jiacheng li.jpeg" class="author__avatar" alt="Jiacheng Li">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://jiachengli1995.github.io/">Jiacheng Li</a><br/>w/ Julian McAuley<br/>(2020 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
             <img src="/images/img/students/shuheng li.png" class="author__avatar" alt="Shuheng Li">
       </div>
       <div class="author__content">
@@ -237,6 +227,21 @@ Current Members
 
 Lab Alumni
 ======
+
+## PhDs
+
+<div class="row">
+      <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/jiacheng li.jpeg" class="author__avatar" alt="Jiacheng Li">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://jiachengli1995.github.io/">Jiacheng Li</a><br/>w/ Julian McAuley<br/>(2020 - 2023 --> Meta)</p>
+      </div>
+      </center>
+    </div>
+</div>
 
 ## Masters
 

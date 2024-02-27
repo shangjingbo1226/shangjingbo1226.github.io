@@ -89,7 +89,7 @@ Week | Date        | Topic & Slides                                             
 6    | 02/15 (Thu) | Midterm (no class, 24 hours on this date) |
 7    | 02/20 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/scl/fo/rh2g0xjdex83ygtzoyi5e/h?rlkey=rz3gojbu0yrlwoal9699i7dit&dl=0) | HW3 Due, [HW4 out](https://www.dropbox.com/scl/fi/abirx9tzcyugnsmz23wzi/DSC148_W24_HW4.pdf?rlkey=jyxbtsd5q1utwtd1pptkgblb5&dl=0)
 7    | 02/22 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/scl/fo/8mzsj04kbesjy0wk4mqg0/h?rlkey=r9f1czfg4rvs3nl3f07nj1mge&dl=0) |
-8    | 02/27 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF |
+8    | 02/27 (Tue) | [Text Mining - Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/53ezazaawzzhnx0mhgoxb/h?rlkey=dyoojnrt4lic3ou9l96w96pzo&dl=0) |
 8    | 02/29 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
 9    | 03/05 (Tue) | Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank | 
 9    | 03/07 (Thu) | Network Mining - Personalized PageRank and Node Embedding |
