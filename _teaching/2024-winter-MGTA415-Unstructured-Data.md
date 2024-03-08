@@ -91,8 +91,8 @@ Week | Date        | Topic & Slides                                             
 6    | 02/16 (Fri) | Midterm Exam (no class) |
 7    | 02/23 (Fri) | [Phrase Mining and its applications](https://www.dropbox.com/scl/fo/oqw4ix0kvijs513jd655x/h?rlkey=r23nwb2g0qov65pisvgwwcbov&dl=0) | HW2 due, HW3 out
 8    | 03/01 (Fri) | [Image Classification](https://www.dropbox.com/scl/fo/qbq42m7n0y91sqlrloooo/h?rlkey=cvxu9ghd2x57knfrdd3xd819y&dl=0) | DM challenge due
-9    | 03/08 (Fri) | Named Entity Recognition | 
-10   | 03/15 (Fri) | Weakly Supervised Text Classification | HW3 due
+9    | 03/08 (Fri) | [Named Entity Recognition](https://www.dropbox.com/scl/fo/zraqblh05vljw5vjwo7av/h?rlkey=kbbbxjbxt497gzh8l01i4e5ps&dl=0) | 
+10   | 03/15 (Fri) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/1dr47bzg3akcu2dt7kqxg/h?rlkey=sk0mp5ijo2hrx03ug3gkyediv&dl=0) | HW3 due
 
 Homework (24%)
 ======
