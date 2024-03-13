@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* READ: Improving Relation Extraction from an ADversarial Perspective<br/>
+Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
 Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
