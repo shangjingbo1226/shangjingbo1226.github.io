@@ -94,7 +94,7 @@ Week | Date        | Topic & Slides                                             
 9    | 03/05 (Tue) | [Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank](https://www.dropbox.com/scl/fo/291nslrn6qfkizbbo4h8a/h?rlkey=h4ticzjwe1jv88ty1l8aaxnyh&dl=0) | 
 9    | 03/07 (Thu) | [Network Mining - Personalized PageRank and Node Embedding](https://www.dropbox.com/scl/fo/azc11oyolbl3yqilm2dvr/h?rlkey=qthvd2l9c2166rc4jaksflw2u&dl=0) |
 10   | 03/12 (Tue) | [Sequence Mining - Sliding Windows and Autoregression](https://www.dropbox.com/scl/fo/uhwbpyrdwbu47pvkq7xpa/h?rlkey=ngp8333sawsjbf96f6ed6lxc8&dl=0) |
-10   | 03/14 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due
+10   | 03/14 (Thu) | [Text Data as Sequence - Named Entity Recognition](https://www.dropbox.com/scl/fo/o072idrmuto10zun0qula/h?rlkey=nhj4iw5ckdvc6ga091pmf7o39&dl=0) | HW4 Due
 
 Homework (24%)
 ======
