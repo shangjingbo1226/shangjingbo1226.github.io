@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* DocMaster: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering<br/>
+Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024. 
 * READ: Improving Relation Extraction from an ADversarial Perspective<br/>
 Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
