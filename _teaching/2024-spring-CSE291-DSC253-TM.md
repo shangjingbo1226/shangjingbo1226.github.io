@@ -40,9 +40,14 @@ TA and Office Hours
     - Office Hour: Wednesdays, 10 AM to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 
-- **TA**: Yu Wang (yuw164 AT ucsd.edu)
-    - Office Hour: TBD
-    - Location: TBD
+- **TAs**:
+    - Yu Wang (yuw164 AT ucsd.edu)
+        - Office Hour: Thursdays 3 to 4 PM
+        - Location: CSE 4109
+    - Parjanya Prashant
+        - Office Hour: Mondays 9 to 10 AM
+        - Location: https://ucsd.zoom.us/j/94573427099
+
 
 Note: all times are in **Pacific Time**.
 
