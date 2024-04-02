@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks<br/>
+Letian Peng, Zilong Wang, Feng Yao, Zihan Wang and Jingbo Shang. [[arXiv:2404.00457](https://arxiv.org/abs/2404.00457)]
 * DocMaster: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering<br/>
 Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024. 
 * READ: Improving Relation Extraction from an ADversarial Perspective<br/>
