@@ -43,10 +43,10 @@ TA and Office Hours
 - **TAs**:
     - Yu Wang (yuw164 AT ucsd.edu)
         - Office Hour: Thursdays 3 to 4 PM
-        - Location: CSE 4109
+        - Location: CSE 4109 and [https://ucsd.zoom.us/j/97862111164](https://ucsd.zoom.us/j/97862111164)
     - Parjanya Prashant
         - Office Hour: Mondays 9 to 10 AM
-        - Location: https://ucsd.zoom.us/j/94573427099
+        - Location: [https://ucsd.zoom.us/j/94573427099](https://ucsd.zoom.us/j/94573427099)
 
 
 Note: all times are in **Pacific Time**.
@@ -92,7 +92,7 @@ Week | Date        | Topic & Slides                                             
 Homework (30%)
 ======
 
-- **HW1.** Text Classification with Different Techniques.
+- **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/w8utzt7myxrdbuk9be238/HW-1.zip?rlkey=45m3sc8bzy7v79n2sdvvfvzk8&dl=0).
     - Due: April 23
 - **HW2.** Phrase Mining Applications and Future Work. 
     - Due: May 21
