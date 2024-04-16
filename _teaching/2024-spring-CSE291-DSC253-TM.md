@@ -72,7 +72,7 @@ Week | Date        | Topic & Slides                                             
 1    | 04/04 (Thu) | [Basics: Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/exrxk1sf9tfluh479obt4/h?rlkey=377l1qyuama4vyrpxye9vamsu&dl=0) | HW1 out
 2    | 04/09 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/scl/fo/82yc1wpbrmm1h3kljmpx8/h?rlkey=2rr5fcud93mkp9h6e3165wrbh&dl=0) |
 2    | 04/11 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/scl/fo/4hicsbrhj2unt84hf6swq/h?rlkey=e4djlbqj9urdqqvlxr8ftt8mv&dl=0) |
-3    | 04/16 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
+3    | 04/16 (Tue) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/qgyqehkun6xusixdl1sbv/ACyeNoZuZmXumv_25i-VDrI?rlkey=781yu3q2emgvj0jytx2gujyp5&dl=0) | Project Proposal Due (End of the Day)
 3    | 04/18 (Thu) | Sentiment Analysis and Document Classification |
 4    | 04/23 (Tue) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due, DM challenge roll-out
 4    | 04/25 (Thu) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
@@ -92,7 +92,7 @@ Week | Date        | Topic & Slides                                             
 Homework (30%)
 ======
 
-- **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/w8utzt7myxrdbuk9be238/HW-1.zip?rlkey=45m3sc8bzy7v79n2sdvvfvzk8&dl=0).
+- **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/w3dobgyr32uu61gl1j2mk/HW-1.zip?rlkey=eh8stynzp0j2rf3reu1v0dmd4&dl=0).
     - Due: April 23
 - **HW2.** Phrase Mining Applications and Future Work. 
     - Due: May 21
