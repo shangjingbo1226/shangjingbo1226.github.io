@@ -15,12 +15,18 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
+Letian Peng and Jingbo Shang. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
+* Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving<br/>
+Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner and Jingbo Shang. [[arXiv:2404.07382](https://arxiv.org/abs/2404.07382)]
 * MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks<br/>
 Letian Peng, Zilong Wang, Feng Yao, Zihan Wang and Jingbo Shang. [[arXiv:2404.00457](https://arxiv.org/abs/2404.00457)]
 * DocMaster: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering<br/>
 Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024. 
 * READ: Improving Relation Extraction from an ADversarial Perspective<br/>
 Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
+* LDB: A Large Language Model Debugger via Verifying Runtime Execution Step-by-step<br/>
+Lily Zhong, Zilong Wang and Jingbo Shang. [[arXiv:2402.16906](https://arxiv.org/abs/2402.16906)]
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
 Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
