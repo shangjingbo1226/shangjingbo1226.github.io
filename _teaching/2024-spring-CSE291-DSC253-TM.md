@@ -74,7 +74,7 @@ Week | Date        | Topic & Slides                                             
 2    | 04/11 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/scl/fo/4hicsbrhj2unt84hf6swq/h?rlkey=e4djlbqj9urdqqvlxr8ftt8mv&dl=0) |
 3    | 04/16 (Tue) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/qgyqehkun6xusixdl1sbv/ACyeNoZuZmXumv_25i-VDrI?rlkey=781yu3q2emgvj0jytx2gujyp5&dl=0) | Project Proposal Due (End of the Day)
 3    | 04/18 (Thu) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/scl/fo/emolky6n7gx2hgtza5kee/AIJUYXfag3y9r72FZ-4KKbA?rlkey=idfnwg6tna77gca0ceeb0b20r&dl=0) |
-4    | 04/23 (Tue) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due, DM challenge roll-out
+4    | 04/23 (Tue) | [Topic Modeling: PLSA, LDA, and HMM](https://www.dropbox.com/scl/fo/r2v8o25ptab8ba4fdrf0s/AGATYWtj7b9El9UngNqhxq8?rlkey=39kdsl0zijk49ezerklbc6niq&dl=0) | HW1 Due, DM challenge roll-out
 4    | 04/25 (Thu) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
 5    | 04/30 (Tue) | Entity Set Expansion: from Seed Words to Sets |
 5    | 05/02 (Thu) | Entity Recognition: from Supervised to Data-Driven |
