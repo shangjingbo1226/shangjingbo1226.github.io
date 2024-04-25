@@ -103,8 +103,8 @@ Data Mining Challenge (30%)
 It is a individual-based text mining competition with quantitative evaluation. 
 The challenge runs **from April 23 2023 0:00:01 AM to May 23, 2023 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: [here](https://www.dropbox.com/scl/fi/213drpo1mg8m3h37gaqww/KaggleChallenge2024.zip?rlkey=7lsy4q8zu13zhiny06j4rxeb2&dl=0)
+- Kaggle challenge link: [here](https://www.kaggle.com/t/1878a8d335b54970afbaacef28fe209c)
 - [Survey to map Kaggle account name to student names](https://docs.google.com/forms/d/e/1FAIpQLSdHf-65yxD9aiKcDEz0ql1Knm84gHqAwLx34p1Bdw8prvDBzQ/viewform?usp=sf_link)
 
 Project (40%)
