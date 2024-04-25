@@ -15,6 +15,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph.
+Xiaochen Kev Gao\*, Feng Yao1\*, Kewen Zhao, Beilei He, Animesh Kumar, Vish Krishnan, Jingbo Shang. [[arXiv:2404.14372](https://arxiv.org/abs/2404.14372)]
 * Large Language Models for Time Series: A Survey<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. **IJCAI** (survey track) 2024. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
 * Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
