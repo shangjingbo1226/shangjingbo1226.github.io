@@ -76,8 +76,8 @@ Week | Date        | Topic & Slides                                             
 3    | 04/18 (Thu) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/scl/fo/emolky6n7gx2hgtza5kee/AIJUYXfag3y9r72FZ-4KKbA?rlkey=idfnwg6tna77gca0ceeb0b20r&dl=0) |
 4    | 04/23 (Tue) | [Topic Modeling: PLSA, LDA, and HMM](https://www.dropbox.com/scl/fo/r2v8o25ptab8ba4fdrf0s/AGATYWtj7b9El9UngNqhxq8?rlkey=39kdsl0zijk49ezerklbc6niq&dl=0) | HW1 Due, DM challenge roll-out
 4    | 04/25 (Thu) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/scl/fo/hnyvxay9o1hrzskj7lqmz/AAs5f7bGdK66NkiFSS8v-ng?rlkey=wejnpueyyoe7vesz5g53rg6xb&dl=0) | HW2 out
-5    | 04/30 (Tue) | Entity Set Expansion: from Seed Words to Sets |
-5    | 05/02 (Thu) | Entity Recognition: from Supervised to Data-Driven |
+5    | 04/30 (Tue) | [Entity Set Expansion: from Seed Words to Sets](https://www.dropbox.com/scl/fo/n99onmjr1236ln58i2fdj/ACbAXb5X7LR8wyOggl1HtPA?rlkey=o01k1azqjwjip5xiw1wun5ysb&dl=0) |
+5    | 05/02 (Thu) | [Entity Recognition: from Supervised to Data-Driven](https://www.dropbox.com/scl/fo/e3h9lpctq7n2lip1sysh2/AOmnRMWtz5o5Uk4e-PygTh0?rlkey=cuaoqvietsn8mz2ygzlbgykhx&dl=0) |
 6    | 05/07 (Tue) | Distant Supervision for Relation Extraction |
 6    | 05/09 (Thu) | Text-Rich Network: a Collaboration between Texts and Networks |
 7    | 05/14 (Tue) | Topic Taxonomy Construction |
