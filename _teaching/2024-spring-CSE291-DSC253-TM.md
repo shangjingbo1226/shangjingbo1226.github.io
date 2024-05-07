@@ -78,8 +78,8 @@ Week | Date        | Topic & Slides                                             
 4    | 04/25 (Thu) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/scl/fo/hnyvxay9o1hrzskj7lqmz/AAs5f7bGdK66NkiFSS8v-ng?rlkey=wejnpueyyoe7vesz5g53rg6xb&dl=0) | HW2 out
 5    | 04/30 (Tue) | [Entity Set Expansion: from Seed Words to Sets](https://www.dropbox.com/scl/fo/n99onmjr1236ln58i2fdj/ACbAXb5X7LR8wyOggl1HtPA?rlkey=o01k1azqjwjip5xiw1wun5ysb&dl=0) |
 5    | 05/02 (Thu) | [Entity Recognition: from Supervised to Data-Driven](https://www.dropbox.com/scl/fo/e3h9lpctq7n2lip1sysh2/AOmnRMWtz5o5Uk4e-PygTh0?rlkey=cuaoqvietsn8mz2ygzlbgykhx&dl=0) |
-6    | 05/07 (Tue) | Distant Supervision for Relation Extraction |
-6    | 05/09 (Thu) | Text-Rich Network: a Collaboration between Texts and Networks |
+6    | 05/07 (Tue) | [Distant Supervision for Relation Extraction](https://www.dropbox.com/scl/fo/z9tdg460fbdaeg36w4s6i/AL5houkckOXVMDAzYYwXzdA?rlkey=xar8g7w4yoxe4al0xdgmgxb1c&dl=0) |
+6    | 05/09 (Thu) | [Text-Rich Network: a Collaboration between Texts and Networks](https://www.dropbox.com/scl/fo/72arhpkh2kazx64aoew5l/AK8kiJlYcFLC2LSBGGh64oc?rlkey=ukl0xh9tliak7b2i5r8d2o64u&dl=0) |
 7    | 05/14 (Tue) | Topic Taxonomy Construction |
 7    | 05/16 (Thu) | Weakly Supervised Text Classification |
 8    | 05/21 (Tue) | Learning with Noisy Data | HW2 due
