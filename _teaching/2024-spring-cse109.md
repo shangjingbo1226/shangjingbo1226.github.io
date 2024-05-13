@@ -56,7 +56,7 @@ Date | Topic & Slides | Homework | Additional Notes
 04/22 | [Basic Graph Algorithms](https://www.dropbox.com/scl/fo/r4twwj56r8q1ukl2063g4/AKEIiwx574jpLcg0U4uKKdk?rlkey=wpgkgko3t8cph7l87f0t7767y&dl=0) | Problem Set #3 |
 04/29 | [Computational Geometry](https://www.dropbox.com/scl/fo/pwu1m42b31zqrm50tkmlj/AL4EqPfiq6OGBbDa_vLGjRM?rlkey=frti4p14ep5zjv088r5qt71kd&dl=0) | Problem Set #4 |
 05/06 | [Dynamic Programming (Intermediate)](https://www.dropbox.com/scl/fo/7fl2dojos1kjeyf98su2a/AGFObUsFIom-x6d9yU3TQZg?rlkey=m17odye7vnqgt610p7h9e9y79&dl=0) | Problem Set #5 |
-05/13 | Combinatorics and Algebra |  Problem Set #6 |
+05/13 | [Combinatorics and Algebra](https://www.dropbox.com/scl/fo/21fvg0rpcllk2i5hzb26p/AGFjUyp7b_JTz4vG0ys_RyE?rlkey=xs2ldml4dv8cpaxquxjrv6pzu&dl=0) |  Problem Set #6 |
 05/20 | Network Flow | Problem Set #7 | 
 05/27 | No Class (Memorial Day) | |
 06/03 | Segment Tree | Problem Set #8 |
