@@ -80,8 +80,8 @@ Week | Date        | Topic & Slides                                             
 5    | 05/02 (Thu) | [Entity Recognition: from Supervised to Data-Driven](https://www.dropbox.com/scl/fo/e3h9lpctq7n2lip1sysh2/AOmnRMWtz5o5Uk4e-PygTh0?rlkey=cuaoqvietsn8mz2ygzlbgykhx&dl=0) |
 6    | 05/07 (Tue) | [Distant Supervision for Relation Extraction](https://www.dropbox.com/scl/fo/z9tdg460fbdaeg36w4s6i/AL5houkckOXVMDAzYYwXzdA?rlkey=xar8g7w4yoxe4al0xdgmgxb1c&dl=0) |
 6    | 05/09 (Thu) | [Text-Rich Network: a Collaboration between Texts and Networks](https://www.dropbox.com/scl/fo/72arhpkh2kazx64aoew5l/AK8kiJlYcFLC2LSBGGh64oc?rlkey=ukl0xh9tliak7b2i5r8d2o64u&dl=0) |
-7    | 05/14 (Tue) | Topic Taxonomy Construction |
-7    | 05/16 (Thu) | Weakly Supervised Text Classification |
+7    | 05/14 (Tue) | [Topic Taxonomy Construction](https://www.dropbox.com/scl/fo/is8tq2lhwz63eogsuu9om/AKDLyD1RAFqnbQLIn-Ejd0s?rlkey=mmqu1yrow8wtwp9uru6vpci5k&dl=0) |
+7    | 05/16 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/9yql74i8k5m338hc5mm45/AMb1UH0S5f15wOqx3U5MGG4?rlkey=4axkmcsvmriukj85c91q2306w&dl=0) |
 8    | 05/21 (Tue) | Learning with Noisy Data | HW2 due
 8    | 05/23 (Thu) | Label Bias in Weak Supervision & Few-shot NER | DM challenge due
 9    | 05/28 (Tue) | Large Language Models | 
