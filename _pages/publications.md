@@ -33,6 +33,8 @@ Li Zhong, Zilong Wang and Jingbo Shang. **ACL** (Findings) 2024. [[arXiv:2402.16
 Shang Zhou, Feng Yao, Chengyu Dong, Zihan Wang and Jingbo Shang. **ACL** (Findings) 2024.
 * Stronger, Lighter, Better: Towards Life-Long Attribute Value Extraction for E-Commerce Products<br/>
 Tao Zhang, Chenwei Zhang, Xian Li, Jingbo Shang, Hoang H Nguyen and Philip S. Yu. **ACL** (Findings) 2024.
+* MemoryLLM: Towards Self-Updatable Large Language Models<br/>
+Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang and Julian McAuley. **ICML** 2024. [[arXiv:2402.04624](https://arxiv.org/abs/2402.04624)]
 * Large Language Models for Time Series: A Survey<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. **IJCAI** (survey track) 2024. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
 * Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
@@ -51,8 +53,6 @@ Dheeraj Mekala\*, Alex Nguyen\* and Jingbo Shang. [[arXiv:2402.10430](https://ar
 Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu and Jingbo Shang. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
 * Learning a Decision Tree Algorithm with Transformers<br/>
 Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. [[arXiv:2402.03774](https://arxiv.org/abs/2402.03774)]
-* MemoryLLM: Towards Self-Updatable Large Language Models<br/>
-Yu Wang, Xiusi Chen, Jingbo Shang and Julian McAuley. [[arXiv:2402.04624](https://arxiv.org/abs/2402.04624)]
 * Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation<br/>
 Prashant Krishnan, Zilong Wang, Yangkun Wang and Jingbo Shang. **LREC-COLING** 2024.
 * How Few Davids Improve One Goliath: Federated Learning in Resource-Skew Edge Computing Environments<br/>
