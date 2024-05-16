@@ -15,14 +15,28 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
+Letian Peng\*, Yuwei Zhang\*, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang and Jingbo Shang. **ACL** 2024. [[arXiv:2402.09642](https://arxiv.org/abs/2402.09642)]
+* Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning<br/>
+Yongqi Tong, Dawei Li, Sizhe Wang, Yujia Wang, Fei Teng and Jingbo Shang. **ACL** 2024. [[arXiv:2403.20046](https://arxiv.org/abs/2403.20046)]
 * Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph.<br/>
-Xiaochen Kev Gao\*, Feng Yao\*, Kewen Zhao, Beilei He, Animesh Kumar, Vish Krishnan, Jingbo Shang. [[arXiv:2404.14372](https://arxiv.org/abs/2404.14372)]
+Xiaochen Kev Gao\*, Feng Yao\*, Kewen Zhao, Beilei He, Animesh Kumar, Vish Krishnan and Jingbo Shang. **ACL** 2024. [[arXiv:2404.14372](https://arxiv.org/abs/2404.14372)]
+* Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving<br/>
+Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner and Jingbo Shang. **ACL** 2024. [[arXiv:2404.07382](https://arxiv.org/abs/2404.07382)]
+* Controllable Data Augmentation for Few-Shot Text Mining with Chain-of-Thought Attribute Manipulation<br/>
+Letian Peng, Yuwei Zhang and Jingbo Shang. **ACL** (Findings) 2024.
+* Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
+Dheeraj Mekala, Alex Nguyen and Jingbo Shang. **ACL** (Findings) 2024.
+* LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step<br/>
+Li Zhong, Zilong Wang and Jingbo Shang. **ACL** (Findings) 2024.
+* Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs<br/>
+Shang Zhou, Feng Yao, Chengyu Dong, Zihan Wang and Jingbo Shang. **ACL** (Findings) 2024.
+* Stronger, Lighter, Better: Towards Life-Long Attribute Value Extraction for E-Commerce Products<br/>
+Tao Zhang, Chenwei Zhang, Xian Li, Jingbo Shang, Hoang H Nguyen and Philip S. Yu. **ACL** (Findings) 2024.
 * Large Language Models for Time Series: A Survey<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. **IJCAI** (survey track) 2024. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
 * Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
 Letian Peng and Jingbo Shang. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
-* Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving<br/>
-Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner and Jingbo Shang. [[arXiv:2404.07382](https://arxiv.org/abs/2404.07382)]
 * MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks<br/>
 Letian Peng, Zilong Wang, Feng Yao, Zihan Wang and Jingbo Shang. [[arXiv:2404.00457](https://arxiv.org/abs/2404.00457)]
 * DocMaster: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering<br/>
@@ -33,8 +47,6 @@ Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024.
 Lily Zhong, Zilong Wang and Jingbo Shang. [[arXiv:2402.16906](https://arxiv.org/abs/2402.16906)]
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
 Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
-* Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
-Letian Peng\*, Yuwei Zhang\*, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang and Jingbo Shang. [[arXiv:2402.09642](https://arxiv.org/abs/2402.09642)]
 * Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
 Dheeraj Mekala\*, Alex Nguyen\* and Jingbo Shang. [[arXiv:2402.10430](https://arxiv.org/abs/2402.10430)]
 * Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
