@@ -28,7 +28,7 @@ Letian Peng, Yuwei Zhang and Jingbo Shang. **ACL** (Findings) 2024.
 * Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
 Dheeraj Mekala, Alex Nguyen and Jingbo Shang. **ACL** (Findings) 2024.
 * LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step<br/>
-Li Zhong, Zilong Wang and Jingbo Shang. **ACL** (Findings) 2024.
+Li Zhong, Zilong Wang and Jingbo Shang. **ACL** (Findings) 2024. [[arXiv:2402.16906](https://arxiv.org/abs/2402.16906)]
 * Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs<br/>
 Shang Zhou, Feng Yao, Chengyu Dong, Zihan Wang and Jingbo Shang. **ACL** (Findings) 2024.
 * Stronger, Lighter, Better: Towards Life-Long Attribute Value Extraction for E-Commerce Products<br/>
@@ -43,8 +43,6 @@ Letian Peng, Zilong Wang, Feng Yao, Zihan Wang and Jingbo Shang. [[arXiv:2404.00
 Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024. 
 * READ: Improving Relation Extraction from an ADversarial Perspective<br/>
 Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
-* LDB: A Large Language Model Debugger via Verifying Runtime Execution Step-by-step<br/>
-Lily Zhong, Zilong Wang and Jingbo Shang. [[arXiv:2402.16906](https://arxiv.org/abs/2402.16906)]
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
 Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
