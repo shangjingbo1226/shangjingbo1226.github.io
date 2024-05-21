@@ -82,8 +82,8 @@ Week | Date        | Topic & Slides                                             
 6    | 05/09 (Thu) | [Text-Rich Network: a Collaboration between Texts and Networks](https://www.dropbox.com/scl/fo/72arhpkh2kazx64aoew5l/AK8kiJlYcFLC2LSBGGh64oc?rlkey=ukl0xh9tliak7b2i5r8d2o64u&dl=0) |
 7    | 05/14 (Tue) | [Topic Taxonomy Construction](https://www.dropbox.com/scl/fo/is8tq2lhwz63eogsuu9om/AKDLyD1RAFqnbQLIn-Ejd0s?rlkey=mmqu1yrow8wtwp9uru6vpci5k&dl=0) |
 7    | 05/16 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/9yql74i8k5m338hc5mm45/AMb1UH0S5f15wOqx3U5MGG4?rlkey=4axkmcsvmriukj85c91q2306w&dl=0) |
-8    | 05/21 (Tue) | Learning with Noisy Data | HW2 due
-8    | 05/23 (Thu) | Label Bias in Weak Supervision & Few-shot NER | DM challenge due
+8    | 05/21 (Tue) | [Learning with Noisy Data](https://www.dropbox.com/scl/fo/jlneeavv2w5l5axlidp1y/ABEq2bdjB1mdZgCF6LXFbbs?rlkey=wbs9qz3yyeyrwx9cfso1i5bys&dl=0) | HW2 due
+8    | 05/23 (Thu) | [Label Bias in Weak Supervision & Few-shot NER](https://www.dropbox.com/scl/fo/91cbooddny6d8vru0yruo/AF96LNnpUGpWpXSP9329OGM?rlkey=4o4gbvybrcrucx701f90j35ym&dl=0) | DM challenge due
 9    | 05/28 (Tue) | Large Language Models | 
 9    | 05/30 (Thu) | Project Presentations                                           |
 10   | 06/04 (Tue) | Project Presentations                                           |
