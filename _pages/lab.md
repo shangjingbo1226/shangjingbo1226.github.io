@@ -179,16 +179,6 @@ Current Members
       </div>
       </center>
     </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/xiyuan zhang.jpg" class="author__avatar" alt="Xiyuan Zhang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://xiyuanzh.github.io/">Xiyuan Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - )</p>
-      </div>
-      </center>
-    </div>
 </div>
 
 ## Master Students
@@ -231,7 +221,17 @@ Lab Alumni
 ## PhDs
 
 <div class="row">
-      <div class="column">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/xiyuan zhang.jpg" class="author__avatar" alt="Xiyuan Zhang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://xiyuanzh.github.io/">Xiyuan Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - 2024 --> Amazon)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
       <center>
       <div class="author__avatar">
             <img src="/images/img/students/jiacheng li.jpeg" class="author__avatar" alt="Jiacheng Li">
