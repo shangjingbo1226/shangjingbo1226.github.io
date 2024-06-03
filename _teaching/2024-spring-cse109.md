@@ -59,7 +59,7 @@ Date | Topic & Slides | Homework | Additional Notes
 05/13 | [Combinatorics and Algebra](https://www.dropbox.com/scl/fo/21fvg0rpcllk2i5hzb26p/AGFjUyp7b_JTz4vG0ys_RyE?rlkey=xs2ldml4dv8cpaxquxjrv6pzu&dl=0) |  Problem Set #6 |
 05/20 | [Network Flow](https://www.dropbox.com/scl/fo/fo1xmyagjuym4c6un9frg/AOzkNVsacNb0rjP5Jlc25pA?rlkey=uwkmqpu5jva1jc2qo5t56l86v&dl=0) | Problem Set #7 | 
 05/27 | No Class (Memorial Day) | |
-06/03 | Segment Tree | Problem Set #8 |
+06/03 | [Segment Tree](https://www.dropbox.com/scl/fo/6pw58a15r3lf9ogqghd5b/AMYT5lnDTnT89Urokuv1RQA?rlkey=ahskx0j6548y8lpdbkv1o7d0z&dl=0) | Problem Set #8 |
 
 
 Homework and Grading Policy
