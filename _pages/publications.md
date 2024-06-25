@@ -26,7 +26,7 @@ Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan
 * Controllable Data Augmentation for Few-Shot Text Mining with Chain-of-Thought Attribute Manipulation<br/>
 Letian Peng, Yuwei Zhang and Jingbo Shang. **ACL** (Findings) 2024.
 * Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
-Dheeraj Mekala, Alex Nguyen and Jingbo Shang. **ACL** (Findings) 2024.
+Dheeraj Mekala, Alex Nguyen and Jingbo Shang. **ACL** (Findings) 2024. [[arXiv:2402.10430](https://arxiv.org/abs/2402.10430)]
 * LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step<br/>
 Li Zhong, Zilong Wang and Jingbo Shang. **ACL** (Findings) 2024. [[arXiv:2402.16906](https://arxiv.org/abs/2402.16906)]
 * Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs<br/>
@@ -47,8 +47,6 @@ Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024
 Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
 Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
-* Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models<br/>
-Dheeraj Mekala\*, Alex Nguyen\* and Jingbo Shang. [[arXiv:2402.10430](https://arxiv.org/abs/2402.10430)]
 * Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
 Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu and Jingbo Shang. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
 * Learning a Decision Tree Algorithm with Transformers<br/>
