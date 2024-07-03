@@ -9,17 +9,15 @@ redirect_from:
 ---
 
 
-I'm an Assistant Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I'm also a coach of the UCSD's ACM-ICPC team.
+I'm an Associate Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I'm also a coach of the UCSD's ACM-ICPC team.
 
 ## Research Interests
 
-I'm broadly interested in Data Mining Problems and Applications:
-- Text Mining, Information Extraction, and Natural Language Processing
-- Structured Mining in Large-Scale Text-Rich Networks
-- Understanding and Improving Deep Neural Networks
-- Interdisciplinary Applications (e.g., Biomedical, IoT, ...)
+Our lab specializes in **knowledge extraction and discovery** using **weak supervision** techniques. We focus on minimizing user effort through an innovative paradigm called **extremely weak supervision** (**XWS**), which involves only brief natural-language user input to define tasks, similar to the task-specific guidelines provided to human annotators.
 
-Most of my research projects focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
+We adopt a data-driven approach to improve the accuracy of knowledge extraction and discovery without requiring significant additional human annotations. Since 2018, we have been at the forefront of **using**, **understanding**, and **improving** **language models**. The recent advancements in large language models (**LLMs**) have provided us with more powerful tools to enhance our research.
+
+Our methods are **domain and language agnostic**, relying only on pre-trained LLMs in specific domains and languages. This flexibility allows us to extend the XWS concept to various tasks and domains, including biomedical, business, IoT, and more.
 
 
 
@@ -31,7 +29,7 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=
 
 ## Cooking from Computer Science Perspective
 
-I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves in first time.
+I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves for the first time.
 
 Cooking is one of my hobbies and it is a great relax to me. From the computer science perspective, I can see many related concepts and problems: (1) parallelization, (2) hyper-parameter tuning, (3) scheduling, etc. In my humble opinion, cooking, to some extent, should be easier than making complicated deep learning models effective in experiments. Throughout my 5-year PhD study at UIUC, I have summarized some tricks to prepare two delicious entrees in 30 mins. Here is my [Youtube Channel](https://www.youtube.com/channel/UCxPhuvmfd_AeBqGX8XaiZDg). Since my cooking secrets are mostly about Chinese food, so the videos are in Chinese. If you like it, don't forget to subscribe it!
 

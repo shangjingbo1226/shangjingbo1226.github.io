@@ -16,7 +16,9 @@ Education
 
 Work Experience
 ======
-- **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Present
+- **University of California, San Diego**, La Jolla, CA,  Jul 2024 - Present
+  * Associate Professor, CSE & HDSI
+- **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Jun 2024
   * Assistant Professor, CSE & HDSI
 - **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
   * Quantitative Research Intern
