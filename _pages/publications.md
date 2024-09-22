@@ -15,11 +15,27 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification<br/>
+Letian Peng, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.11115](https://arxiv.org/abs/2406.11115)]
+* Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
+Letian Peng, Zilong Wang, Jingbo Shang. **EMNLP** 2024. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
+* Open-world Multi-label Text Classification with Extremely Weak Supervision<br/>
+Xintong Li, Jinya Jiang, Ria Dharmani, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang. **EMNLP** 2024. [[arXiv:2407.05609](https://arxiv.org/abs/2407.05609)]
+* Data Contamination Can Cross Language Barriers<br/>
+Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar, Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.13236](https://arxiv.org/abs/2406.13236)]
+* ToolVerifier: Generalization to New Tools via Self-Verification<br/>
+Dheeraj Mekala, Jason E Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang, Jane Dwivedi-Yu. **EMNLP** (Findings) 2024. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
+* Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
+Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu, Jingbo Shang. **EMNLP** (Findings) 2024. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
+* Learning a Decision Tree Algorithm with Transformers<br/>
+Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. **TMLR** 2024. [[arXiv:2402.03774](https://arxiv.org/abs/2402.03774)]
+* Contextual Inference from Sparse Shopping Transactions Based on Motif Patterns<br/>
+Jiayun Zhang, Xinyang Zhang, Dezhi Hong, Rajesh K. Gupta, and Jingbo Shang. **TKDE** 2024.
 * Answer is All You Need: Instruction-following Text Embedding via Answering the Question<br/>
 Letian Peng\*, Yuwei Zhang\*, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang and Jingbo Shang. **ACL** 2024. [[arXiv:2402.09642](https://arxiv.org/abs/2402.09642)]
 * Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning<br/>
 Yongqi Tong, Dawei Li, Sizhe Wang, Yujia Wang, Fei Teng and Jingbo Shang. **ACL** 2024. [[arXiv:2403.20046](https://arxiv.org/abs/2403.20046)]
-* Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph.<br/>
+* Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph<br/>
 Xiaochen Kev Gao\*, Feng Yao\*, Kewen Zhao, Beilei He, Animesh Kumar, Vish Krishnan and Jingbo Shang. **ACL** 2024. [[arXiv:2404.14372](https://arxiv.org/abs/2404.14372)]
 * Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving<br/>
 Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner and Jingbo Shang. **ACL** 2024. [[arXiv:2404.07382](https://arxiv.org/abs/2404.07382)]
@@ -37,20 +53,12 @@ Tao Zhang, Chenwei Zhang, Xian Li, Jingbo Shang, Hoang H Nguyen and Philip S. Yu
 Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang and Julian McAuley. **ICML** 2024. [[arXiv:2402.04624](https://arxiv.org/abs/2402.04624)]
 * Large Language Models for Time Series: A Survey<br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta and Jingbo Shang. **IJCAI** (survey track) 2024. [[arXiv:2402.01801](https://arxiv.org/abs/2402.01801)]
-* Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
-Letian Peng and Jingbo Shang. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
 * MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks<br/>
 Letian Peng, Zilong Wang, Feng Yao, Zihan Wang and Jingbo Shang. [[arXiv:2404.00457](https://arxiv.org/abs/2404.00457)]
 * DocMaster: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering<br/>
 Alex Nguyen, Zilong Wang, Jingbo Shang and Dheeraj Mekala. **NAACL** (demo) 2024. 
 * READ: Improving Relation Extraction from an ADversarial Perspective<br/>
 Dawei Li, William P Hogan and Jingbo Shang. **NAACL** (Findings) 2024. 
-* ToolVerifier: Generalization to New Tools via Self-Verification<br/>
-Dheeraj Mekala, Jason Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
-* Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
-Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu and Jingbo Shang. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
-* Learning a Decision Tree Algorithm with Transformers<br/>
-Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. [[arXiv:2402.03774](https://arxiv.org/abs/2402.03774)]
 * Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation<br/>
 Prashant Krishnan, Zilong Wang, Yangkun Wang and Jingbo Shang. **LREC-COLING** 2024.
 * How Few Davids Improve One Goliath: Federated Learning in Resource-Skew Edge Computing Environments<br/>
