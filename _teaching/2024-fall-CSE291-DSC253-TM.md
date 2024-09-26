@@ -42,11 +42,11 @@ TA and Office Hours
 
 - **TAs**:
     - Zi Lin (zil061 AT ucsd.edu)
-        - Office Hour: TBD
-        - Location: TBD
+        - Office Hour: Wednesdays, 1 to 2 PM
+        - Location: [https://ucsd.zoom.us/j/96282267255?pwd=ar8XzmnTpiAEFxvaIhaBGPG1NmaSRt.1](https://ucsd.zoom.us/j/96282267255?pwd=ar8XzmnTpiAEFxvaIhaBGPG1NmaSRt.1)
     - Weitang Liu (wel022 AT ucsd.edu)
-        - Office Hour: TBD
-        - Location: TBD
+        - Office Hour: Fridays, 1 to 2 PM
+        - Location: CSE B275.
 
 
 Note: all times are in **Pacific Time**.
@@ -68,7 +68,7 @@ Lecture Schedule
 **HW Note**: All HWs due by the end of the day, Pacific Time. 
 
 Week | Date        | Topic & Slides                                                  | Events
-0    | 09/26 (Thu) | Intro, Logistics, and Course Project |
+0    | 09/26 (Thu) | [Intro, Logistics, and Course Project](https://www.dropbox.com/scl/fo/6y609qa8dy2h1kl1j2rm5/ADYrb3Yl6RmrN46wcWD9S9k?rlkey=5fznuq20vduxne42yyrakkh85&dl=0) |
 1    | 10/01 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF | HW1 out
 1    | 10/03 (Thu) | Word Embedding: word2vec and GloVe |
 2    | 10/08 (Tue) | Language Models: from N-Gram to Neural LMs |
