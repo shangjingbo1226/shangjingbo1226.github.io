@@ -10,11 +10,16 @@ author_profile: true
 [[Google Scholar](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en) \| [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shang:Jingbo)] (\* Equal Contribution)
 
 ### Book
+
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2024
 
+* Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing<br/>
+Letian Peng and Jingbo Shang. **NeurIPS** 2024. [[arXiv:2405.07726](https://arxiv.org/abs/2405.07726)]
+* UniMTS: Unified Pre-training for Motion Time Series<br/>
+Xiyuan Zhang, Diyan Teng, Ranak Roy Chowdhury, Shuheng Li, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **NeurIPS** 2024.
 * Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification<br/>
 Letian Peng, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.11115](https://arxiv.org/abs/2406.11115)]
 * Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>

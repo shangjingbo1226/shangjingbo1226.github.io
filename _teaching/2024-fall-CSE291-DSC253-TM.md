@@ -14,7 +14,7 @@ location: "La Jolla, CA"
 Online Lecturing for First Week
 ======
 
-To offer waitlist students opportunities to learn more about this course, in the first week, we deliver the lecture over Zoom: [https://ucsd.zoom.us/j/98881116686](https://ucsd.zoom.us/j/98881116686). The lectures will be recorded. 
+To offer waitlist students opportunities to learn more about this course, we deliver the first two lectures over Zoom: [https://ucsd.zoom.us/j/98881116686](https://ucsd.zoom.us/j/98881116686). The lectures will be recorded. 
 
 Overview
 ======
@@ -86,7 +86,7 @@ Week | Date        | Topic & Slides                                             
 8    | 11/19 (Tue) | Label Bias in Weak Supervision & Few-shot NER | DM challenge due
 8    | 11/21 (Thu) | Large Language Models | 
 9    | 11/26 (Tue) | Project Presentations                                           |
-9    | 11/28 (Thu) | Project Presentations                                           |
+9    | 11/28 (Thu) | No Class (Thanksgiving Day)                                     |
 10   | 12/03 (Tue) | Project Presentations                                           |
 10   | 12/05 (Thu) | Project Presentations                                           |
 
