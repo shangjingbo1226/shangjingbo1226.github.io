@@ -69,7 +69,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 0    | 09/26 (Thu) | [Intro, Logistics, and Course Project](https://www.dropbox.com/scl/fo/6y609qa8dy2h1kl1j2rm5/ADYrb3Yl6RmrN46wcWD9S9k?rlkey=5fznuq20vduxne42yyrakkh85&dl=0) |
-1    | 10/01 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF | HW1 out
+1    | 10/01 (Tue) | [Basics: Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/lka07lp13zqjautotlkq7/AFx01Bm0LKt2fSIgpv1-Uzw?rlkey=lksd0co3myuz6vi21sddxuliw&dl=0) | HW1 out
 1    | 10/03 (Thu) | Word Embedding: word2vec and GloVe |
 2    | 10/08 (Tue) | Language Models: from N-Gram to Neural LMs |
 2    | 10/10 (Thu) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
