@@ -152,16 +152,6 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/ranak roy chowdhury.jpg" class="author__avatar" alt="Ranak Roy Chowdhury">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/ranakroychowdhury/">Ranak Roy Chowdhury</a><br/>w/ Rajesh Gupta<br/>(2019 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
             <img src="/images/img/students/shuheng li.png" class="author__avatar" alt="Shuheng Li">
       </div>
       <div class="author__content">
@@ -210,7 +200,7 @@ Current Members
 
 ## Undergraduate Students
 
-
+- Shang Zhou
 
 
 <br/>
@@ -221,6 +211,16 @@ Lab Alumni
 ## PhDs
 
 <div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/ranak roy chowdhury.jpg" class="author__avatar" alt="Ranak Roy Chowdhury">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/ranakroychowdhury/">Ranak Roy Chowdhury</a><br/>w/ Rajesh Gupta<br/>(2019 - 2024 --> Amazon)</p>
+      </div>
+      </center>
+    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
