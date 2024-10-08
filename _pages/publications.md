@@ -32,6 +32,8 @@ Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar, Jingbo Shang. **EMNL
 Dheeraj Mekala, Jason E Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang, Jane Dwivedi-Yu. **EMNLP** (Findings) 2024. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
 Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu, Jingbo Shang. **EMNLP** (Findings) 2024. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
+* CloudSheep System for WMT24 Discourse-Level Literary Translation<br/>
+Lisa Liu, Ryan Liu, Angela Tsai and Jingbo Shang. **WMT** 2024. (a HDSI Undergrad Scholar project)
 * Learning a Decision Tree Algorithm with Transformers<br/>
 Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. **TMLR** 2024. [[arXiv:2402.03774](https://arxiv.org/abs/2402.03774)]
 * Contextual Inference from Sparse Shopping Transactions Based on Motif Patterns<br/>
