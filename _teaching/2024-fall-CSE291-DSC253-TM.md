@@ -73,7 +73,7 @@ Week | Date        | Topic & Slides                                             
 1    | 10/03 (Thu) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/scl/fo/wg2aadj8gw42twi6akur9/AER1Bdybcv-oGHLBb4f5XCE?rlkey=nd2ttg8pcz3iemr6krgyds69n&dl=0) |
 2    | 10/08 (Tue) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/scl/fo/rv94mgonb9jh6y95kg45m/AJlsMosOO7PcegyfSzkKbh0?rlkey=4qkcecj4b7fjagxkbcdcjfooy&dl=0) |
 2    | 10/10 (Thu) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/jxqq1b69bb8xhxz9nee6f/AAtDhuciqrZpY-OujH9WNGs?rlkey=o1n4jsgkmkwm6ndvc4ws9nt7f&dl=0) | Project Proposal Due (End of the Day)
-3    | 10/15 (Tue) | Sentiment Analysis and Document Classification |
+3    | 10/15 (Tue) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/scl/fo/f67zmfgqebgb38r3b03ra/AC_p4Gu0K32K_X8m-0Sz3A4?rlkey=ket5dorfnntk2cjljr3tjjpvz&dl=0) |
 3    | 10/17 (Thu) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due, DM challenge roll-out
 4    | 10/22 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
 4    | 10/24 (Thu) | Entity Set Expansion: from Seed Words to Sets |
