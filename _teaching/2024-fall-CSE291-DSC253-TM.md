@@ -104,8 +104,8 @@ Data Mining Challenge (30%)
 It is a individual-based text mining competition with quantitative evaluation. 
 The challenge runs **from Oct 17 2024 0:00:01 AM to Nov 19, 2024 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: [KaggleChallenge2024-10-17.zip](https://www.dropbox.com/s/rs9r3k3hc2qajwx/KaggleChallenge2024-10-17.zip?dl=1)
+- Kaggle challenge link: [https://www.kaggle.com/t/e022579e073a4846bd6e2bafc5639303](https://www.kaggle.com/t/e022579e073a4846bd6e2bafc5639303)
 - Survey to map Kaggle account name to student names: TBD
 
 Project (40%)
