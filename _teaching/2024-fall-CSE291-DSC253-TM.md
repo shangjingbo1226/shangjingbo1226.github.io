@@ -75,15 +75,15 @@ Week | Date        | Topic & Slides                                             
 2    | 10/10 (Thu) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/jxqq1b69bb8xhxz9nee6f/AAtDhuciqrZpY-OujH9WNGs?rlkey=o1n4jsgkmkwm6ndvc4ws9nt7f&dl=0) | Project Proposal Due (End of the Day)
 3    | 10/15 (Tue) | [Sentiment Analysis and Document Classification](https://www.dropbox.com/scl/fo/f67zmfgqebgb38r3b03ra/AC_p4Gu0K32K_X8m-0Sz3A4?rlkey=ket5dorfnntk2cjljr3tjjpvz&dl=0) |
 3    | 10/17 (Thu) | [Topic Modeling: PLSA, LDA, and HMM](https://www.dropbox.com/scl/fo/k73zklt4raya3zfuthklm/AIsJqGR0zrqPtVV5pE5HYw4?rlkey=xi8i6fz502sqdmz1k9kjbks0d&dl=0) | HW1 Due, DM challenge roll-out
-4    | 10/22 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
-4    | 10/24 (Thu) | Entity Set Expansion: from Seed Words to Sets |
-5    | 10/29 (Tue) | Entity Recognition: from Supervised to Data-Driven |
-5    | 10/31 (Thu) | Distant Supervision for Relation Extraction |
-6    | 11/05 (Tue) | Text-Rich Network: a Collaboration between Texts and Networks |
-6    | 11/07 (Thu) | Topic Taxonomy Construction |
-7    | 11/12 (Tue) | Weakly Supervised Text Classification |
-7    | 11/14 (Thu) | Learning with Noisy Data | HW2 due
-8    | 11/19 (Tue) | Label Bias in Weak Supervision & Few-shot NER | DM challenge due
+4    | 10/22 (Tue) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/scl/fo/g8f850bjw8c4kha4z6x8l/AI5HFcYCCCpzqW5UpUbFibk?rlkey=iw7hfff8qgbz9uumxud4b2gd8&dl=0) | HW2 out
+4    | 10/24 (Thu) | [Entity Set Expansion: from Seed Words to Sets](https://www.dropbox.com/scl/fo/2ngq0gmslxt4qy2zgqqkv/ALM-eQGroyJZM_NReDFGBmo?rlkey=9wbrxngq3fz994xuw2h46khi0&dl=0) |
+5    | 10/29 (Tue) | [Entity Recognition: from Supervised to Data-Driven](https://www.dropbox.com/scl/fo/0awngvrnmz2fc4xx3ohr9/AATa59Ssqq6RAdSUT8PJy-g?rlkey=6bm3viwsxbilx5o4n5z2gikuy&dl=0) |
+5    | 10/31 (Thu) | [Distant Supervision for Relation Extraction](https://www.dropbox.com/scl/fo/vvrqyjo61zfdycd120cgo/AD1rC4blD20kBewVhodMPSs?rlkey=ntdl6w4kc6ot5k5790dc02rsq&dl=0) |
+6    | 11/05 (Tue) | [Topic Taxonomy Construction](https://www.dropbox.com/scl/fo/rlj3z5loze34vwuilctao/ABNIHEXyj3h1FuMfP4DMENw?rlkey=4sn0ouwfjeds6d2t5z8lu8tsm&dl=0) |
+6    | 11/07 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/6ym05fomn6u5kir2cnik9/AHmJbW8ZdjVG6-InAAiyx6c?rlkey=j16cv06ho7h8sefll1y17182y&dl=0) |
+7    | 11/12 (Tue) | [Weakly Supervised Text Classification (Advanced)](https://www.dropbox.com/scl/fo/8meqir3b0dak9akyfba3y/ACVcmXwO1_qVa_T0iJVV0YM?rlkey=cf1q0y6pccczjv2wxnm7lpe4k&dl=0) |
+7    | 11/14 (Thu) | [Learning with Noisy Data](https://www.dropbox.com/scl/fo/gpcpvzdam1o40jfaromwn/ABo_kNBXQ5tM23uKLLtRBOA?rlkey=f0g8riq93g0rd0zzefv2hr44m&dl=0) | HW2 due
+8    | 11/19 (Tue) | [Label Bias in Weak Supervision & Few-shot NER](https://www.dropbox.com/scl/fo/gsnb8dny344i33umfhyuj/AIL7aDW5C-8HktvEe-nEtsc?rlkey=zp7xzs19h57siod8ta8ys4leh&dl=0) | DM challenge due
 8    | 11/21 (Thu) | Large Language Models | 
 9    | 11/26 (Tue) | Project Presentations                                           |
 9    | 11/28 (Thu) | No Class (Thanksgiving Day)                                     |
