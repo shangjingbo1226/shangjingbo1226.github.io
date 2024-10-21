@@ -95,7 +95,7 @@ Homework (30%)
 
 - **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/s/m0l9kt39mggc7by/HW-1.zip?dl=1).
     - Due: Oct 17
-- **HW2.** Phrase Mining Applications and Future Work. 
+- **HW2.** [Phrase Mining Applications and Future Work](https://www.dropbox.com/scl/fi/6ug1sp562mjswemlqx5t7/CSE291_Text_Mining_HW2.pdf?rlkey=i7pow8fb4etaxbkogmgps47u4&dl=1). 
     - Due: Nov 14
 
 Data Mining Challenge (30%)
