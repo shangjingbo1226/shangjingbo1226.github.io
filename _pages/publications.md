@@ -79,6 +79,8 @@ Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot,
 
 ### 2023
 
+* Single-cell analysis of chromatin accessibility in the adult mouse brain<br/>
+Songpeng Zu, Yang Eric Li, Kangli Wang, Ethan J. Armand, Sainath Mamde, Maria Luisa Amaral, Yuelai Wang, Andre Chu, Yang Xie, Michael Miller, Jie Xu, Zhaoning Wang, Kai Zhang, Bojing Jia, Xiaomeng Hou, Lin Lin, Qian Yang, Seoyeon Lee, Bin Li, Samantha Kuan, Hanqing Liu, Jingtian Zhou, Antonio Pinto-Duarte, Jacinta Lucero, Julia Osteen, Michael Nunn, Kimberly A. Smith, Bosiljka Tasic, Zizhen Yao, Hongkui Zeng, Zihan Wang, Jingbo Shang, M. Margarita Behrens, Joseph R. Ecker, Allen Wang, Sebastian Preissl and Bing Ren. **Nature** 2023.
 * OmniOutput: A Model-centric Evaluation Framework through Output Distribution<br/>
 Weitang Liu, Ying Wai Li, Tianle Wang, Yi-Zhuang You and Jingbo Shang. [[arXiv:2312.03291](https://arxiv.org/abs/2312.03291)]
 * EmojiLM: Modeling the New Emoji Language<br/>
