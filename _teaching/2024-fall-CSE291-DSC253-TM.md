@@ -84,11 +84,11 @@ Week | Date        | Topic & Slides                                             
 7    | 11/12 (Tue) | [Weakly Supervised Text Classification (Advanced)](https://www.dropbox.com/scl/fo/8meqir3b0dak9akyfba3y/ACVcmXwO1_qVa_T0iJVV0YM?rlkey=cf1q0y6pccczjv2wxnm7lpe4k&dl=0) |
 7    | 11/14 (Thu) | [Learning with Noisy Data](https://www.dropbox.com/scl/fo/gpcpvzdam1o40jfaromwn/ABo_kNBXQ5tM23uKLLtRBOA?rlkey=f0g8riq93g0rd0zzefv2hr44m&dl=0) | HW2 due
 8    | 11/19 (Tue) | [Label Bias in Weak Supervision & Few-shot NER](https://www.dropbox.com/scl/fo/gsnb8dny344i33umfhyuj/AIL7aDW5C-8HktvEe-nEtsc?rlkey=zp7xzs19h57siod8ta8ys4leh&dl=0) | DM challenge due
-8    | 11/21 (Thu) | Large Language Models | 
-9    | 11/26 (Tue) | Project Presentations                                           |
+8    | 11/21 (Thu) | [Large Language Models](https://www.dropbox.com/scl/fo/zw9ertnpmrabkwbuwfqby/AK5xUHTvff8vXl8vzSOfy1A?rlkey=eq9zdxvdvevngw0eyh3adp7ix&dl=0) | 
+9    | 11/26 (Tue) | Project Presentations (Lightning Talks)                                           |
 9    | 11/28 (Thu) | No Class (Thanksgiving Day)                                     |
-10   | 12/03 (Tue) | Project Presentations                                           |
-10   | 12/05 (Thu) | Project Presentations                                           |
+10   | 12/03 (Tue) | Project Presentations (Selected Orals)                                           |
+10   | 12/05 (Thu) | Project Presentations (Selected Orals)                                           |
 
 Homework (30%)
 ======
