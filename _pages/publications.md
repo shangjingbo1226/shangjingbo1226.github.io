@@ -14,6 +14,11 @@ author_profile: true
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
+### 2025
+
+* ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition<br/>
+Ranak Roy Chowdhury, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. <b>AAAI</b> 2025.
+
 ### 2024
 
 * Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing<br/>
@@ -21,17 +26,17 @@ Letian Peng and Jingbo Shang. **NeurIPS** 2024. [[arXiv:2405.07726](https://arxi
 * UniMTS: Unified Pre-training for Motion Time Series<br/>
 Xiyuan Zhang, Diyan Teng, Ranak Roy Chowdhury, Shuheng Li, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **NeurIPS** 2024.
 * Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification<br/>
-Letian Peng, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.11115](https://arxiv.org/abs/2406.11115)]
+Letian Peng, Yi Gu, Chengyu Dong, Zihan Wang and Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.11115](https://arxiv.org/abs/2406.11115)]
 * Incubating Text Classifiers Following User Instruction with Nothing but LLM<br/>
-Letian Peng, Zilong Wang, Jingbo Shang. **EMNLP** 2024. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
+Letian Peng, Zilong Wang and Jingbo Shang. **EMNLP** 2024. [[arXiv:2404.10877](https://arxiv.org/abs/2404.10877)]
 * Open-world Multi-label Text Classification with Extremely Weak Supervision<br/>
-Xintong Li, Jinya Jiang, Ria Dharmani, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang. **EMNLP** 2024. [[arXiv:2407.05609](https://arxiv.org/abs/2407.05609)]
+Xintong Li, Jinya Jiang, Ria Dharmani, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **EMNLP** 2024. [[arXiv:2407.05609](https://arxiv.org/abs/2407.05609)]
 * Data Contamination Can Cross Language Barriers<br/>
-Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar, Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.13236](https://arxiv.org/abs/2406.13236)]
+Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar and Jingbo Shang. **EMNLP** 2024. [[arXiv:2406.13236](https://arxiv.org/abs/2406.13236)]
 * ToolVerifier: Generalization to New Tools via Self-Verification<br/>
-Dheeraj Mekala, Jason E Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang, Jane Dwivedi-Yu. **EMNLP** (Findings) 2024. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
+Dheeraj Mekala, Jason E Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang and Jane Dwivedi-Yu. **EMNLP** (Findings) 2024. [[arXiv:2402.14158](https://arxiv.org/abs/2402.14158)]
 * Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision<br/>
-Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu, Jingbo Shang. **EMNLP** (Findings) 2024. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
+Zihan Wang, Yunxuan Li, Yuexin Wu, Liangchen Luo, Le Hou, Hongkun Yu and Jingbo Shang. **EMNLP** (Findings) 2024. [[arXiv:2402.02658](https://arxiv.org/abs/2402.02658)]
 * CloudSheep System for WMT24 Discourse-Level Literary Translation<br/>
 Lisa Liu, Ryan Liu, Angela Tsai and Jingbo Shang. **WMT** 2024. (a HDSI Undergrad Scholar project)
 * Learning a Decision Tree Algorithm with Transformers<br/>
