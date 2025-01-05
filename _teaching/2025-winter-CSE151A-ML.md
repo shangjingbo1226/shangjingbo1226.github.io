@@ -8,7 +8,7 @@ date: 2025-01-07
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 2 to 3:20 PM.  **Room**: MOS 0113.  **Piazza**: [piazza.com/ucsd/winter2025/cse151a](https://piazza.com/ucsd/winter2025/cse151a).
+**Class Time**: Tuesdays and Thursdays, 2 to 3:20 PM.  **Room**: CTL 0125.  **Piazza**: [piazza.com/ucsd/winter2025/cse151a](https://piazza.com/ucsd/winter2025/cse151a).
 
 
 Online Lecturing for First Week
