@@ -42,6 +42,7 @@ TAs and Tutors
 
 - **Teaching Assistants**:
     - Bill Hogan (whogan AT ucsd.edu)
+    - Weitang Liu (wel022 AT ucsd.edu)
     - Zi Lin (zil061 AT ucsd.edu)
     - Dheeraj Mekala (dmekala AT ucsd.edu)
     - Yufan Zhuang (y5zhuang AT ucsd.edu)
@@ -57,9 +58,14 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Bill Hogan 
-    - Office Hour: TBD
+    - Office Hour: Mondays, 10 to 11 AM
+    - Zoom link: [https://ucsd.zoom.us/my/billh](https://ucsd.zoom.us/my/billh)
+- Weitang Liu
+    - Office Hour: Mondays, 10 to 11 AM
+    - Location: CSE B275
 - Zi Lin
-    - Office Hour: TBD
+    - Office Hour: Wednesdays, 2 to 3 PM
+    - Zoom link: [https://ucsd.zoom.us/j/3796802463?pwd=ZWpBZmJINWxYblFTY3FZYjY3TDVZUT09](https://ucsd.zoom.us/j/3796802463?pwd=ZWpBZmJINWxYblFTY3FZYjY3TDVZUT09)
 - Dheeraj Mekala
     - Office Hour: TBD
 - Yufan Zhuang
