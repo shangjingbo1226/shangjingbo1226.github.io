@@ -108,10 +108,10 @@ Week | Date        | Topic & Slides                                             
 7    | 02/20 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
 8    | 02/25 (Tue) | Multi-class Classification |
 8    | 02/27 (Thu) | Feed-forward Neural Networks |
-9    | 03/03 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
-9    | 03/05 (Thu) | Semi-supervised Learning | 
-10   | 03/10 (Tue) | Weakly-supervised Learning |
-10   | 03/12 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
+9    | 03/04 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
+9    | 03/06 (Thu) | Semi-supervised Learning | 
+10   | 03/11 (Tue) | Weakly-supervised Learning |
+10   | 03/13 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
 
 
 Homework (60%)
