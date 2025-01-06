@@ -88,7 +88,7 @@ Lecture Schedule
 **HW Note**: All HWs due by the end of the day on the due date, i.e., 11:59 PM PT. 
 
 Week | Date        | Topic & Slides                                              | Events
-1    | 01/06 (Mon) | Intro and Text Preprocessing | HW1 out
+1    | 01/06 (Mon) | [Intro and Text Preprocessing](https://www.dropbox.com/scl/fo/69mqjaddkd2ckdjjdncl0/AH8lKFP5-2A5KRvLKMWWeMo?rlkey=raofwqnsvq2f10l2dgxo3g2sw&dl=0) | HW1 out
 2    | 01/13 (Mon) | Machine Learning Concepts and Basics | 
 3    | 01/20 (Mon) | MLK Day (no class)  | 
 4    | 01/27 (Mon) | Text Classification using Bag-of-Words | DM Challenge out
