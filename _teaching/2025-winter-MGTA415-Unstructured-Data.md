@@ -62,9 +62,11 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Siqi Wang
-    - Office Hour: TBD
+    - Office Hour: Fridays, 10 to 11 AM
+    - Zoom link: [https://ucsd.zoom.us/j/3781427002](https://ucsd.zoom.us/j/3781427002)
 - Feng Yao
-    - Office Hour: TBD
+    - Office Hour: Tuesdays, 9 to 10 AM
+    - Zoom link: [https://ucsd.zoom.us/my/fengyao](https://ucsd.zoom.us/my/fengyao)
 - Jinya Jiang
     - Office Hour: TBD
 
