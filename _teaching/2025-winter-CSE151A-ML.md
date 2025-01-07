@@ -67,9 +67,14 @@ Office Hours
     - Office Hour: Wednesdays, 2 to 3 PM
     - Zoom link: [https://ucsd.zoom.us/j/3796802463?pwd=ZWpBZmJINWxYblFTY3FZYjY3TDVZUT09](https://ucsd.zoom.us/j/3796802463?pwd=ZWpBZmJINWxYblFTY3FZYjY3TDVZUT09)
 - Dheeraj Mekala
-    - Office Hour: TBD
+    - Office Hour: Thursdays 4 to 5 PM
+    - Zoom link: [https://ucsd.zoom.us/j/4706123110](https://ucsd.zoom.us/j/4706123110)
 - Yufan Zhuang
-    - Office Hour: TBD
+    - Office Hour: Mondays 1 to 2 PM
+    - Location: CSE B250A
+- Yuelei Li
+    - Office Hour: Fridays, 10 to 11 AM
+    - Zoom link: TBD
 
 
 Note: all times are in **Pacific Time**.
@@ -92,7 +97,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/07 (Tue) | Introduction: Concepts and Evaluations | HW1 out
+1    | 01/07 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/n6d0uvq3zzvk27ivj7snf/AIG3DxxyAUWzhttAMSYwud4?rlkey=eumly1pfs2xshdqupiatx0ok3&dl=0) | HW1 out
 1    | 01/09 (Thu) | A Geometric View of Linear Algebra |
 2    | 01/14 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
 2    | 01/16 (Thu) | Gradients and Optimization |
