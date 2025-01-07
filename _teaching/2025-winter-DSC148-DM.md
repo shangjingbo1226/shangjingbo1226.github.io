@@ -46,9 +46,11 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Zihan Wang
-    - Office Hour: TBD
+    - Office Hour: Wednesdays, 3:30 to 4:30 PM
+    - Location: CSE 2222 and also [https://ucsd.zoom.us/j/6325365465](https://ucsd.zoom.us/j/6325365465)
 - Yuwei Zhang
-    - Office Hour: TBD
+    - Office Hour: Tuesdays 3:30 to 4:30 PM
+    - Location: CSE 2222 and also [https://ucsd.zoom.us/j/93502490527](https://ucsd.zoom.us/j/93502490527)
 
 Note: all times are in **Pacific Time**.
 
@@ -70,7 +72,7 @@ Lecture Schedule
 **HW Note**: All HWs due by the end of the day on the due date, i.e., 11:59 PM PT. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/07 (Tue) | Introduction: Data Types, Tasks, and Evaluations | HW1 out
+1    | 01/07 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/cq0rmpoxkyj2qm1jpmads/ABe-EvKDt7ZoGtiWQRpAPL4?rlkey=p1jiiav6ihe1vzy9ui7a4iw33&dl=0) | HW1 out
 1    | 01/09 (Thu) | Supervised - Least-Squares Regression and Logistic Regression |
 2    | 01/14 (Tue) | Supervised - Overfitting and Regularization | HW2 out
 2    | 01/16 (Thu) | Supervised - Support Vector Machine | HW1 Due

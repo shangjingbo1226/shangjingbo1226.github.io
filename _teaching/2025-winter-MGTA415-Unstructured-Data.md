@@ -68,7 +68,8 @@ Office Hours
     - Office Hour: Tuesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/fengyao](https://ucsd.zoom.us/my/fengyao)
 - Jinya Jiang
-    - Office Hour: TBD
+    - Office Hour: Wednesdays 10 to 11 AM
+    - Zoom link: [https://ucsd.zoom.us/j/2427132936](https://ucsd.zoom.us/j/2427132936)
 
 Note: all times are in **Pacific Time**.
 
