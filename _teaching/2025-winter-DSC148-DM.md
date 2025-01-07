@@ -50,7 +50,7 @@ Office Hours
     - Location: CSE 2222 and also [https://ucsd.zoom.us/j/6325365465](https://ucsd.zoom.us/j/6325365465)
 - Yuwei Zhang
     - Office Hour: Tuesdays 3:30 to 4:30 PM
-    - Location: CSE 2222 and also [https://ucsd.zoom.us/j/93502490527](https://ucsd.zoom.us/j/93502490527)
+    - Location: CSE 2222 and also [https://ucsd.zoom.us/j/3962413508](https://ucsd.zoom.us/j/3962413508)
 
 Note: all times are in **Pacific Time**.
 
