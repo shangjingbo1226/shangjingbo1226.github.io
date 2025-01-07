@@ -92,7 +92,7 @@ Lecture Schedule
 
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
-**HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
+**HW Note**: All HWs due by the end of the day on the due date, i.e., 11:59 PM PT. 
 
 (the schedule is tentative)
 
