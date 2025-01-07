@@ -97,7 +97,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/07 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/n6d0uvq3zzvk27ivj7snf/AIG3DxxyAUWzhttAMSYwud4?rlkey=eumly1pfs2xshdqupiatx0ok3&dl=0) | HW1 out
+1    | 01/07 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/n6d0uvq3zzvk27ivj7snf/AIG3DxxyAUWzhttAMSYwud4?rlkey=eumly1pfs2xshdqupiatx0ok3&dl=0) | [HW1 out](https://www.dropbox.com/scl/fo/sdy9kk6bsqha03ss11g1s/AGR2ndIWQyAO59883sjlHVw?rlkey=teyjqtbv3cp3441dhgnzzijey&st=yd4de02r&dl=0)
 1    | 01/09 (Thu) | A Geometric View of Linear Algebra |
 2    | 01/14 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
 2    | 01/16 (Thu) | Gradients and Optimization |
@@ -124,7 +124,7 @@ Homework (60%)
 
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Concepts and Evaluations (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
+- **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fo/sdy9kk6bsqha03ss11g1s/AGR2ndIWQyAO59883sjlHVw?rlkey=teyjqtbv3cp3441dhgnzzijey&st=yd4de02r&dl=0) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
 - **HW2: KNN and Linear Models (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
