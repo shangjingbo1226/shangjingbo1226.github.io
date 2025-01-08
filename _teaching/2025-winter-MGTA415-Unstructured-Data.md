@@ -105,7 +105,7 @@ Week | Date        | Topic & Slides                                             
 Homework (24%)
 ======
 
-- **HW1: Text Pre-processing and Classification (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
+- **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/z20d12ddfgzcqa0/HW1.zip?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **HW2: Word Embedding and Language Models (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
 - **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
