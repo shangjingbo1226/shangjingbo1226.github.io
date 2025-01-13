@@ -124,7 +124,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices will be available [here](https://www.dropbox.com/s/aqkk6q6hjtpzwbq/Project%20Instructions.pdf?dl=0). Project **due on Sunday, Mar 15 End of the Day**.
+Instructions for both choices will be available [here](https://www.dropbox.com/s/aqkk6q6hjtpzwbq/Project%20Instructions.pdf?dl=0). Project **due on Sunday, Mar 16 End of the Day**.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
