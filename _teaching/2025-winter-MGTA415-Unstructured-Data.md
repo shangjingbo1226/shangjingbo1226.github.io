@@ -92,7 +92,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                              | Events
 1    | 01/06 (Mon) | [Intro and Text Preprocessing](https://www.dropbox.com/scl/fo/69mqjaddkd2ckdjjdncl0/AH8lKFP5-2A5KRvLKMWWeMo?rlkey=raofwqnsvq2f10l2dgxo3g2sw&dl=0) | HW1 out
-2    | 01/13 (Mon) | Machine Learning Concepts and Basics | 
+2    | 01/13 (Mon) | [Machine Learning Concepts and Basics](https://www.dropbox.com/scl/fo/go93bqeu1evefrv41coyy/AC8awIhayeIUWylq_O3rdzY?rlkey=4ayyqt8mffcs281f4t545g2w3&dl=0) | 
 3    | 01/20 (Mon) | MLK Day (no class)  | 
 4    | 01/27 (Mon) | Text Classification using Bag-of-Words | DM Challenge out
 5    | 02/03 (Mon) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW1 due, HW2 out
