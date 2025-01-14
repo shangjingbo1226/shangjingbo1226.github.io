@@ -74,7 +74,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 01/07 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/cq0rmpoxkyj2qm1jpmads/ABe-EvKDt7ZoGtiWQRpAPL4?rlkey=p1jiiav6ihe1vzy9ui7a4iw33&dl=0) | HW1 out
 1    | 01/09 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/rj1xmow4gysayl8o79gud/AOuHVGkfg2P7jkA8FuW3Qr0?rlkey=1c25fyjlhlq571jtmvw3yy7hj&dl=0) |
-2    | 01/14 (Tue) | Supervised - Overfitting and Regularization | HW2 out
+2    | 01/14 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/ib5uv0n8fl6svjhq2am7e/AENjyrK7iZKjnsXBtMI0k8c?rlkey=y71knp7bb9kag8vkdlahwqcrb&dl=0) | HW2 out
 2    | 01/16 (Thu) | Supervised - Support Vector Machine | HW1 Due
 3    | 01/21 (Tue) | Supervised - Naive Bayes and Decision Tree |
 3    | 01/23 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
