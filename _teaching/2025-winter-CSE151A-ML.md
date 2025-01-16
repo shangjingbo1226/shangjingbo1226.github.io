@@ -100,7 +100,7 @@ Week | Date        | Topic & Slides                                             
 1    | 01/07 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/n6d0uvq3zzvk27ivj7snf/AIG3DxxyAUWzhttAMSYwud4?rlkey=eumly1pfs2xshdqupiatx0ok3&dl=0) | [HW1 out](https://www.dropbox.com/scl/fo/sdy9kk6bsqha03ss11g1s/AGR2ndIWQyAO59883sjlHVw?rlkey=teyjqtbv3cp3441dhgnzzijey&st=yd4de02r&dl=0)
 1    | 01/09 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/scl/fo/8twv2cajgie0m3pkzfs8e/AHrGTZ29Hq9XkHYMhsXbmOY?rlkey=4bahvlm5769kv0e9bfzf0qd8v&dl=0) |
 2    | 01/14 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/scl/fo/9v4d8awa5wovh7vtqht9k/AIA7sFGtZm1-dxkErDwqHas?rlkey=ubdybi56t1eknu7plfdv1hhgt&dl=0) | HW1 due, HW2 out
-2    | 01/16 (Thu) | Gradients and Optimization |
+2    | 01/16 (Thu) | [Gradients and Optimization](https://www.dropbox.com/scl/fo/63wazudejpuow3i3s7z39/AFT2XWgwN_nyUQTvzIJgJpI?rlkey=qat0g1i6v2eee0k6j3skphyjh&dl=0) |
 3    | 01/21 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
 3    | 01/23 (Thu) | Overfitting and Regularization | 
 4    | 01/28 (Tue) | Support Vector Machine (SVM) | 
