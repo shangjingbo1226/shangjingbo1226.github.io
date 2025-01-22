@@ -16,8 +16,16 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Correlation and Navigation in the Vocabulary Key Representation Space of Language Models<br/>
+Letian Peng, Chenyang An and Jingbo Shang. **ICLR** 2025.
+* Vector-ICL: In-context Learning with Continuous Vector Representations<br/>
+Yufan Zhuang, Chandan Singh, Liyuan Liu, Jingbo Shang and Jianfeng Gao. **ICLR** 2025.
+* Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting<br/>
+Zilong Wang, Zifeng Wang, Long Le, Steven Zheng, Swaroop Mishra, Vincent Perot, Yuwei Zhang, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee and Tomas Pfister. **ICLR** 2025.
+* OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models<br/>
+Junda Wu, Xintong Li, Ruoyu Wang, Yu Xia, Yuxin Xiong, Jianing Wang, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang and Julian McAuley. **ICLR** 2025.
 * ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition<br/>
-Ranak Roy Chowdhury, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. <b>AAAI</b> 2025.
+Ranak Roy Chowdhury, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. **AAAI** 2025.
 
 ### 2024
 
