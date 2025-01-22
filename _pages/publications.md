@@ -16,6 +16,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction<br/>
+William P Hogan and Jingbo Shang. **NAACL** 2025.
 * Correlation and Navigation in the Vocabulary Key Representation Space of Language Models<br/>
 Letian Peng, Chenyang An and Jingbo Shang. **ICLR** 2025.
 * Vector-ICL: In-context Learning with Continuous Vector Representations<br/>
