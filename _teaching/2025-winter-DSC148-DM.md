@@ -77,7 +77,7 @@ Week | Date        | Topic & Slides                                             
 2    | 01/14 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/ib5uv0n8fl6svjhq2am7e/AENjyrK7iZKjnsXBtMI0k8c?rlkey=y71knp7bb9kag8vkdlahwqcrb&dl=0) | HW2 out
 2    | 01/16 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/hna03cj7zd0u547njeqaq/APwfonvmn6uqmOxRQIxsH-M?rlkey=2cocd2vtuxg5gyoytco86uodj&dl=0) | HW1 Due
 3    | 01/21 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/5wpf5owj8o3bcx2qsn4j0/AGSpCJ--10XblOD9E6qAPU4?rlkey=q2amwd5q9n8dotg9k0kval6uh&dl=0) |
-3    | 01/23 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
+3    | 01/23 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/z24rw5yl7k757h4cciii1/AM2vAfpVtN-H1At8YcGjO5E?rlkey=gcqquaecptuewpzswm0tfc7fv&dl=0) | 
 4    | 01/28 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
 4    | 01/30 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
 5    | 02/04 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
