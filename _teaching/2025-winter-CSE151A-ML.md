@@ -104,7 +104,7 @@ Week | Date        | Topic & Slides                                             
 3    | 01/21 (Tue) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/scl/fo/8s74tell48rumqoaz76qw/AEWWVPTYX4qxATjuRpIplH0?rlkey=0do4m839y241jlzw4vl13lmgu&dl=0) |
 3    | 01/23 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/scl/fo/u9xjhx8vfpqnxnd334gxm/AJLRi6gdROjIwG6l8ilMUIg?rlkey=rhysbmevtco6mib9araeyqil2&dl=0) | 
 4    | 01/28 (Tue) | [Support Vector Machine (SVM)](https://www.dropbox.com/scl/fo/102lhbltb95i52y17cwio/APJhTGldu6iYy0cKWQdU_Ok?rlkey=tw68crv4qk742ig8fhk1kocsh&dl=0) | 
-4    | 01/30 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/scl/fo/ar9mneex0ukbj9pyckpvl/AEP17-_u0-p5wewJ7fzUO7I?rlkey=cp7zi3pq4cdghbej7d8b3c5p5&dl=0) | HW2 due, HW3 out
+4    | 01/30 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/scl/fo/ar9mneex0ukbj9pyckpvl/AEP17-_u0-p5wewJ7fzUO7I?rlkey=cp7zi3pq4cdghbej7d8b3c5p5&dl=0) | HW2 due, [HW3 out](https://www.dropbox.com/scl/fo/avc2l4zbfd9dsepqbmlzd/AKCBbTBsnkGm2H5fCYc2zEs?rlkey=yija8xd7en1msn8scbsfgqfne&st=h9j5h017&dl=0)
 5    | 02/04 (Tue) | K-Means Clustering & its Variants |
 5    | 02/06 (Thu) | "Soft" Clustering: Gaussian Mixture |
 6    | 02/11 (Tue) | Principle Component Analysis |
@@ -126,7 +126,7 @@ Your lowest (of five) homework grades is dropped (or one homework can be skipped
 
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fo/sdy9kk6bsqha03ss11g1s/AGR2ndIWQyAO59883sjlHVw?rlkey=teyjqtbv3cp3441dhgnzzijey&st=yd4de02r&dl=0) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
 - **[HW2: KNN and Linear Models](https://www.dropbox.com/scl/fo/5ucvtico1htcmleepm06r/AH4eIyyTa1gEMcO1hIrvQeU?rlkey=7d3fd6idqoze4tgx7pfeubm9b&st=i17lwn7v&dl=0) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
-- **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
+- **[HW3: SVM and Clustering](https://www.dropbox.com/scl/fo/avc2l4zbfd9dsepqbmlzd/AKCBbTBsnkGm2H5fCYc2zEs?rlkey=yija8xd7en1msn8scbsfgqfne&st=h9j5h017&dl=0) (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
