@@ -118,8 +118,8 @@ Data Mining Challenge (25%)
 
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 6 to Feb 27**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: Please see the challenge's Rule tab.
+- Kaggle challenge link: [https://www.kaggle.com/t/da2577ec18b1446da30995487b87f114](https://www.kaggle.com/t/da2577ec18b1446da30995487b87f114)
 
 Project (25%)
 ======
