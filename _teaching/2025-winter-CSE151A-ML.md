@@ -107,7 +107,7 @@ Week | Date        | Topic & Slides                                             
 4    | 01/30 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/scl/fo/ar9mneex0ukbj9pyckpvl/AEP17-_u0-p5wewJ7fzUO7I?rlkey=cp7zi3pq4cdghbej7d8b3c5p5&dl=0) | HW2 due, [HW3 out](https://www.dropbox.com/scl/fo/avc2l4zbfd9dsepqbmlzd/AKCBbTBsnkGm2H5fCYc2zEs?rlkey=yija8xd7en1msn8scbsfgqfne&st=h9j5h017&dl=0)
 5    | 02/04 (Tue) | [K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/hh1mgpr1ou08a7u9hqzzk/ACGJ4sJFLvynIHJuPxy_W7U?rlkey=ecu7qjja82h96h5vipn6xra6w&dl=0) |
 5    | 02/06 (Thu) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/0ktwdm8o5kjrkkw9p94ez/AGuslI2oTENdXLb5GiQjMCM?rlkey=hhc8e95emm9z1ppj4aswuirk5&dl=0) |
-6    | 02/11 (Tue) | Principle Component Analysis |
+6    | 02/11 (Tue) | [Principle Component Analysis](https://www.dropbox.com/scl/fo/8hkct7i21u85ket0ed9z5/ABBQ5Fi8nIbjL4xmydFjK60?rlkey=b7l7pkb02eiq1bilhw55hzaxw&dl=0) |
 6    | 02/13 (Thu) | **Midterm** (no class, take-home, 24-hour) |
 7    | 02/18 (Tue) | Naive Bayes and Decision Tree | HW4 out
 7    | 02/20 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
