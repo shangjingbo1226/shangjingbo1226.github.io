@@ -137,5 +137,5 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: Feb 13, 2:00 PM PT
 - **End**: Feb 14, 2:00 PM PT
-- Midterm problems download: TBD
+- Midterm problems download: [w25_cse151a_midterm.pdf](https://www.dropbox.com/scl/fi/gor9g99b65uagz9jlilb0/w25_cse151a_midterm.pdf?rlkey=kkv7athgdki4ygtzi0m7nngh8&dl=0)
 - Please **make your submissions on Gradescope**.
