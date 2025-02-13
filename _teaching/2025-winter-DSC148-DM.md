@@ -110,7 +110,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: Feb 13, 8 AM PT
 - **End**: Feb 14, 8 AM PT
-- Midterm problems download: TBD
+- Midterm problems download: [DSC148_Midterm_W25.pdf](https://www.dropbox.com/scl/fi/a2wlmzt6rgndy4j9z8f82/DSC148_Midterm_W25.pdf?rlkey=krobijnz4q6eizx73xib26tbk&dl=0)
 - Please **make your submissions on Gradescope**.
 
 Data Mining Challenge (25%)
