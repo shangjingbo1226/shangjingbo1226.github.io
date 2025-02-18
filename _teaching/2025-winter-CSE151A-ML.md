@@ -109,7 +109,7 @@ Week | Date        | Topic & Slides                                             
 5    | 02/06 (Thu) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/0ktwdm8o5kjrkkw9p94ez/AGuslI2oTENdXLb5GiQjMCM?rlkey=hhc8e95emm9z1ppj4aswuirk5&dl=0) |
 6    | 02/11 (Tue) | [Principle Component Analysis](https://www.dropbox.com/scl/fo/8hkct7i21u85ket0ed9z5/ABBQ5Fi8nIbjL4xmydFjK60?rlkey=b7l7pkb02eiq1bilhw55hzaxw&dl=0) |
 6    | 02/13 (Thu) | **Midterm** (no class, take-home, 24-hour) |
-7    | 02/18 (Tue) | Naive Bayes and Decision Tree | HW4 out
+7    | 02/18 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/rqgut9frn0kwkskknsc1v/AHS9dw8SdBng-Y2ydfyyrB8?rlkey=wcy7trl4fmuojnox35dmc20wd&dl=0) | HW4 out
 7    | 02/20 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
 8    | 02/25 (Tue) | Multi-class Classification |
 8    | 02/27 (Thu) | Feed-forward Neural Networks |
