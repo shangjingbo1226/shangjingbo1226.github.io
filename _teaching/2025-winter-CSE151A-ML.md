@@ -110,7 +110,7 @@ Week | Date        | Topic & Slides                                             
 6    | 02/11 (Tue) | [Principle Component Analysis](https://www.dropbox.com/scl/fo/8hkct7i21u85ket0ed9z5/ABBQ5Fi8nIbjL4xmydFjK60?rlkey=b7l7pkb02eiq1bilhw55hzaxw&dl=0) |
 6    | 02/13 (Thu) | **Midterm** (no class, take-home, 24-hour) |
 7    | 02/18 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/rqgut9frn0kwkskknsc1v/AHS9dw8SdBng-Y2ydfyyrB8?rlkey=wcy7trl4fmuojnox35dmc20wd&dl=0) | [HW4 out](https://www.dropbox.com/scl/fo/6zhnb79hphx9ioep9k39r/AORhxgbiN8EPSqVW-V88AFg?rlkey=mj7fbga7neeaf18byko4zt38i&st=by4bsdgg&dl=0)
-7    | 02/20 (Thu) | Ensemble Learning: Bagging and Boosting | HW3 due
+7    | 02/20 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/21nu5nty8wczgpmxymqif/AIL6oiGHQHiQqni4nhfpxOY?rlkey=4uldbvp7f4rl8rsjjf7nk2zwn&dl=0) | HW3 due
 8    | 02/25 (Tue) | Multi-class Classification |
 8    | 02/27 (Thu) | Feed-forward Neural Networks |
 9    | 03/04 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
