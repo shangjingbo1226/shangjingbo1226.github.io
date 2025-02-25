@@ -107,7 +107,7 @@ Homework (24%)
 
 - **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/s/z20d12ddfgzcqa0/HW1.zip?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **[HW2: Word Embedding and Language Models](https://www.dropbox.com/scl/fo/6fkpjd8d4jqcihy6xlalu/AIjr8gV-SxPvYAGyaK2M82I?rlkey=7e14wpsihffe05wdwh1tkdv2l&dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
-- **HW3: Phrase Mining and Image Classification (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
+- **[HW3: Phrase Mining and Image Classification](https://www.dropbox.com/scl/fi/bxhuu2htkqvqzvt1obbuq/HW3.zip?rlkey=f4rex4gss6mrmhor8yrwzr14o&dl=0) (8%).** This homework mainly focuses on applying phrase mining to a given set of documents and also try out some image classification model.
 
 Midterm (26%)
 ======
