@@ -112,7 +112,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/18 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/rqgut9frn0kwkskknsc1v/AHS9dw8SdBng-Y2ydfyyrB8?rlkey=wcy7trl4fmuojnox35dmc20wd&dl=0) | [HW4 out](https://www.dropbox.com/scl/fo/6zhnb79hphx9ioep9k39r/AORhxgbiN8EPSqVW-V88AFg?rlkey=mj7fbga7neeaf18byko4zt38i&st=by4bsdgg&dl=0)
 7    | 02/20 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/21nu5nty8wczgpmxymqif/AIL6oiGHQHiQqni4nhfpxOY?rlkey=4uldbvp7f4rl8rsjjf7nk2zwn&dl=0) | HW3 due
 8    | 02/25 (Tue) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/2hbooctqzzf730ixllcl8/AOZd6A5lI-cyns9R5sebaa0?rlkey=opwigd4c2irekqz9tdwfen7qe&dl=0) |
-8    | 02/27 (Thu) | Convolutional Neural Networks |
+8    | 02/27 (Thu) | [Convolutional Neural Networks](https://www.dropbox.com/scl/fo/y0q9s6cbftib84j2uh69t/ANIidyYaBKge9eoxha5ZpD4?rlkey=u5zru4ljsamhq9300jvbq6yb8&dl=0) |
 9    | 03/04 (Tue) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
 9    | 03/06 (Thu) | Semi-supervised Learning and Weakly-supervised Learning | 
 10   | 03/11 (Tue) | Learning from Noisy Weak Supervision |
