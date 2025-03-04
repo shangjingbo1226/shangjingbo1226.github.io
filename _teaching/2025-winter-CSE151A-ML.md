@@ -113,7 +113,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/20 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/21nu5nty8wczgpmxymqif/AIL6oiGHQHiQqni4nhfpxOY?rlkey=4uldbvp7f4rl8rsjjf7nk2zwn&dl=0) | HW3 due
 8    | 02/25 (Tue) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/2hbooctqzzf730ixllcl8/AOZd6A5lI-cyns9R5sebaa0?rlkey=opwigd4c2irekqz9tdwfen7qe&dl=0) |
 8    | 02/27 (Thu) | [Convolutional Neural Networks](https://www.dropbox.com/scl/fo/y0q9s6cbftib84j2uh69t/ANIidyYaBKge9eoxha5ZpD4?rlkey=u5zru4ljsamhq9300jvbq6yb8&dl=0) |
-9    | 03/04 (Tue) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
+9    | 03/04 (Tue) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/rezxq3x8e4fy53w2t7m12/ABKiDmWqrUKK1xhQ3bnUkGQ?rlkey=2abm8p5w0e1d4qxmk5msxng5i&dl=0) | HW4 due, HW5 out
 9    | 03/06 (Thu) | Semi-supervised Learning and Weakly-supervised Learning | 
 10   | 03/11 (Tue) | Learning from Noisy Weak Supervision |
 10   | 03/13 (Thu) | Large Language Models | HW5 due
