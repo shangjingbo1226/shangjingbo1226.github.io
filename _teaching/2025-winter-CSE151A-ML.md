@@ -113,7 +113,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/20 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/21nu5nty8wczgpmxymqif/AIL6oiGHQHiQqni4nhfpxOY?rlkey=4uldbvp7f4rl8rsjjf7nk2zwn&dl=0) | HW3 due
 8    | 02/25 (Tue) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/2hbooctqzzf730ixllcl8/AOZd6A5lI-cyns9R5sebaa0?rlkey=opwigd4c2irekqz9tdwfen7qe&dl=0) |
 8    | 02/27 (Thu) | [Convolutional Neural Networks](https://www.dropbox.com/scl/fo/y0q9s6cbftib84j2uh69t/ANIidyYaBKge9eoxha5ZpD4?rlkey=u5zru4ljsamhq9300jvbq6yb8&dl=0) |
-9    | 03/04 (Tue) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/rezxq3x8e4fy53w2t7m12/ABKiDmWqrUKK1xhQ3bnUkGQ?rlkey=2abm8p5w0e1d4qxmk5msxng5i&dl=0) | HW4 due, HW5 out
+9    | 03/04 (Tue) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/rezxq3x8e4fy53w2t7m12/ABKiDmWqrUKK1xhQ3bnUkGQ?rlkey=2abm8p5w0e1d4qxmk5msxng5i&dl=0) | HW4 due, [HW5 out](https://www.dropbox.com/scl/fo/uogkem63ic98ft403qk5r/ABESJ0LpQk3EecSMEDDlqRQ?rlkey=kt8hc2wjmkrwj7sitfw9payu4&st=u318rh1u&dl=0)
 9    | 03/06 (Thu) | [Semi-supervised Learning and Weakly-supervised Learning](https://www.dropbox.com/scl/fo/6ib8spkvhq6ei7tzw7jq2/ACyoF0r9vNnWlcIjMDTeFBU?rlkey=hx7192cxstguwqulc30hgzd6s&dl=0) | 
 10   | 03/11 (Tue) | Learning from Noisy Weak Supervision |
 10   | 03/13 (Thu) | Large Language Models | HW5 due
@@ -128,7 +128,7 @@ Your lowest (of five) homework grades is dropped (or one homework can be skipped
 - **[HW2: KNN and Linear Models](https://www.dropbox.com/scl/fo/5ucvtico1htcmleepm06r/AH4eIyyTa1gEMcO1hIrvQeU?rlkey=7d3fd6idqoze4tgx7pfeubm9b&st=i17lwn7v&dl=0) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **[HW3: SVM and Clustering](https://www.dropbox.com/scl/fo/avc2l4zbfd9dsepqbmlzd/AKCBbTBsnkGm2H5fCYc2zEs?rlkey=yija8xd7en1msn8scbsfgqfne&st=h9j5h017&dl=0) (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **[HW4: Ensemble Learning](https://www.dropbox.com/scl/fo/6zhnb79hphx9ioep9k39r/AORhxgbiN8EPSqVW-V88AFg?rlkey=mj7fbga7neeaf18byko4zt38i&st=by4bsdgg&dl=0) (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
-- **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
+- **[HW5: Neural Networks](https://www.dropbox.com/scl/fo/uogkem63ic98ft403qk5r/ABESJ0LpQk3EecSMEDDlqRQ?rlkey=kt8hc2wjmkrwj7sitfw9payu4&st=u318rh1u&dl=0) (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
 Midterm (40%)
 ======
