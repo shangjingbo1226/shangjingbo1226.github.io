@@ -100,7 +100,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/17 (Mon) | Presidents' Day (no class) | HW2 due, Midterm Exam Week 
 8    | 02/24 (Mon) | [Phrase Mining and its applications](https://www.dropbox.com/scl/fo/ugv2286brx4kd2trngexu/AMrHy1eWA8JYmwOqIa2Bvtk?rlkey=vl1l8yvjy45zjkj1faplbvmiw&dl=0) | HW3 out, DM challenge due
 9    | 03/03 (Mon) | [Image Classification](https://www.dropbox.com/scl/fo/hplx25je2qagk6rh9kyx7/ACxyDfuf0CmPl5dCWEW7wiI?rlkey=gnhxjba8oi7hfby8gvltf2x3v&dl=0) | 
-10   | 03/10 (Mon) | Weakly Supervised Text Classification | HW3 due
+10   | 03/10 (Mon) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/7l568sh3qie6usaehx3c8/AI9x-_uqeCG7G3VW1cWuEZI?rlkey=eesn25hlkct1eozqgso0xi0nv&dl=0) | HW3 due
 
 Homework (24%)
 ======
