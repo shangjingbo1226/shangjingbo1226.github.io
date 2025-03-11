@@ -90,7 +90,7 @@ Week | Date        | Topic & Slides                                             
 8    | 02/27 (Thu) | [Text Mining - Advanced Text Representations](https://www.dropbox.com/scl/fo/agsvjsvy8gx08c7mv1rml/AOjf6BTJypieFHN5bTS61w0?rlkey=gy1g8fqemoyuddfbdlx95q6ly&dl=0) | DM Challenge due
 9    | 03/03 (Tue) | [Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank](https://www.dropbox.com/scl/fo/xz9u85av0uelxqjpxu0ln/AEKhfA1x7SxYpzKSaF-AVhM?rlkey=s1rbgnkyvhncddwc315mckakh&dl=0) | 
 9    | 03/05 (Thu) | [Network Mining - Personalized PageRank and Node Embedding](https://www.dropbox.com/scl/fo/3valq3bg8y4kj7527m3mr/APN09rXwhrvn7IB0W43qWts?rlkey=0pkb1j2zthhvj0j3kt7hzfx3g&dl=0) |
-10   | 03/10 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
+10   | 03/10 (Tue) | [Sequence Mining - Sliding Windows and Autoregression](https://www.dropbox.com/scl/fo/dhwb5vayma4ipckvkqklb/AK1faZeMu_2ydJ4vGGEtSgE?rlkey=cj744ogteptjg8eq337zgwhm3&dl=0) |
 10   | 03/12 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due
 
 Homework (24%)
