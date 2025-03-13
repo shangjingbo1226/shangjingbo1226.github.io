@@ -116,7 +116,7 @@ Week | Date        | Topic & Slides                                             
 9    | 03/04 (Tue) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/rezxq3x8e4fy53w2t7m12/ABKiDmWqrUKK1xhQ3bnUkGQ?rlkey=2abm8p5w0e1d4qxmk5msxng5i&dl=0) | HW4 due, [HW5 out](https://www.dropbox.com/scl/fo/uogkem63ic98ft403qk5r/ABESJ0LpQk3EecSMEDDlqRQ?rlkey=kt8hc2wjmkrwj7sitfw9payu4&st=u318rh1u&dl=0)
 9    | 03/06 (Thu) | [Semi-supervised Learning and Weakly-supervised Learning](https://www.dropbox.com/scl/fo/6ib8spkvhq6ei7tzw7jq2/ACyoF0r9vNnWlcIjMDTeFBU?rlkey=hx7192cxstguwqulc30hgzd6s&dl=0) | 
 10   | 03/11 (Tue) | [Learning from Noisy Weak Supervision](https://www.dropbox.com/scl/fo/u4s9cbm4d7u8sb2bgg481/APkhjmejlau5BANPc-ZZOGs?rlkey=gahmlrekno13lmntwy6cpdmrp&dl=0) |
-10   | 03/13 (Thu) | Large Language Models | HW5 due
+10   | 03/13 (Thu) | [Large Language Models](https://www.dropbox.com/scl/fo/6gvvvfgh188eau96hffea/AOQm7Q2w5NCB7aXpbqigjw8?rlkey=llv5at39dofq7xhoaneokmvd6&dl=0) | HW5 due
 
 
 Homework (60%)
