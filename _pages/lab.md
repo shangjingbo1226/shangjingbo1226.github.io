@@ -16,70 +16,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a><br/>(2020 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/zilong wang.jpg" class="author__avatar" alt="Zilong Wang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://zilongwang.me/">Zilong Wang</a><br/>(2020 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/chengyu dong.jpg" class="author__avatar" alt="Chengyu Dong">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://www.chengyu-dong.me/">Chengyu Dong</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/bill hogan.jpg" class="author__avatar" alt="Bill Hogan">
-      </div>
-      <div class="author__content">
-            <p><a href="https://wphogan.github.io/">Bill Hogan</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/zi lin.jpeg" class="author__avatar" alt="Zi Lin">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://zi-lin.com/">Zi Lin</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
             <img src="/images/img/students/weitang liu.jpg" class="author__avatar" alt="Weitang Liu">
       </div>
       <div class="author__content">
             <p><a href = "https://scholar.google.com/citations?user=LzhBQRUAAAAJ&hl=en">Weitang Liu</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/dheeraj mekala.jpeg" class="author__avatar" alt="Dheeraj Mekala">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -159,32 +99,12 @@ Current Members
       </div>
       </center>
     </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/jiayun zhang.jpg" class="author__avatar" alt="Jiayun Zhang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://jiayunz.github.io/">Jiayun Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - )</p>
-      </div>
-      </center>
-    </div>
 </div>
 
 ## Master Students
 
 
 <div class="row">
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/prashant vaidyanathan.jpeg" class="author__avatar" alt="Prashant Vaidyanathan">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/prashant-kv/">Prashant Vaidyanathan</a><br/>(2022 - )</p>
-      </div>
-      </center>
-    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
@@ -195,12 +115,42 @@ Current Members
       </div>
       </center>
     </div>
-
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/longfei yun.jpg" class="author__avatar" alt="Longfei Yun">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/longfei-yun-7a8715281/">Longfei Yun</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/lizhe zhang.jpg" class="author__avatar" alt="Lizhe Zhang">
+      </div>
+      <div class="author__content">
+            <p><a href = "http://linkedin.com/in/lizhe-zhang-68312418b">Lizhe Zhang</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/alex nguyen.png" class="author__avatar" alt="Alex Nguyen">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/alextongdo/">Alex Nguyen</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
 </div>
 
 ## Undergraduate Students
 
 - Shang Zhou
+- Jinya Jiang
 
 
 <br/>
@@ -211,6 +161,76 @@ Lab Alumni
 ## PhDs
 
 <div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/bill hogan.jpg" class="author__avatar" alt="Bill Hogan">
+      </div>
+      <div class="author__content">
+            <p><a href="https://wphogan.github.io/">Bill Hogan</a><br/>(2021 - 2025)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/zi lin.jpeg" class="author__avatar" alt="Zi Lin">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zi-lin.com/">Zi Lin</a><br/>(2021 - 2025 --> Google DeepMind)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a><br/>(2020 - 2025 --> Anthropic, LLM Alignment)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/dheeraj mekala.jpeg" class="author__avatar" alt="Dheeraj Mekala">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a><br/>(2021 - 2025 --> Meta, LLM Agent)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/jiayun zhang.jpg" class="author__avatar" alt="Jiayun Zhang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://jiayunz.github.io/">Jiayun Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - 2025 --> Amazon)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/zilong wang.jpg" class="author__avatar" alt="Zilong Wang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zilongwang.me/">Zilong Wang</a><br/>(2020 - 2025 --> Amazon, LLM pre-training)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/chengyu dong.png" class="author__avatar" alt="Chengyu Dong">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.chengyu-dong.me/">Chengyu Dong</a><br/>(2021 - 2025 --> Amazon, LLM post-training)</p>
+      </div>
+      </center>
+    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
@@ -246,6 +266,16 @@ Lab Alumni
 ## Masters
 
 <div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/prashant vaidyanathan.jpeg" class="author__avatar" alt="Prashant Vaidyanathan">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/prashant-kv/">Prashant Vaidyanathan</a><br/>(2024 --> Wiliot as ML Engineer)</p>
+      </div>
+      </center>
+    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
@@ -333,7 +363,7 @@ Lab Alumni
 
 Acknowledgement
 ======
-Our work is sponsored in part by NSF CAREER Award 2239440, NSF Proto-OKN Award 2333790, as well as generous gifts from Google, Adobe, and Teradata.
+Our work is sponsored in part by NSF CAREER Award 2239440, NSF Proto-OKN Award 2333790, Sponsored Research Projects from companies like Cisco and eBay, as well as generous gifts from Google, Adobe, and Teradata.
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
 The U.S. Government is authorized to reproduce and distribute reprints for government purposes not withstanding any copyright annotation hereon.
 
