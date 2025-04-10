@@ -326,16 +326,68 @@
   margin-left: .3em;
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
   width: 20%;
   padding: 5px;
+  box-sizing: border-box;
 }
 
-/* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
   display: table;
+}
+
+/* Make all column content same height */
+.column > center {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card {
+  height: 100%;
+}
+
+.student-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* left-aligned */
+  gap: 20px;
+}
+
+.student-card {
+  width: 18%; /* ~5 per row with spacing */
+  min-width: 180px;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background: #fafafa;
+  transition: box-shadow 0.2s;
+}
+
+.student-card:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.student-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.student-card p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.student-card a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
 }
