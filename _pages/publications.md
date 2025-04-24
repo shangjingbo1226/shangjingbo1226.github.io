@@ -16,6 +16,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR<br/>
+Shuheng Li, Jiayun Zhang, Xiaohan Fu, Xiyuan Zhang, Jingbo Shang and Rajesh Gupta. **SenSys** 2025.
 * Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction<br/>
 William P Hogan and Jingbo Shang. **NAACL** 2025.
 * Correlation and Navigation in the Vocabulary Key Representation Space of Language Models<br/>
