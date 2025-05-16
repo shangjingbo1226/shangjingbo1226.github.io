@@ -16,6 +16,12 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM’s Nest<br/>
+Letian Peng, Zilong Wang, Feng Yao and Jingbo Shang. **ACL** 2025.
+* Direct Prompt Optimization with Continuous Representations<br/>
+Yangkun Wang, Zihan Wang and Jingbo Shang. **ACL** 2025.
+* Self-Taught Agentic Long Context Understanding<br/>
+Yufan Zhuang, Xiaodong Yu, Jialian Wu, Ximeng Sun, Ze Wang, Jiang Liu, Yusheng Su, Jingbo Shang, Zicheng Liu and Emad Barsoum. **ACL** 2025.
 * Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR<br/>
 Shuheng Li, Jiayun Zhang, Xiaohan Fu, Xiyuan Zhang, Jingbo Shang and Rajesh Gupta. **SenSys** 2025.
 * Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction<br/>
