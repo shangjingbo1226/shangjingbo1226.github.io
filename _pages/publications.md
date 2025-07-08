@@ -16,8 +16,12 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Rising Rewards Elite Efficient Process Supervision in LLM Agent Learning<br/>
+Zilong Wang, Jingfeng Yang, Sreyashi Nag, Samarth Varshney, Xianfeng Tang, Haoming Jiang, Jingbo Shang, Sheikh Muhammad Sarwar. **COLM** 2025. 
+* A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models<br/>
+Zhouhang Xie, Junda Wu, Yiran Shen, Raghav Jain, Yu Xia, Xintong Li, Aaron Chang, Ryan A. Rossi, Tong Yu, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley. **COLM** 2025. 
 * Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM’s Nest<br/>
-Letian Peng, Zilong Wang, Feng Yao and Jingbo Shang. **ACL** 2025.
+Letian Peng, Zilong Wang, Feng Yao and Jingbo Shang. **ACL** 2025. (selected as **oral**)
 * Direct Prompt Optimization with Continuous Representations<br/>
 Yangkun Wang, Zihan Wang and Jingbo Shang. **ACL** 2025.
 * Self-Taught Agentic Long Context Understanding<br/>
