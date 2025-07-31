@@ -41,13 +41,25 @@ Current Members
     <img src="/images/img/students/yuwei zhang.jpg" alt="Yuwei Zhang">
     <p><a href="https://zhang-yu-wei.github.io/">Yuwei Zhang</a><br>(2023 – )</p>
   </div>
+  <div class="student-card">
+    <img src="/images/img/students/yiming huang.png" alt="Yiming Huang">
+    <p><a href="https://yiyihum.github.io/">Yiming Huang</a><br>(2025 – )</p>
+  </div>
+
+  <div class="student-card">
+    <img src="/images/img/students/shang zhou.jpg" alt="Shang Zhou">
+    <p><a href="https://www.linkedin.com/in/shang-zhou-70457735b/">Shang Zhou</a><br>(2025 – )</p>
+  </div>
 </div>
 
 
 ## Co-advised PhD Students
 
 <div class="student-grid">
-    
+  <div class="student-card">
+    <img src="/images/img/students/wentao chen.jpg" alt="Wentao Chen">
+    <p><a href="https://john-steve-c.github.io/">Wentao Chen</a><br>w/ Rajesh Gupta<br>(2025 - )</p>
+  </div>
 </div>
 
 ## Master Students
@@ -62,13 +74,22 @@ Current Members
     <img src="/images/img/students/alex nguyen.png" alt="Alex Nguyen">
     <p><a href="https://www.linkedin.com/in/alextongdo/">Alex Nguyen</a><br>(2024 – )</p>
   </div>
+  <div class="student-card">
+    <img src="/images/img/students/jinya jiang.jpg" alt="Jinya Jiang">
+    <p><a href="https://yayajjiang.github.io/">Jinya Jiang</a><br>(2024 – )</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/allen lu.jpg" alt="Allen Lu">
+    <p><a href="https://aaaallleen.github.io/Personal-Website/">Allen Lu</a><br>(2025 – )</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/anay kulkarni.jpg" alt="Anay Kulkarni">
+    <p><a href="https://www.linkedin.com/in/anaykulkarni/">Anay Kulkarni</a><br>(2025 – )</p>
+  </div>
 </div>
 
 
 ## Undergraduate Students
-
-- Shang Zhou
-- Jinya Jiang
 
 
 <br/>
@@ -174,6 +195,9 @@ Lab Alumni
 
 ## Bachelors
 
+- Shang Zhou (2025 --> UCSD for PhD study)
+- Jinya Jiang (2024 --> UCSD for MS study)
+- Alex Nguyen (2024 --> UCSD for MS study)
 - Colin Wang (2023 --> Princeton for Master study)
 - Kewen Zhao (2023 --> CMU for Master study)
 - Beilei He (2022 --> UPenn for Master study)
@@ -182,6 +206,7 @@ Lab Alumni
 - Joey Hou (2021 --> UPenn for Master study)
 - Yang Li (2021 --> Columbia for Master study)
 - George Pu (2021 --> UCLA for Master study)
+
 
 <br/>
 
