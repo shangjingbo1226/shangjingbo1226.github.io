@@ -16,6 +16,24 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning<br/>
+Xintong Li, Jalend Bantupalli, Ria Dharmani, Yuwei Zhang and Jingbo Shang. **EMNLP** 2025.
+* CoMMIT: Coordinated Multimodal Instruction Tuning<br/>
+Xintong Li, Junda Wu, Tong Yu, Rui Wang, Yu Wang, Xiang Chen, Jiuxiang Gu, Lina Yao, Julian McAuley and Jingbo Shang. **EMNLP** 2025.
+* VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM<br/>
+Lesheng Jin, Zhenyuan Ruan, Haohui Mai and Jingbo Shang. **EMNLP** 2025.
+* The Price of Format: Diversity Collapse in LLMs<br/>
+Longfei Yun, Chenyang An, Zilong Wang, Letian Peng and Jingbo Shang. **EMNLP** (Findings) 2025.
+* ULTRABENCH: Benchmarking LLMs under Extreme Fine-grained Text Generation<br/>
+Longfei Yun, Letian Peng and Jingbo Shang. **EMNLP** (Findings) 2025.
+* Explainable Chain-of-Thought Reasoning: An Empirical Analysis on State-Aware Reasoning Dynamics<br/>
+Sheldon Yu, Yuxin Xiong, Junda Wu, Xintong Li, Tong Yu, Xiang Chen, Ritwik Sinha, Jingbo Shang and Julian McAuley. **EMNLP** (Findings) 2025.
+* Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent<br/>
+Junda Wu, Yuxin Xiong, Xintong Li, Yu Xia, Yu Wang, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Jingbo Shang and Julian McAuley. **EMNLP** (Findings) 2025.
+* Train a Unified Multimodal Data Quality Classifier with Synthetic Data<br/>
+Weizhi Wang, Rongmei Lin, Shiyang Li, Colin Lockard, Ritesh Sarkhel, Sanket Lokegaonkar, Jingbo Shang, Xifeng Yan, Nasser Zalmout and Xian Li. **EMNLP** (Findings) 2025.
+* Can Language Models Follow Multiple Turns of Entangled Instructions?<br/>
+Chi Han, Xin Liu, Haodong Wang, Shiyang Li, Jingfeng Yang, Haoming Jiang, Zhengyang Wang, Qingyu Yin, Liang Qiu, Changlong Yu, Yifan Gao, Zheng Li, Bing Yin, Jingbo Shang and Heng Ji. **EMNLP** (Findings) 2025.
 * Rising Rewards Elite Efficient Process Supervision in LLM Agent Learning<br/>
 Zilong Wang, Jingfeng Yang, Sreyashi Nag, Samarth Varshney, Xianfeng Tang, Haoming Jiang, Jingbo Shang, Sheikh Muhammad Sarwar. **COLM** 2025. 
 * A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models<br/>
