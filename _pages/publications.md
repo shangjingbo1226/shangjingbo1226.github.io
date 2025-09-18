@@ -25,7 +25,7 @@ Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. **NeurIP
 * LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?<br/>
 Zihan Zheng, Zerui Cheng, Zeyu Shen, Shang Zhou, Kaiyuan Liu, Hansen He, Dongruixuan Li, Stanley Wei, Hangyi Hao, Jianzhu Yao, Peiyao Sheng, Zixuan Wang, Wenhao Chai, Aleksandra Korolova, Peter Henderson, Sanjeev Arora, Pramod Viswanath, Jingbo Shang and Saining Xie. **NeurIPS** 2025. 
 * Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning<br/>
-Xintong Li, Jalend Bantupalli, Ria Dharmani, Yuwei Zhang and Jingbo Shang. **EMNLP** 2025.
+Xintong Li, Jalend Bantupalli, Ria Dharmani, Yuwei Zhang and Jingbo Shang. **EMNLP** 2025. (selected as **oral**)
 * CoMMIT: Coordinated Multimodal Instruction Tuning<br/>
 Xintong Li, Junda Wu, Tong Yu, Rui Wang, Yu Wang, Xiang Chen, Jiuxiang Gu, Lina Yao, Julian McAuley and Jingbo Shang. **EMNLP** 2025.
 * VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM<br/>
