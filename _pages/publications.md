@@ -16,6 +16,14 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* Codifying Character Logic in Role-Playing<br/>
+Letian Peng and Jingbo Shang. **NeurIPS** 2025. 
+* Training Language Models to Generate Quality Code with Program Analysis Feedback<br/>
+Feng Yao, Zilong Wang, Liyuan Liu, Junxia Cui, Li Zhong, Xiaohan Fu, Haohui Mai, Vish Krishnan, Jianfeng Gao and Jingbo Shang. **NeurIPS** 2025. 
+* Text Generation Beyond Discrete Token Sampling<br/>
+Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang and Jianfeng Gao. **NeurIPS** 2025. 
+* LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?<br/>
+Zihan Zheng, Zerui Cheng, Zeyu Shen, Shang Zhou, Kaiyuan Liu, Hansen He, Dongruixuan Li, Stanley Wei, Hangyi Hao, Jianzhu Yao, Peiyao Sheng, Zixuan Wang, Wenhao Chai, Aleksandra Korolova, Peter Henderson, Sanjeev Arora, Pramod Viswanath, Jingbo Shang and Saining Xie. **NeurIPS** 2025. 
 * Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning<br/>
 Xintong Li, Jalend Bantupalli, Ria Dharmani, Yuwei Zhang and Jingbo Shang. **EMNLP** 2025.
 * CoMMIT: Coordinated Multimodal Instruction Tuning<br/>
