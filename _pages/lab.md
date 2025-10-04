@@ -155,6 +155,10 @@ Lab Alumni
     <p><a href="https://wtl666wtl.github.io/">Tianle Wang</a><br>(2025 → Purdue for PhD study)</p>
   </div>
   <div class="student-card">
+    <img src="/images/img/students/sipeng zhang.jpg" alt="Sipeng Zhang">
+    <p>Sipeng Zhang<br>(2025 → WeRide)</p>
+  </div>
+  <div class="student-card">
     <img src="/images/img/students/longfei yun.jpg" alt="Longfei Yun">
     <p><a href="https://www.linkedin.com/in/longfei-yun-7a8715281/">Longfei Yun</a><br>(2025 → Meta)</p>
   </div>
