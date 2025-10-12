@@ -60,6 +60,11 @@ Current Members
     <img src="/images/img/students/wentao chen.jpg" alt="Wentao Chen">
     <p><a href="https://john-steve-c.github.io/">Wentao Chen</a><br>w/ Rajesh Gupta<br>(2025 - )</p>
   </div>
+
+  <div class="student-card">
+    <img src="/images/img/students/nan huang.jpg" alt="Nan Huang">
+    <p><a href="https://www.linkedin.com/in/nan-huang-666363211/">Nan Huang</a><br>HDSI rotation student<br>(2025 - )</p>
+  </div>
 </div>
 
 ## Master Students
