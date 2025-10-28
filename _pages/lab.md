@@ -193,7 +193,7 @@ Lab Alumni
   </div>
   <div class="student-card">
     <img src="/images/img/students/peiran li.jpeg" alt="Peiran Li">
-    <p><a href="https://www.linkedin.com/in/peiran-li/">Peiran Li</a><br>(2021 → Google)</p>
+    <p><a href="https://www.linkedin.com/in/peiran-li/">Peiran Li</a><br>(2021 → Google DeepMind)</p>
   </div>
   <div class="student-card">
     <img src="/images/img/students/woman.png" alt="Jiaman (Lisa) Wu">
