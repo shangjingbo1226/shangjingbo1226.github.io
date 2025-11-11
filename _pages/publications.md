@@ -16,6 +16,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2025
 
+* OmniInput: An Evaluation Framework for Deep Learning Models on Internet-Scale Data<br/>
+Weitang Liu, Yuelei Li, Ying Wai Li, Zihan Wang, Yi-Zhuang You and Jingbo Shang. **TMLR** 2025.
 * Codifying Character Logic in Role-Playing<br/>
 Letian Peng and Jingbo Shang. **NeurIPS** 2025. 
 * Training Language Models to Generate Quality Code with Program Analysis Feedback<br/>
