@@ -192,7 +192,7 @@ Lab Alumni
     <p><a href="https://www.linkedin.com/in/jayshencs/">Xianjie Shen</a><br>(2021 → Nanhu Research Institute)</p>
   </div>
   <div class="student-card">
-    <img src="/images/img/students/peiran li.jpeg" alt="Peiran Li">
+    <img src="/images/img/students/peiran li.jpg" alt="Peiran Li">
     <p><a href="https://www.linkedin.com/in/peiran-li/">Peiran Li</a><br>(2021 → Google DeepMind)</p>
   </div>
   <div class="student-card">
