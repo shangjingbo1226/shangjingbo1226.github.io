@@ -27,6 +27,34 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWswaWZ0OWw0N3FoZDdsMDZ1Z2ZlZ2M0ZjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=week&amp;showTitle=0&amp;showNav=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+
+
+## Outreach in Computer Science Education
+
+Two original Chinese-language books aimed at making computer science more engaging, relatable, and accessible to learners of all ages.
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <div style="text-align: center; width: 45%;">
+    <img src="/images/img/dahuacs.jpg" style="width: 100%; border-radius: 4px;" />
+    <div style="margin-top: 8px; font-size: 0.85rem; color: #666;">
+      #All-Ages  #Everyday-CS  #ChineseOriginal
+    </div>
+  </div>
+
+  <div style="text-align: center; width: 45%;">
+    <img src="/images/img/tianfuzhiwai.jpg" style="width: 100%; border-radius: 4px;" />
+    <div style="margin-top: 8px; font-size: 0.85rem; color: #666;">
+      #ICPC  #IOI  #Fiction  #Documentary
+    </div>
+  </div>
+
+</div>
+
+
+
+
 ## Cooking from Computer Science Perspective
 
 I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves for the first time.
