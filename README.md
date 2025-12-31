@@ -19,10 +19,19 @@ See more info at https://academicpages.github.io/
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Make sure you have Ruby + Bundler installed (Ruby version is in `.ruby-version`). On Ubuntu this can be: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete `Gemfile.lock` and try again.
+1. Run `bundle exec jekyll serve --livereload --config _config.yml,_config.dev.yml` to serve at `http://localhost:4000` (auto rebuild + refresh on change).
+
+### Troubleshooting
+
+- If you see `Could not find ... in any of the sources`, dependencies are not installed yet: run `bundle install`.
+- If you see `undefined method \`tainted?\``, you are likely using Ruby >= 3.2; switch to Ruby 3.1.x (see `.ruby-version`) and re-run `bundle install`.
+- If you see `cannot load such file -- socket`, your Ruby installation is missing the stdlib `socket` extension (common on macOS when Ruby was built without Xcode Command Line Tools). Install CLT (`xcode-select --install`), then reinstall Ruby and retry.
+- If Bundler complains about write permissions (e.g. it cannot write to your home directory), install gems into the repo:
+  - `bundle config set --local path vendor/bundle`
+  - `bundle install`
 
 # Changelog -- bugfixes and enhancements
 
