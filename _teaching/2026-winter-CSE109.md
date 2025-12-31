@@ -49,7 +49,7 @@ Lecture Schedule
 
 Date | Topic & Slides | Homework | Additional Notes
 --- | --- | --- | ---
-01/05 | Introduction | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
+01/05 | [Introduction](https://www.dropbox.com/scl/fo/ohg2o8yfg08app4o6808e/AGt1hS2v1eJKi7OnjStOa58?rlkey=zf895tjcmxymv57ui46tdo81s&dl=0) | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
 01/12 | Ad Hoc, Simulation & Search | Problem Set #1 |
 01/19 | Dynamic Programming (Simple) | Problem Set #2 |
 01/26 | Basic Graph Algorithms | Problem Set #3 |
