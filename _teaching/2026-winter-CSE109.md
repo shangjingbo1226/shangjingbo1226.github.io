@@ -8,7 +8,7 @@ date: 2026-01-05
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Mondays 10AM to 10:50AM.  **Room**: EBU3B (CSE) 2154.  **Piazza**: [piazza.com/ucsd/winter2026/cse109](https://piazza.com/ucsd/winter2026/cse109).
+**Class Time**: Tuesdays 10AM to 10:50AM.  **Room**: EBU3B (CSE) 2154.  **Piazza**: [piazza.com/ucsd/winter2026/cse109](https://piazza.com/ucsd/winter2026/cse109).
 
 Online Lectures for the First Week
 ======
@@ -43,6 +43,9 @@ Office Hour
     - Office Hour: Wednesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 
+- Tutor: Gram Koski
+    - Office Hour: Thursdays, 3 to 4 PM
+    - Location: EBU3B (CSE Building) B275
 
 Lecture Schedule
 ======
