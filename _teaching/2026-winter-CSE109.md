@@ -30,7 +30,7 @@ Most importantly, eagerness to learn and practice.
 UCSD ICPC Club
 ======
 
-[UCSD ICPC Club](https://icpc.ucsd.edu/) is a student-org organized to help students learn techniques for solving problems with computer algorithms and to compete in algorithmic programming competitions.
+[UCSD ICPC Club](https://icpcatucsd.github.io/) is a student-org organized to help students learn techniques for solving problems with computer algorithms and to compete in algorithmic programming competitions.
 
 
 Guest Lecturer
