@@ -67,7 +67,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 ---  | ---         | ---                                                            | ---
 1    | 01/06 (Tue) | [Intro, Logistics, and Course Project](https://www.dropbox.com/scl/fo/wnu1iohblxkgjwdcs4vt3/AE5n3nubJkFiCW22T3pBkOI?rlkey=olv8wg2yhbsuyucy2nqtol5cm&dl=0) |
-1    | 01/08 (Thu) | [Basics: Zipf's Law, bag-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/m51cbscc34pasm2eri6mr/APtI1Bx2WdXBRN5vQJ6P858?rlkey=86dq5nf0anavjkg8fn54za1vr&dl=0) | HW1 out
+1    | 01/08 (Thu) | [Basics: Zipf's Law, bag-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/m51cbscc34pasm2eri6mr/APtI1Bx2WdXBRN5vQJ6P858?rlkey=86dq5nf0anavjkg8fn54za1vr&dl=0https://wandb.ai/shangjingbo1226/tbd/runs/fj3gmhmu/overview) | HW1 out
 2    | 01/13 (Tue) | Word Embedding: word2vec and GloVe |
 2    | 01/15 (Thu) | Language Models: from N-Gram to Neural LMs |
 3    | 01/20 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
@@ -90,7 +90,7 @@ Week | Date        | Topic & Slides                                             
 Homework (30%)
 ======
 
-- **HW1.** Text Classification with Different Techniques.
+- **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/12r0sty9cyb5x8531th0v/HW-1.zip?rlkey=actpuyt5rdh8v0ur1e1vlc50n&dl=0).
     - Due: Jan 27
 - **HW2.** Phrase Mining Applications and Future Work. 
     - Due: Feb 24
