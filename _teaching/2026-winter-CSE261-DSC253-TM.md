@@ -37,13 +37,13 @@ TA and Office Hours
 ======
 
 - Jingbo Shang
-    - Office Hour: Wednesdays, 9 AM to 10 AM
+    - Office Hour: Wednesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 
 - **TAs**:
     - Letian Peng (lepeng AT ucsd.edu)
-        - Office Hour: TBD
-        - Location: TBD
+        - Office Hour: Mondays, 2 to 3 PM
+        - Location: CSE 2109
 
 
 Note: all times are in **Pacific Time**.
@@ -67,7 +67,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 ---  | ---         | ---                                                            | ---
 1    | 01/06 (Tue) | [Intro, Logistics, and Course Project](https://www.dropbox.com/scl/fo/wnu1iohblxkgjwdcs4vt3/AE5n3nubJkFiCW22T3pBkOI?rlkey=olv8wg2yhbsuyucy2nqtol5cm&dl=0) |
-1    | 01/08 (Thu) | Basics: Zipf's Law, bag-of-words, and TF-IDF | HW1 out
+1    | 01/08 (Thu) | [Basics: Zipf's Law, bag-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/m51cbscc34pasm2eri6mr/APtI1Bx2WdXBRN5vQJ6P858?rlkey=86dq5nf0anavjkg8fn54za1vr&dl=0) | HW1 out
 2    | 01/13 (Tue) | Word Embedding: word2vec and GloVe |
 2    | 01/15 (Thu) | Language Models: from N-Gram to Neural LMs |
 3    | 01/20 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
