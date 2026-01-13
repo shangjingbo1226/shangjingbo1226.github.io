@@ -68,7 +68,7 @@ Week | Date        | Topic & Slides                                             
 ---  | ---         | ---                                                            | ---
 1    | 01/06 (Tue) | [Intro, Logistics, and Course Project](https://www.dropbox.com/scl/fo/wnu1iohblxkgjwdcs4vt3/AE5n3nubJkFiCW22T3pBkOI?rlkey=olv8wg2yhbsuyucy2nqtol5cm&dl=0) |
 1    | 01/08 (Thu) | [Basics: Zipf's Law, bag-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/m51cbscc34pasm2eri6mr/APtI1Bx2WdXBRN5vQJ6P858?rlkey=86dq5nf0anavjkg8fn54za1vr&dl=0https://wandb.ai/shangjingbo1226/tbd/runs/fj3gmhmu/overview) | HW1 out
-2    | 01/13 (Tue) | Word Embedding: word2vec and GloVe |
+2    | 01/13 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/scl/fo/6gng657y2bz63wi041580/AJp6AoIBIfPzmDhsJ4qV67M?rlkey=57w3hp02a68ju2bvzy8emiduu&dl=0) |
 2    | 01/15 (Thu) | Language Models: from N-Gram to Neural LMs |
 3    | 01/20 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
 3    | 01/22 (Thu) | Sentiment Analysis and Document Classification |
