@@ -71,21 +71,25 @@ Week | Date        | Topic & Slides                                             
 2    | 01/13 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/scl/fo/6gng657y2bz63wi041580/AJp6AoIBIfPzmDhsJ4qV67M?rlkey=57w3hp02a68ju2bvzy8emiduu&dl=0) |
 2    | 01/15 (Thu) | Language Models: from N-Gram to Neural LMs |
 3    | 01/20 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
-3    | 01/22 (Thu) | Sentiment Analysis and Document Classification |
-4    | 01/27 (Tue) | Topic Modeling: PLSA, LDA, and HMM | HW1 Due, DM challenge rollout
-4    | 01/29 (Thu) | Phrase Mining: from Unigrams to Multi-word Phrases | HW2 out
-5    | 02/03 (Tue) | Entity Set Expansion: from Seed Words to Sets |
-5    | 02/05 (Thu) | Entity Recognition: from Supervised to Data-Driven |
-6    | 02/10 (Tue) | Distant Supervision for Relation Extraction |
-6    | 02/12 (Thu) | Text-Rich Network: a collaboration between Texts and Networks |
-7    | 02/17 (Tue) | Topic Taxonomy Construction |
-7    | 02/19 (Thu) | Weakly Supervised Text Classification |
-8    | 02/24 (Tue) | Learning with Noisy Data | HW2 due
-8    | 02/26 (Thu) | Label Bias in Weak Supervision & Few-shot NER | DM challenge due
-9    | 03/03 (Tue) | Large Language Models |
+3    | 01/22 (Thu) | Document Classification and Topic Modeling |
+4    | 01/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases | HW1 Due, DM challenge rollout
+4    | 01/29 (Thu) | Information Extraction: Entities and Relations | HW2 out
+5    | 02/03 (Tue) | Large Language Models (LLMs) |
+5    | 02/05 (Thu) | Weakly Supervised Text Classification |
+6    | 02/10 (Tue) | Label Noise vs. Label Bias |
+6    | 02/12 (Thu) | Extractive and Generative Weak Supervision |
+7    | 02/17 (Tue) | RAG, Agent, and Persona Modeling |
+7    | 02/19 (Thu) | LLMs from Data and Supervision Perspectives |
+8    | 02/24 (Tue) | Data Mining Agents | HW2 due
+8    | 02/26 (Thu) | LLMs for Coding | DM challenge due
+9    | 03/03 (Tue) | Codified Logics and Persona Modeling |
 9    | 03/05 (Thu) | Project Presentations                                           |
 10   | 03/10 (Tue) | Project Presentations                                           |
 10   | 03/12 (Thu) | Project Presentations                                           |
+
+
+Topic Taxonomy Construction
+Text-Rich Network: a collaboration between Texts and Networks
 
 Homework (30%)
 ======
