@@ -44,7 +44,7 @@ Office Hour
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 
 - Tutor: Gram Koski
-    - Office Hour: Thursdays, 3 to 4 PM
+    - Office Hour: Thursdays, 4 to 5 PM
     - Location: EBU3B (CSE Building) B275
 
 Lecture Schedule
