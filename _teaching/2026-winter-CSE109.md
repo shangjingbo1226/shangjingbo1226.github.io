@@ -54,7 +54,7 @@ Date | Topic & Slides | Homework | Additional Notes
 --- | --- | --- | ---
 01/05 | [Introduction](https://www.dropbox.com/scl/fo/ohg2o8yfg08app4o6808e/AGt1hS2v1eJKi7OnjStOa58?rlkey=zf895tjcmxymv57ui46tdo81s&dl=0) | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
 01/12 | [Ad Hoc, Simulation & Search](https://www.dropbox.com/scl/fo/kjs49y2jdn9qqusj5f3bu/AFlu7kS2uE2E985N3zTGcqQ?rlkey=uoktexkvsc77btqj6eoqhnjrt&dl=0) | Problem Set #1 |
-01/19 | Dynamic Programming (Simple) | Problem Set #2 |
+01/19 | [Dynamic Programming (Simple)](https://www.dropbox.com/scl/fo/6278j257bjwrcb4ez5903/AEZ3dSI6QfvRSQsOTfrNGNw?rlkey=doo5b8jbab0dc3fhwxrn2psa9&dl=0) | Problem Set #2 |
 01/26 | Basic Graph Algorithms | Problem Set #3 |
 02/02 | Computational Geometry | Problem Set #4 |
 02/09 | Dynamic Programming (Intermediate) | Problem Set #5 |

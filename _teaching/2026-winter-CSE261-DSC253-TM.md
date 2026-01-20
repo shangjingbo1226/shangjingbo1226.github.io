@@ -70,7 +70,7 @@ Week | Date        | Topic & Slides                                             
 1    | 01/08 (Thu) | [Basics: Zipf's Law, bag-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/m51cbscc34pasm2eri6mr/APtI1Bx2WdXBRN5vQJ6P858?rlkey=86dq5nf0anavjkg8fn54za1vr&dl=0https://wandb.ai/shangjingbo1226/tbd/runs/fj3gmhmu/overview) | HW1 out
 2    | 01/13 (Tue) | [Word Embedding: word2vec and GloVe](https://www.dropbox.com/scl/fo/6gng657y2bz63wi041580/AJp6AoIBIfPzmDhsJ4qV67M?rlkey=57w3hp02a68ju2bvzy8emiduu&dl=0) |
 2    | 01/15 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/scl/fo/xfyd14tq1tibkyic0otia/AMxRAg56P_PlyXYNSHe49to?rlkey=ryzthpig103r5yua66l77f2u5&dl=0) |
-3    | 01/20 (Tue) | Information Retrieval: from BM25 to Learning to Rank | Project Proposal Due (End of the Day)
+3    | 01/20 (Tue) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/zgkfv1lp87g8kjkr51ubo/ADh7XdocTr6gkr4MXBj76ho?rlkey=m88m7cecelyompa7x6t3h3gm1&dl=0) | Project Proposal Due (End of the Day)
 3    | 01/22 (Thu) | Document Classification and Topic Modeling |
 4    | 01/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases | HW1 Due, DM challenge rollout
 4    | 01/29 (Thu) | Information Extraction: Entities and Relations | HW2 out
