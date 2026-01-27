@@ -72,7 +72,7 @@ Week | Date        | Topic & Slides                                             
 2    | 01/15 (Thu) | [Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/scl/fo/xfyd14tq1tibkyic0otia/AMxRAg56P_PlyXYNSHe49to?rlkey=ryzthpig103r5yua66l77f2u5&dl=0) |
 3    | 01/20 (Tue) | [Information Retrieval: from BM25 to Learning to Rank](https://www.dropbox.com/scl/fo/zgkfv1lp87g8kjkr51ubo/ADh7XdocTr6gkr4MXBj76ho?rlkey=m88m7cecelyompa7x6t3h3gm1&dl=0) | Project Proposal Due (End of the Day)
 3    | 01/22 (Thu) | [Text Classification and Topic Modeling](https://www.dropbox.com/scl/fo/kb52zeiz6nj4k163ehvra/AJNHpwJXEjpmftLg6nn4KLo?rlkey=xy6w2s8j3vl10cww2g7788ius&dl=0) |
-4    | 01/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases | HW1 Due, DM challenge rollout
+4    | 01/27 (Tue) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/scl/fo/48cirj9b5rnj5m3l37we3/ABUnhWc1V9lb5CWn-XdirE0?rlkey=yvkaz80e863pcrttmyftn5y9b&dl=0) | HW1 Due, DM challenge rollout
 4    | 01/29 (Thu) | Information Extraction: Entities and Relations | HW2 out
 5    | 02/03 (Tue) | Large Language Models (LLMs) |
 5    | 02/05 (Thu) | Weakly Supervised Text Classification |

@@ -14,6 +14,17 @@ author_profile: true
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
+### 2026
+
+* Codified Finite-state Machines for Role-playing<br/>
+Letian Peng, Yupeng Hou, Kun Zhou and Jingbo Shang. **ICLR** 2026
+* AutoCode: LLMs as Problem Setters for Competitive Programming<br/>
+Shang Zhou, Zihan Zheng, Kaiyuan Liu, Zeyu Shen, Zerui Cheng, Zexing Chen, Hansen He, Jianzhu Yao, Huanzhi Mao, Qiuyang Mang, Tianfu Fu, Beichen Li, Dongruixuan Li, Wenhao Chai, Zhuang Liu, Aleksandra Korolova, Peter Henderson, Natasha Jaques, Pramod Viswanath, Saining Xie and Jingbo Shang. **ICLR** 2026.
+* Importance Sampling for Multi-Negative Multimodal Direct Preference Optimization<br/>
+Xintong Li, Chuhan Wang, Junda Wu, Rohan Surana, Tong Yu, Julian McAuley and Jingbo Shang. **ICLR** 2026.
+* Contamination Detection for VLMs Using Multi‑Modal Semantic Perturbations<br/>
+Jaden Park, Mu Cai, Feng Yao, Jingbo Shang, Soochahn Lee and Yong Jae Lee. **ICLR** 2026.
+
 ### 2025
 
 * OmniInput: An Evaluation Framework for Deep Learning Models on Internet-Scale Data<br/>
