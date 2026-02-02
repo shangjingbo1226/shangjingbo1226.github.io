@@ -96,7 +96,7 @@ Homework (30%)
 
 - **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/12r0sty9cyb5x8531th0v/HW-1.zip?rlkey=actpuyt5rdh8v0ur1e1vlc50n&dl=0).
     - Due: Jan 27
-- **HW2.** Phrase Mining Applications and Future Work. 
+- **HW2.** [Generative Information Extraction](https://www.dropbox.com/scl/fi/c3722wffr7dfbcg8vbllw/HW2.pdf?rlkey=rjx2rcniaf0bhp1ofp6bkdl10&dl=0).
     - Due: Feb 24
 
 Data Mining Challenge (30%)
@@ -106,7 +106,7 @@ It is an individual-based text mining competition with quantitative evaluation.
 The challenge runs during the quarter; exact start/end dates will be announced.
 
 - Challenge statement, dataset, and details: TBD
-- Kaggle challenge link: TBD
+- Kaggle challenge link: [here](https://www.kaggle.com/t/75ac6c40285e4deb8a6e49459cfef4b2)
 - Survey to map Kaggle account names to student names: TBD
 
 Project (40%)
