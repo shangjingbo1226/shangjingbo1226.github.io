@@ -74,8 +74,8 @@ Week | Date        | Topic & Slides                                             
 3    | 01/22 (Thu) | [Text Classification and Topic Modeling](https://www.dropbox.com/scl/fo/kb52zeiz6nj4k163ehvra/AJNHpwJXEjpmftLg6nn4KLo?rlkey=xy6w2s8j3vl10cww2g7788ius&dl=0) |
 4    | 01/27 (Tue) | [Phrase Mining: from Unigrams to Multi-word Phrases](https://www.dropbox.com/scl/fo/48cirj9b5rnj5m3l37we3/ABUnhWc1V9lb5CWn-XdirE0?rlkey=yvkaz80e863pcrttmyftn5y9b&dl=0) | HW1 Due, DM challenge rollout
 4    | 01/29 (Thu) | [Information Extraction: Entities and Relations](https://www.dropbox.com/scl/fo/bf3ctn6e24z1fl1z9xaij/ADAX9HjUWLu7IE1M02hHu3Y?rlkey=vv5zh1xra53o4g2rfuk8nh09q&dl=0) | HW2 out
-5    | 02/03 (Tue) | Large Language Models (LLMs) |
-5    | 02/05 (Thu) | Weakly Supervised Text Classification |
+5    | 02/03 (Tue) | [Large Language Models (LLMs)](https://www.dropbox.com/scl/fo/9juc6jaae65vtp2nfep3q/AMgY47Q-HApVHT6nUDLRa4A?rlkey=ixw17ere32jxj6prjcx988h6k&dl=0) |
+5    | 02/05 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/db6rckn67srt2kuj5vh2w/AOUUHkYI-tnWj03DgeZThsM?rlkey=ratzte63oyvj3lilp4tep7r2d&dl=0) |
 6    | 02/10 (Tue) | Label Noise vs. Label Bias |
 6    | 02/12 (Thu) | Extractive and Generative Weak Supervision |
 7    | 02/17 (Tue) | RAG, Agent, and Persona Modeling |
@@ -105,7 +105,7 @@ Data Mining Challenge (30%)
 It is an individual-based text mining competition with quantitative evaluation.
 The challenge runs during the quarter; exact start/end dates will be announced.
 
-- Challenge statement, dataset, and details: TBD
+- Challenge statement, dataset, and details: [here](https://www.dropbox.com/scl/fi/ppvxfpa26utq5qhk0qn0w/2026-ucsd-cse-261-dsc-253-text-mining-challenge.zip?rlkey=vsxdkirs5nn7mii5v0dsf3k6f&dl=0)
 - Kaggle challenge link: [here](https://www.kaggle.com/t/75ac6c40285e4deb8a6e49459cfef4b2)
 - Survey to map Kaggle account names to student names: TBD
 
