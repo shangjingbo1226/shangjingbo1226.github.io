@@ -76,7 +76,7 @@ Week | Date        | Topic & Slides                                             
 4    | 01/29 (Thu) | [Information Extraction: Entities and Relations](https://www.dropbox.com/scl/fo/bf3ctn6e24z1fl1z9xaij/ADAX9HjUWLu7IE1M02hHu3Y?rlkey=vv5zh1xra53o4g2rfuk8nh09q&dl=0) | HW2 out
 5    | 02/03 (Tue) | [Large Language Models (LLMs)](https://www.dropbox.com/scl/fo/9juc6jaae65vtp2nfep3q/AMgY47Q-HApVHT6nUDLRa4A?rlkey=ixw17ere32jxj6prjcx988h6k&dl=0) |
 5    | 02/05 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/db6rckn67srt2kuj5vh2w/AOUUHkYI-tnWj03DgeZThsM?rlkey=ratzte63oyvj3lilp4tep7r2d&dl=0) |
-6    | 02/10 (Tue) | Label Noise vs. Label Bias |
+6    | 02/10 (Tue) | [Label Noise vs. Label Bias](https://www.dropbox.com/scl/fo/al9yd3xpww2cxvylec24x/AFuHDPl1Q04fuxFOvsGXp5g?rlkey=t9bukpdp8rpqd70agsh35c35w&dl=0) |
 6    | 02/12 (Thu) | Extractive and Generative Weak Supervision |
 7    | 02/17 (Tue) | RAG, Agent, and Persona Modeling |
 7    | 02/19 (Thu) | LLMs from Data and Supervision Perspectives |
