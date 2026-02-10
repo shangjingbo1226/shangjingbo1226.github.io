@@ -57,7 +57,7 @@ Date | Topic & Slides | Homework | Additional Notes
 01/19 | [Dynamic Programming (Simple)](https://www.dropbox.com/scl/fo/6278j257bjwrcb4ez5903/AEZ3dSI6QfvRSQsOTfrNGNw?rlkey=doo5b8jbab0dc3fhwxrn2psa9&dl=0) | Problem Set #2 |
 01/26 | [Basic Graph Algorithms](https://www.dropbox.com/scl/fo/e5ysrpivcizqwv4k3nzrb/AOXoI2-we87XheSP0j9qLJw?rlkey=1mplsah6xp64y43005etgi8y8&dl=0) | Problem Set #3 |
 02/02 | [Computational Geometry](https://www.dropbox.com/scl/fo/xte14776vsyd0yjy32taz/AGm1wNXBtaaTSpWqnb0HJBQ?rlkey=fj8pwhzwlrm9hloedam3z7pic&dl=0) | Problem Set #4 |
-02/09 | Dynamic Programming (Intermediate) | Problem Set #5 |
+02/09 | [Dynamic Programming (Intermediate)](https://www.dropbox.com/scl/fo/rh8tuzihi2jsz8wxunjse/AEpJZ8_XOIOQtt7j6Z-tn5U?rlkey=7tesrdaddr31hrklr4pwme8bz&dl=0) | Problem Set #5 |
 02/16 | Combinatorics and Algebra | Problem Set #6 |
 02/23 | Network Flow | Problem Set #7 |
 03/02 | Segment Tree | Problem Set #8 |
