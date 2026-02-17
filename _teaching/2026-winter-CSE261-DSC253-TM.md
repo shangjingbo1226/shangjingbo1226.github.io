@@ -78,7 +78,7 @@ Week | Date        | Topic & Slides                                             
 5    | 02/05 (Thu) | [Weakly Supervised Text Classification](https://www.dropbox.com/scl/fo/db6rckn67srt2kuj5vh2w/AOUUHkYI-tnWj03DgeZThsM?rlkey=ratzte63oyvj3lilp4tep7r2d&dl=0) |
 6    | 02/10 (Tue) | [Label Noise vs. Label Bias](https://www.dropbox.com/scl/fo/al9yd3xpww2cxvylec24x/AFuHDPl1Q04fuxFOvsGXp5g?rlkey=t9bukpdp8rpqd70agsh35c35w&dl=0) |
 6    | 02/12 (Thu) | [Extractive and Generative Weak Supervision](https://www.dropbox.com/scl/fo/xte6zuc729j9oigac36yu/ABdHOWQzEP2f3bgjBlW1vDM?rlkey=bzyaq4we5u3wyof3gsmpxm5dw&dl=0) |
-7    | 02/17 (Tue) | RAG, Agent, and Persona Modeling |
+7    | 02/17 (Tue) | [Long-context LLM, RAG, and Agent](https://www.dropbox.com/scl/fo/315q27qfjy5if87gwhe3p/AHLufWNfLa9YfP7l5Ax9D4s?rlkey=75t8ructupnwq5ccrjuyq4zm6&dl=0) |
 7    | 02/19 (Thu) | LLMs from Data and Supervision Perspectives |
 8    | 02/24 (Tue) | Data Mining Agents | HW2 due
 8    | 02/26 (Thu) | LLMs for Coding | DM challenge due
