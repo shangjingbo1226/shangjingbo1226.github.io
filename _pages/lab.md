@@ -14,10 +14,6 @@ Current Members
 
 <div class="student-grid">
   <div class="student-card">
-    <img src="/images/img/students/weitang liu.jpg" alt="Weitang Liu">
-    <p><a href="https://sites.google.com/ucsd.edu/weitangliu/">Weitang Liu</a><br>(2021 – )</p>
-  </div>
-  <div class="student-card">
     <img src="/images/img/students/yangkun wang.jpg" alt="Yangkun Wang">
     <p>Yangkun Wang<br>(2022 – )</p>
   </div>
@@ -105,6 +101,10 @@ Lab Alumni
 ## PhDs
 
 <div class="student-grid">
+  <div class="student-card">
+    <img src="/images/img/students/weitang liu.jpg" alt="Weitang Liu">
+    <p><a href="https://sites.google.com/ucsd.edu/weitangliu/">Weitang Liu</a><br>(2021 – 2026)</p>
+  </div>
   <div class="student-card">
     <img src="/images/img/students/shuheng li.png" alt="Shuheng Li">
     <p><a href="https://shuheng-li.github.io/">Shuheng Li</a><br>w/ Rajesh Gupta<br>(2020 - 2025 → Amazon)</p>
