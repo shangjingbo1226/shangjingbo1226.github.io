@@ -81,7 +81,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/17 (Tue) | [Long-context LLM, RAG, and Agent](https://www.dropbox.com/scl/fo/315q27qfjy5if87gwhe3p/AHLufWNfLa9YfP7l5Ax9D4s?rlkey=75t8ructupnwq5ccrjuyq4zm6&dl=0) |
 7    | 02/19 (Thu) | [LLMs from Data and Supervision Perspectives](https://www.dropbox.com/scl/fo/lmr37rovww72xerpbw7p7/AL2mYyiL9egcvRLL7TZGDec?rlkey=b4nz86tc1rq1feula57wywyle&dl=0) |
 8    | 02/24 (Tue) | [Data Mining Agents](https://www.dropbox.com/scl/fo/ebuu30sdt1wjvvg1d65xl/AC4NRV1mdR8EX_9u5_9tqIc?rlkey=k37tsv05byc23gaxofo9hest1&dl=0) | HW2 due
-8    | 02/26 (Thu) | LLMs for Coding | DM challenge due
+8    | 02/26 (Thu) | [LLMs for Coding](https://www.dropbox.com/scl/fo/yb37nlrso72yjk0v9alld/AJ4a2DwMEmNBLKqxt-Wkz2I?rlkey=9ccq4vkgg7isiw49q5k3zh5h3&dl=0) | DM challenge due
 9    | 03/03 (Tue) | Codified Logics and Persona Modeling |
 9    | 03/05 (Thu) | Project Presentations (over Zoom)                                          |
 10   | 03/10 (Tue) | Project Presentations (over Zoom)                                          |
