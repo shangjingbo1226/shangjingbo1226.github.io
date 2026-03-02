@@ -13,19 +13,19 @@ I'm an Associate Professor at UCSD jointly appointed by Computer Science and Hal
 
 ## Research Interests
 
-Our lab specializes in **knowledge extraction and discovery** using **weak supervision** techniques. We focus on minimizing user effort through an innovative paradigm called **extremely weak supervision** (**XWS**), which involves only brief natural-language user input to define tasks, similar to the task-specific guidelines provided to human annotators.
+My lab studies how AI systems learn, reason, and collaborate with human experts, with an emphasis on **scalable knowledge discovery under limited supervision**.
 
-We adopt a data-driven approach to improve the accuracy of knowledge extraction and discovery without requiring significant additional human annotations. Since 2018, we have been at the forefront of **using**, **understanding**, and **improving** **language models**. The recent advancements in large language models (**LLMs**) have provided us with more powerful tools to enhance our research.
+We develop methods that leverage semantic anchors, data redundancy, and bias-aware learning to train and adapt large language models (LLMs) with minimal human input. A central contribution of our work is the paradigm of **Extremely Weak Supervision (XWS)**, which enables task learning from brief natural-language guidance rather than large annotated datasets, similar to the task-specific guidelines provided to human annotators. We adopt a data-driven approach to improve the accuracy of knowledge extraction and discovery without requiring significant additional human annotations.
 
-Our methods are **domain and language agnostic**, relying only on pre-trained LLMs in specific domains and languages. This flexibility allows us to extend the XWS concept to various tasks and domains, including biomedical, business, IoT, and more.
+Our methods are **domain- and language-agnostic**, powering scientific discovery and enterprise AI in settings where scalable supervision is the primary bottleneck. Ultimately, we aim to build models that adapt robustly across domains and make knowledge discovery more accessible, inclusive, and efficient.
 
-
+My work has been recognized with major honors including the NSF CAREER Award, Google Research Scholar Award, ACM SIGKDD Doctoral Dissertation Award (Runner-up), Best Poster Award (Runner-up) at The Web Conference (WWW), and Google PhD Fellow.
 
 ## My Schedule
 
 You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWswaWZ0OWw0N3FoZDdsMDZ1Z2ZlZ2M0ZjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=week&amp;showTitle=0&amp;showNav=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWswaWZ0OWw0N3FoZDdsMDZ1Z2ZlZ2M0ZjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=week&amp;showTitle=0&amp;showNav=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 
 
