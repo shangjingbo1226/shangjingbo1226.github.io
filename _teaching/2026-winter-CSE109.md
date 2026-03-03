@@ -59,8 +59,8 @@ Date | Topic & Slides | Homework | Additional Notes
 02/02 | [Computational Geometry](https://www.dropbox.com/scl/fo/xte14776vsyd0yjy32taz/AGm1wNXBtaaTSpWqnb0HJBQ?rlkey=fj8pwhzwlrm9hloedam3z7pic&dl=0) | Problem Set #4 |
 02/09 | [Dynamic Programming (Intermediate)](https://www.dropbox.com/scl/fo/rh8tuzihi2jsz8wxunjse/AEpJZ8_XOIOQtt7j6Z-tn5U?rlkey=7tesrdaddr31hrklr4pwme8bz&dl=0) | Problem Set #5 |
 02/16 | [Combinatorics and Algebra](https://www.dropbox.com/scl/fo/92vfzroqtqmwvku1uetqu/APyT9w8fNh1QMDcuke0oZsw?rlkey=x0xusislhc22q4ab06bkyld9f&dl=0) | Problem Set #6 |
-02/23 | Network Flow | Problem Set #7 |
-03/02 | Segment Tree | Problem Set #8 |
+02/23 | [Network Flow](https://www.dropbox.com/scl/fo/ejljyu3u59f1m66ipojij/ANyYXIR_8tO-78PmcA3KsV0?rlkey=l5t0sg24ztaheyd4sz8n3i98f&dl=0) | Problem Set #7 |
+03/02 | [Segment Tree](https://www.dropbox.com/scl/fo/oza8xwr5szbitc1f2231r/AC9m0fMcHWsWCycS6xYRfUA?rlkey=6ibjlk7ykotxidw87liqbl1mn&dl=0) | Problem Set #8 |
 03/09 | Problem Solving using LLMs | |
 
 
