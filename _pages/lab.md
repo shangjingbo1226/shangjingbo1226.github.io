@@ -75,18 +75,6 @@ Current Members
     <img src="/images/img/students/alex nguyen.png" alt="Alex Nguyen">
     <p><a href="https://www.linkedin.com/in/alextongdo/">Alex Nguyen</a><br>(2024 – )</p>
   </div>
-  <div class="student-card">
-    <img src="/images/img/students/jinya jiang.jpg" alt="Jinya Jiang">
-    <p><a href="https://yayajjiang.github.io/">Jinya Jiang</a><br>(2024 – )</p>
-  </div>
-  <div class="student-card">
-    <img src="/images/img/students/allen lu.jpg" alt="Allen Lu">
-    <p><a href="https://aaaallleen.github.io/Personal-Website/">Allen Lu</a><br>(2025 – )</p>
-  </div>
-  <div class="student-card">
-    <img src="/images/img/students/anay kulkarni.jpg" alt="Anay Kulkarni">
-    <p><a href="https://www.linkedin.com/in/anaykulkarni/">Anay Kulkarni</a><br>(2025 – )</p>
-  </div>
 </div>
 
 
@@ -155,6 +143,18 @@ Lab Alumni
 ## Masters
 
 <div class="student-grid">
+  <div class="student-card">
+    <img src="/images/img/students/jinya jiang.jpg" alt="Jinya Jiang">
+    <p><a href="https://yayajjiang.github.io/">Jinya Jiang</a><br>(2025 → Amazon)</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/allen lu.jpg" alt="Allen Lu">
+    <p><a href="https://aaaallleen.github.io/Personal-Website/">Allen Lu</a><br>(2026 → Ambient.ai)</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/anay kulkarni.jpg" alt="Anay Kulkarni">
+    <p><a href="https://www.linkedin.com/in/anaykulkarni/">Anay Kulkarni</a><br>(2026 → RapidFire AI)</p>
+  </div>
   <div class="student-card">
     <img src="/images/img/students/tianle wang.jpg" alt="Tianle Wang">
     <p><a href="https://wtl666wtl.github.io/">Tianle Wang</a><br>(2025 → Purdue for PhD study)</p>
