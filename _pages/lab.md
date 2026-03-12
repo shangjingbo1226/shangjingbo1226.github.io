@@ -69,7 +69,7 @@ Current Members
 <div class="student-grid">
   <div class="student-card">
     <img src="/images/img/students/lizhe zhang.jpg" alt="Lizhe Zhang">
-    <p><a href="http://linkedin.com/in/lizhe-zhang-68312418b">Lizhe Zhang</a><br>(2024 – )</p>
+    <p><a href="https://fearanddreams1123.github.io/">Lizhe Zhang</a><br>(2024 – )</p>
   </div>
   <div class="student-card">
     <img src="/images/img/students/alex nguyen.png" alt="Alex Nguyen">
