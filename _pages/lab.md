@@ -44,7 +44,7 @@ Current Members
 
   <div class="student-card">
     <img src="/images/img/students/shang zhou.jpg" alt="Shang Zhou">
-    <p><a href="https://www.linkedin.com/in/shang-zhou-70457735b/">Shang Zhou</a><br>(2025 – )</p>
+    <p><a href="https://shangzhou.me/">Shang Zhou</a><br>(2025 – )</p>
   </div>
 </div>
 
