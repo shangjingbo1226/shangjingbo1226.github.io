@@ -13,7 +13,7 @@ location: "La Jolla, CA"
 Online Lectures for the First Week
 ======
 
-To offer waitlist students opportunities to learn more about this course, in the first week we deliver the lecture over Zoom: [https://ucsd.zoom.us/j/99452908383](https://ucsd.zoom.us/j/99452908383). The lecture will be recorded.
+To offer waitlist students opportunities to learn more about this course, in the first week we deliver the lecture over Zoom: [https://ucsd.zoom.us/j/94079287481](https://ucsd.zoom.us/j/94079287481). The lecture will be recorded.
 
 Overview
 ======
