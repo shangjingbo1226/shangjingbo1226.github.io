@@ -18,10 +18,6 @@ Current Members
     <p>Yangkun Wang<br>(2022 – )</p>
   </div>
   <div class="student-card">
-    <img src="/images/img/students/yufan zhuang.jpg" alt="Yufan Zhuang">
-    <p><a href="https://evanzhuang.github.io/">Yufan Zhuang</a><br>(2022 – )</p>
-  </div>
-  <div class="student-card">
     <img src="/images/img/students/xintong li.jpg" alt="Xintong Li">
     <p><a href="https://kaylee0501.github.io/">Xintong Li</a><br>(2023 – )</p>
   </div>
@@ -90,6 +86,10 @@ Lab Alumni
 
 <div class="student-grid">
   <div class="student-card">
+    <img src="/images/img/students/yufan zhuang.jpg" alt="Yufan Zhuang">
+    <p><a href="https://evanzhuang.github.io/">Yufan Zhuang</a><br>(2022 – 2026 → Google)</p>
+  </div>
+  <div class="student-card">
     <img src="/images/img/students/weitang liu.jpg" alt="Weitang Liu">
     <p><a href="https://sites.google.com/ucsd.edu/weitangliu/">Weitang Liu</a><br>(2021 – 2026)</p>
   </div>
@@ -103,7 +103,7 @@ Lab Alumni
   </div>
   <div class="student-card">
     <img src="/images/img/students/zi lin.jpeg" alt="Zi Lin">
-    <p><a href="https://zi-lin.com/">Zi Lin</a><br>(2021 - 2025 → Google DeepMind)</p>
+    <p><a href="https://zi-lin.com/">Zi Lin</a><br>(2021 - 2025 → Google DeepMind → Meta TBD)</p>
   </div>
   <div class="student-card">
     <img src="/images/img/students/zihan wang.png" alt="Zihan Wang">
@@ -119,11 +119,11 @@ Lab Alumni
   </div>
   <div class="student-card">
     <img src="/images/img/students/zilong wang.jpg" alt="Zilong Wang">
-    <p><a href="https://zilongwang.me/">Zilong Wang</a><br>(2020 - 2025 → Amazon, LLM pre-training)</p>
+    <p><a href="https://zilongwang.me/">Zilong Wang</a><br>(2020 - 2025 → Amazon, LLM pre-training → Google DeepMind)</p>
   </div>
   <div class="student-card">
     <img src="/images/img/students/chengyu dong.png" alt="Chengyu Dong">
-    <p><a href="https://www.chengyu-dong.me/">Chengyu Dong</a><br>(2021 - 2025 → Amazon, LLM post-training)</p>
+    <p><a href="https://www.chengyu-dong.me/">Chengyu Dong</a><br>(2021 - 2025 → Amazon, LLM post-training → LLM Startup)</p>
   </div>
   <div class="student-card">
     <img src="/images/img/students/ranak roy chowdhury.jpg" alt="Ranak Roy Chowdhury">
