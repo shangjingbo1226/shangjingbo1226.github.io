@@ -69,7 +69,7 @@ Lecture Schedule
 **HW Note**: All HWs due by the end of the day on the due date, i.e., 11:59 PM PT. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations | HW1 out
+1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/zt5ja7cxv8sl344n49nd8/ANXzK6WHcz0Wq8Q_JxQIyoE?rlkey=hb5lad4lbat74gg9y5t4t19bw&dl=0) | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression |
 2    | 04/07 (Tue) | Supervised - Overfitting and Regularization | HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine | HW1 Due
