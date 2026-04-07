@@ -71,7 +71,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/zt5ja7cxv8sl344n49nd8/ANXzK6WHcz0Wq8Q_JxQIyoE?rlkey=hb5lad4lbat74gg9y5t4t19bw&dl=0) | HW1 out
 1    | 04/02 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/3hu6w9n1rr5osc0nca1v4/AFSkAf4OyZnfmSFGN6am3WQ?rlkey=nwcbttxt0imvbk724mozr1i7y&dl=0) |
-2    | 04/07 (Tue) | Supervised - Overfitting and Regularization | HW2 out
+2    | 04/07 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/t7mn7dxs91njdskw3byey/AA1kZezH9LpO-vt0tsH4Lug?rlkey=z30aj5b9t9aptycc6clp33i2o&dl=0) | HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine | HW1 Due
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting |
@@ -130,3 +130,5 @@ Project **due on Sunday, Jun 7 End of the Day**. Here is a quick overview:
     - Write a 4 to 8 pages report (research-paper like)
     - Submit your codes
     - Up to 5% bonus for working demos/apps towards the total course grade.
+
+The detailed instructions are [here](https://www.dropbox.com/scl/fi/c5fywzoeiftisrzdi9p7c/Project-Instructions.pdf?rlkey=jh1sxz3x9n1354oim1bnqr5le&dl=0)
