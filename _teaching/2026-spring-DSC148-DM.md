@@ -46,8 +46,8 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Benjamin TenWolde
-    - Office Hour: TBD
-    - Location: TBD
+    - Office Hour: Tuesdays, 9 to 10 AM
+    - Location: [https://ucsd.zoom.us/j/6265392915](https://ucsd.zoom.us/j/6265392915)
 
 Note: all times are in **Pacific Time**.
 
