@@ -72,7 +72,7 @@ Week | Date        | Topic & Slides                                             
 1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/scl/fo/zt5ja7cxv8sl344n49nd8/ANXzK6WHcz0Wq8Q_JxQIyoE?rlkey=hb5lad4lbat74gg9y5t4t19bw&dl=0) | HW1 out
 1    | 04/02 (Thu) | [Supervised - Least-Squares Regression and Logistic Regression](https://www.dropbox.com/scl/fo/3hu6w9n1rr5osc0nca1v4/AFSkAf4OyZnfmSFGN6am3WQ?rlkey=nwcbttxt0imvbk724mozr1i7y&dl=0) |
 2    | 04/07 (Tue) | [Supervised - Overfitting and Regularization](https://www.dropbox.com/scl/fo/t7mn7dxs91njdskw3byey/AA1kZezH9LpO-vt0tsH4Lug?rlkey=z30aj5b9t9aptycc6clp33i2o&dl=0) | HW2 out
-2    | 04/09 (Thu) | Supervised - Support Vector Machine | HW1 Due
+2    | 04/09 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/amn4q01cfchaqxiagdxqa/ACddCXN9W1zPM7R8F8xIEA4?rlkey=8qmkljj83fye69ztd4zrn6dju&dl=0) | HW1 Due
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting |
 4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
