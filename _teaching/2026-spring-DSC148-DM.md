@@ -75,8 +75,8 @@ Week | Date        | Topic & Slides                                             
 2    | 04/09 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/scl/fo/amn4q01cfchaqxiagdxqa/ACddCXN9W1zPM7R8F8xIEA4?rlkey=8qmkljj83fye69ztd4zrn6dju&dl=0) | HW1 Due
 3    | 04/14 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/sy89btm0ytzj5vs71a0av/APqkOgbYikkJodPOjW16kqM?rlkey=0vxul1tjzim1orzd2d9chye5o&dl=0) |
 3    | 04/16 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/4z5bd0fccu8zgnyelqyk4/AEyC8mb2TOuo4zkX1bC7NGA?rlkey=pbd5m7plig1o6xf8jihdvgbqb&dl=0) |
-4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
-4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
+4    | 04/21 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/92vfzfqyy8gr9ae9c2uwx/AFH9oXv9fv70ux8ODT5aKCg?rlkey=6qpgq4fmbgdwr8zcjz5c2eaxp&dl=0) | HW2 Due, HW3 out
+4    | 04/23 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/goz2eb9b92xb2slns645g/AHJrVd0-Ml33h8xpZBaXwxI?rlkey=boyj5mz7uir02mt3zhonzhen8&dl=0) |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
 5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
 6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |

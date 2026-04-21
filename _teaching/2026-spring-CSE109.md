@@ -52,7 +52,7 @@ Date | Topic & Slides | Homework | Additional Notes
 03/31 | [Introduction](https://www.dropbox.com/scl/fo/dzrvrpaupjo03pu3ijp2z/AP2DDK_E3tX9DokIN1tegrY?rlkey=493afdhrklybaq70yox5aq5v7&dl=0) | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
 04/07 | [Ad Hoc, Simulation & Search](https://www.dropbox.com/scl/fo/l9c5qdecg97enhx6ner20/AHMEXec90F4g2vkAAmkYZw4?rlkey=5qf2mmxiqdyk9v5jjxyim4o09&dl=0) | Problem Set #1 |
 04/14 | [Dynamic Programming (Simple)](https://www.dropbox.com/scl/fo/3jhx848ut5tn6lv6tavhs/AL24gsYl_5qLcyk3Hr-1hXw?rlkey=ylzyiwa7k9h8ynylg6ar0ys2k&dl=0) | Problem Set #2 |
-04/21 | Basic Graph Algorithms | Problem Set #3 |
+04/21 | [Basic Graph Algorithms](https://www.dropbox.com/scl/fo/e5ysrpivcizqwv4k3nzrb/AOXoI2-we87XheSP0j9qLJw?rlkey=1mplsah6xp64y43005etgi8y8&dl=0) | Problem Set #3 |
 04/28 | Computational Geometry | Problem Set #4 |
 05/05 | Dynamic Programming (Intermediate) | Problem Set #5 |
 05/12 | Combinatorics and Algebra | Problem Set #6 |
