@@ -19,7 +19,7 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 * Deriving Character Logic from Storyline as Codified Decision Trees.<br/>
 Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou and Jingbo Shang. **ACL** 2026.
 * Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection<br/>
-Yuwei Zhang, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **ACL** 2026.
+Yuwei Zhang, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **ACL** 2026. (selected as **oral**)
 * SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes<br/>
 Chuhan Wang, Xintong Li, Jennifer Yuntong Zhang, Junda Wu, Chengkai Huang, Lina Yao, Julian McAuley and Jingbo Shang. **ACL** 2026.
 * PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time<br/>
