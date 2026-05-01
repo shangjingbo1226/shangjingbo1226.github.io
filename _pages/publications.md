@@ -16,7 +16,13 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2026
 
-* Deriving Character Logic from Storyline as Codified Decision Trees.<br/>
+* CoMem: Context Management with A Decoupled Long-Context Model<br/>
+Yuwei Zhang, Chengyu Dong, Shuowei Jin, Changlong Yu, Hejie Cui, Hongye Jin, Xinyang Zhang, Hamed Bonab, Colin Lockard, Jianshu Chen, Zhenyu Shi, Jingbo Shang, Xian Li and Bing Yin. **ICML** 2026.
+* FrontierCS: Evolving Challenges for Evolving Intelligence<br/>
+Qiuyang Mang, Wenhao Chai, Zhifei Li, Huanzhi Mao, Shang Zhou, Alexander Du, Hanchen Li, Shu Liu, Edwin Chen, Yichuan Wang, Xieting Chu, Zerui Cheng, Yuan Xu, Tian Xia, Zirui Wang, Tianneng Shi, Jianzhu Yao, Yilong Zhao, Qizheng Zhang, Charlie F. Ruan, Zeyu Shen, Kaiyuan Liu, Zhaoyang Hong, Alex Gu, Ziyi Zhang, Runyuan He, Dong Xing, Zerui Li, Zirong Zeng, Yige Jiang, Lufeng Cheng, Ziyi Zhao, Youran Sun, Suyang Zhong, Junpeng Wang, Donglin Li, Wenyuan Huang, Jialiang Gu, Wesley Kai Zheng, Wangmeiyu Zhang, Ruyi Ji, Xuechang Tu, Zihan Zheng, Zhaozi Wang, Zexing Chen, Jingbang Chen, JIALU ZHANG, Aleksandra Korolova, Peter Henderson, Pramod Viswanath, Vijay Ganesh, Saining Xie, Zhuang Liu, Dawn Song, Sewon Min, Ion Stoica, Joseph E. Gonzalez, Jingbo Shang and Alvin Cheung. **ICML** 2026.
+* WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning<br/>
+Gagan Mundada, Zihan Huang, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang, Xintong Li, Tong Yu, Lina Yao, Jingbo Shang, Julian McAuley and Junda Wu. **ICML** 2026.
+* Deriving Character Logic from Storyline as Codified Decision Trees<br/>
 Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou and Jingbo Shang. **ACL** 2026.
 * Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection<br/>
 Yuwei Zhang, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **ACL** 2026. (selected as **oral**)
@@ -25,7 +31,7 @@ Chuhan Wang, Xintong Li, Jennifer Yuntong Zhang, Junda Wu, Chengkai Huang, Lina 
 * PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time<br/>
 Weizhi Zhang, Xinyang Zhang, Chenwei Zhang, Liangwei Yang, Jingbo Shang, Zhepei Wei, Henry Peng Zou, Zijie Huang, Zhengyang Wang, Yifan Gao, Xiaoman Pan, Lian Xiong, Jingguo Liu, Philip S. Yu and Xian Li. **ACL** (Findings) 2026.
 * Codified Finite-state Machines for Role-playing<br/>
-Letian Peng, Yupeng Hou, Kun Zhou and Jingbo Shang. **ICLR** 2026
+Letian Peng, Yupeng Hou, Kun Zhou and Jingbo Shang. **ICLR** 2026.
 * AutoCode: LLMs as Problem Setters for Competitive Programming<br/>
 Shang Zhou, Zihan Zheng, Kaiyuan Liu, Zeyu Shen, Zerui Cheng, Zexing Chen, Hansen He, Jianzhu Yao, Huanzhi Mao, Qiuyang Mang, Tianfu Fu, Beichen Li, Dongruixuan Li, Wenhao Chai, Zhuang Liu, Aleksandra Korolova, Peter Henderson, Natasha Jaques, Pramod Viswanath, Saining Xie and Jingbo Shang. **ICLR** 2026.
 * Importance Sampling for Multi-Negative Multimodal Direct Preference Optimization<br/>
