@@ -116,7 +116,7 @@ Data Mining Challenge (25%)
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from April 30 to May 21**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: Please see the challenge's Rule tab.
-- Kaggle challenge link: TBD
+- Kaggle challenge link: [here](https://www.kaggle.com/competitions/ucsd-spring-2026-dsc-148/)
 
 Project (25%)
 ======
