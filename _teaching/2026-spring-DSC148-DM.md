@@ -79,7 +79,7 @@ Week | Date        | Topic & Slides                                             
 4    | 04/23 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/goz2eb9b92xb2slns645g/AHJrVd0-Ml33h8xpZBaXwxI?rlkey=boyj5mz7uir02mt3zhonzhen8&dl=0) |
 5    | 04/28 (Tue) | [Cluster Analysis - Density-based Clustering: DBSCAN](https://www.dropbox.com/scl/fo/38drss4kz77nfbtwsimvm/ALen2jsyIK3e_6kW7pi5xDw?rlkey=b4318261b013vf7io9lfju9na&dl=0) |
 5    | 04/30 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/scl/fo/tmlglol6q03tf5v68fcv3/AKZy1DfdiZ8YF95f84FpQs8?rlkey=znkkzx3vqhesvwrjmj1lvtsdo&dl=0) | DM Challenge out
-6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |
+6    | 05/05 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/scl/fo/oz4lx9h0kj9zvaek46zes/AC6TwmcDS5nlDEy5ON-5n3Y?rlkey=os1uoiajy3sryoni2ad9bo886&dl=0) |
 6    | 05/07 (Thu) | Midterm (no class, 24 hours on this date) |
 7    | 05/12 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
 7    | 05/14 (Thu) | Recommender System - Latent Factor Models |
