@@ -16,6 +16,10 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2026
 
+* Taming Update Drift in Asynchronous Federated Learning via Orthogonal Calibration<br/>
+Jiayun Zhang, Shuheng Li, Haiyu Huang, Xiaofan Yu, Chenyang An, Rajesh K. Gupta and Jingbo Shang. **KDD** 2026.
+* On the Memorization and Generalization of Generative Recommendation<br/>
+Yijie Ding, Zitian Guo, Jiacheng Li, Letian Peng, Shuai Shao, Wei Shao, Xiaoqiang Luo, Luke Simon, Jingbo Shang, Julian McAuley and Yupeng Hou. **KDD** 2026.
 * CoMem: Context Management with A Decoupled Long-Context Model<br/>
 Yuwei Zhang, Chengyu Dong, Shuowei Jin, Changlong Yu, Hejie Cui, Hongye Jin, Xinyang Zhang, Hamed Bonab, Colin Lockard, Jianshu Chen, Zhenyu Shi, Jingbo Shang, Xian Li and Bing Yin. **ICML** 2026.
 * FrontierCS: Evolving Challenges for Evolving Intelligence<br/>
