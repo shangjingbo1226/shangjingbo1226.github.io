@@ -83,8 +83,8 @@ Week | Date        | Topic & Slides                                             
 6    | 05/07 (Thu) | Midterm (no class, 24 hours on this date) |
 7    | 05/12 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/scl/fo/lfimn4a4u7c0prgn5xbbq/AEtbbyj3CW9kr3R_hDBuoO0?rlkey=smyyjhffpnbv9rhw5bio5pu6q&dl=0) | HW3 Due, HW4 out
 7    | 05/14 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/scl/fo/0bht3ygvtkh1uiauqa3yy/ANFsfs5CxzAaYOKkWZeiSmo?rlkey=x6xz7wq7glum4az1jsw5h6uf0&dl=0) |
-8    | 05/19 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF |
-8    | 05/21 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
+8    | 05/19 (Tue) | [Text Mining - Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/scl/fo/14n8v1olmczavkl2s3h80/AP-oe8gq5YuHWUrO5Xalmxk?rlkey=jhep2hti3j6k6pazzbna3dm5j&dl=0) |
+8    | 05/21 (Thu) | [Text Mining - Advanced Text Representations](https://www.dropbox.com/scl/fo/lq48idi0uaydgwwmbziah/AL9JISp-jVLcQSQGvkiSWxk?rlkey=h3oxzjoexj7m2n04aaugjrzcq&dl=0) | DM Challenge due
 9    | 05/26 (Tue) | Network Mining - Small-Worlds & Random Graph Models, HITS, PageRank |
 9    | 05/28 (Thu) | Network Mining - Personalized PageRank and Node Embedding |
 10   | 06/02 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
