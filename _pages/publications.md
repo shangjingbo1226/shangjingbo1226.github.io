@@ -27,7 +27,7 @@ Qiuyang Mang, Wenhao Chai, Zhifei Li, Huanzhi Mao, Shang Zhou, Alexander Du, Han
 * WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning<br/>
 Gagan Mundada, Zihan Huang, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang, Xintong Li, Tong Yu, Lina Yao, Jingbo Shang, Julian McAuley and Junda Wu. **ICML** 2026.
 * Deriving Character Logic from Storyline as Codified Decision Trees<br/>
-Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou and Jingbo Shang. **ACL** 2026.
+Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou and Jingbo Shang. **ACL** 2026. (selected as **oral**)
 * Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection<br/>
 Yuwei Zhang, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **ACL** 2026. (selected as **oral**)
 * SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes<br/>
