@@ -58,7 +58,7 @@ Date | Topic & Slides | Homework | Additional Notes
 05/12 | [Combinatorics and Algebra](https://www.dropbox.com/scl/fo/wo70t4bge8qdok4jgjmkq/ALLPdvZBLc3YH8Ft7SDTqY8?rlkey=0a516nsx4r5feg5t6ihfstii8&dl=0) | Problem Set #6 |
 05/19 | [Network Flow](https://www.dropbox.com/scl/fo/fwp1emo6sm4yavib42mkq/AAFGwbUwf4EH7EgEzEsTffY?rlkey=msp82n2zkkav33mmxv9zkkhlw&dl=0) | Problem Set #7 |
 05/26 | [Segment Tree](https://www.dropbox.com/scl/fo/9ycvsr5dwwqyx9hwerq85/APn-aXQkcW7ZMZhSHQqCYTw?rlkey=rrju4t7x2dd25okagthyen6hg&dl=0) | Problem Set #8 |
-06/02 | Problem Solving using LLMs | |
+06/02 | [Problem Solving using LLMs](https://www.dropbox.com/scl/fo/ndgqnndxovget160uby9i/AP6fQZYL4cblyj_0qKZg4iY?rlkey=x1jd7dpgpwi8l1f3gmwdewajz&dl=0) | |
 
 
 Homework and Grading Policy
