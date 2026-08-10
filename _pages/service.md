@@ -11,7 +11,7 @@ redirect_from:
 
 ## Organizing Committee
 
-- Program Chair, [BoF Session: AI Agents from Capability to Productivity](https://xuanwang91.github.io/2025-ACL-BOF/), (**ACL 2026**)
+- Program Chair, [BoF Session: AI Agents from Capability to Productivity](), (**ACL 2026**)
 - Program Chair, [BoF Session: Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/), (**ACL 2025**)
 - Program Chair, [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/), (**ICDM 2025**)
 - Co-Chair, [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/), (**ICDM 2025**)
