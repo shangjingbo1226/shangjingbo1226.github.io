@@ -27,4 +27,5 @@ I develop **scalable and reliable foundation models and agentic systems** for au
 - [**EMNLP 2024**] [TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage](https://aclanthology.org/2024.findings-emnlp.329.pdf). Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**.
 
 ## Reliable and Trustworthy AI Systems
+- [**EMNLP 2026**] [EDGE: Error Dependency Graph-Guided Multi-Error Attribution in Multi-Agent LLM Systems](). Jun Hou, Priya Pitre, Yi Fang, and **Xuan Wang**.
 - [**EMNLP 2025**] [A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare](https://aclanthology.org/2025.findings-emnlp.356.pdf). Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**.
