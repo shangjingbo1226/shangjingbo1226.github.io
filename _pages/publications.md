@@ -16,6 +16,18 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2026
 
+* DenseMixer: Improving MoE Post-Training via Precise Router Gradient<br/>
+Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, Churan Zhi, Shuohang Wang, yelong shen, Jianfeng Gao and Jingbo Shang. **EMNLP** 2026.
+* OLIVIA: Online Learning via Inference-time Action Adaptation<br/>
+Sheldon Yu, Junda Wu, Xintong Li, Nikki Lijing Kuang, Sizhe Zhou, Tong Yu, Jiawei Han, Jingbo Shang and Julian McAuley. **EMNLP** 2026.
+* Evaluating Harmful Memorization in LLM Code Generation<br/>
+Lizhe Zhang, Wentao Chen, Li Zhong, Letian Peng, Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2026.
+* EvoLen: Evolution-Guided Tokenization for DNA Language Model<br/>
+Nan Huang, Xiaoxiao Zhou, Junxia Cui, Mario Tapia-Pacheco, Tiffany Amariuta, Yang E. Li and Jingbo Shang. **COLM** 2026.
+* Simulating Organized Group Behavior: New Framework, Benchmark, and Analysis<br/>
+Xinkai Zou, Yiming Huang, Zhuohang Wu, Jian Sha, Nan Huang, Longfei Yun, Jingbo Shang and Letian Peng. **COLM** 2026.
+* CocoaBench: Evaluating unified digital agents in the wild<br/>
+Shibo Hao , Zhining Zhang, Zhiqi Liang, Tianyang Liu, Yuheng Zha, Qiyue Gao, Jixuan Chen, Zilong Wang, Zhoujun Cheng, Haoxiang Zhang, Junli Wang, Hexi Jin, Boyuan Zheng, Kun Zhou, Yu Wang, Feng Yao, Licheng Liu, Yijiang Li, Zhifei Li, Zhengtao Han, Pracha Promthaw, Tommaso Cerruti, Xiaohan Fu, Ziqiao Ma, Jingbo Shang, Lianhui Qin, Julian McAuley, Eric P. Xing, Zhengzhong Liu, Rupesh Kumar Srivastava and Zhiting Hu. **COLM** 2026.
 * Taming Update Drift in Asynchronous Federated Learning via Orthogonal Calibration<br/>
 Jiayun Zhang, Shuheng Li, Haiyu Huang, Xiaofan Yu, Chenyang An, Rajesh K. Gupta and Jingbo Shang. **KDD** 2026.
 * On the Memorization and Generalization of Generative Recommendation<br/>

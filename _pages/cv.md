@@ -16,7 +16,9 @@ Education
 
 Work Experience
 ======
-- **University of California, San Diego**, La Jolla, CA,  Jul 2024 - Present
+- **University of California, San Diego**, La Jolla, CA,  Jul 2026 - Present
+  * Professor, CSE & HDSI
+- **University of California, San Diego**, La Jolla, CA,  Jul 2024 - Jun 2026
   * Associate Professor, CSE & HDSI
 - **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Jun 2024
   * Assistant Professor, CSE & HDSI
