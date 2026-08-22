@@ -17,7 +17,7 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 ### 2026
 
 * DenseMixer: Improving MoE Post-Training via Precise Router Gradient<br/>
-Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, Churan Zhi, Shuohang Wang, yelong shen, Jianfeng Gao and Jingbo Shang. **EMNLP** 2026.
+Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, Churan Zhi, Shuohang Wang, Yelong Shen, Jianfeng Gao and Jingbo Shang. **EMNLP** 2026.
 * OLIVIA: Online Learning via Inference-time Action Adaptation<br/>
 Sheldon Yu, Junda Wu, Xintong Li, Nikki Lijing Kuang, Sizhe Zhou, Tong Yu, Jiawei Han, Jingbo Shang and Julian McAuley. **EMNLP** 2026.
 * Evaluating Harmful Memorization in LLM Code Generation<br/>
