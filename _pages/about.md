@@ -26,7 +26,6 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 - **(4/30/26)** **Three papers** are accepted by **ICML'26**. Congratulations to my students Gaurav, Yi, and Priya for their work on SLM agentic framework, foundation model architecture search, and multi-agent coordination under real-world conditions without ground truth!
 - **(4/13/26)** Congratulations to my student Gaurav for receiving the **VT CS Outstanding MS Research Award**!
 - **(4/6/26)** **Two papers and one demo paper** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
-- **(4/6/26)** I am honored to receive the **VT COE Outstanding New Assistant Professor Award**!
 - **...**
 
 
