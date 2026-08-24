@@ -31,6 +31,7 @@ redirect_from:
 
 ## Journal Reviewer
 
+- **ACM Computing Surveys (CSUR)**, Associate Editor
 - **Nature Methods**
 - **Nature Communications**
 - **Cell**
