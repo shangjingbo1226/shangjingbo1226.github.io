@@ -37,10 +37,17 @@ Current Members
     <img src="/images/img/students/yiming huang.png" alt="Yiming Huang">
     <p><a href="https://yiyihum.github.io/">Yiming Huang</a><br>(2025 – )</p>
   </div>
-
   <div class="student-card">
     <img src="/images/img/students/shang zhou.jpg" alt="Shang Zhou">
     <p><a href="https://shangzhou.me/">Shang Zhou</a><br>(2025 – )</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/ziche liu.jpg" alt="Ziche Liu">
+    <p><a href="https://zicheliu.com/">Ziche Liu</a><br>(2026 – )</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/jiaxun zhang.jpg" alt="Jiaxun Zhang">
+    <p><a href="https://jiaxunz.github.io/">Jiaxun Zhang</a><br>(2026 – )</p>
   </div>
 </div>
 
@@ -64,12 +71,8 @@ Current Members
 
 <div class="student-grid">
   <div class="student-card">
-    <img src="/images/img/students/lizhe zhang.jpg" alt="Lizhe Zhang">
-    <p><a href="https://fearanddreams1123.github.io/">Lizhe Zhang</a><br>(2024 – )</p>
-  </div>
-  <div class="student-card">
-    <img src="/images/img/students/alex nguyen.png" alt="Alex Nguyen">
-    <p><a href="https://www.linkedin.com/in/alextongdo/">Alex Nguyen</a><br>(2024 – )</p>
+    <img src="/images/img/students/xinkai zou.jpg" alt="Xinkai Zou">
+    <p><a href="https://jayzou3773.github.io/">Xinkai Zou</a><br>(2025 - )</p>
   </div>
 </div>
 
@@ -143,6 +146,14 @@ Lab Alumni
 ## Masters
 
 <div class="student-grid">
+  <div class="student-card">
+    <img src="/images/img/students/lizhe zhang.jpg" alt="Lizhe Zhang">
+    <p><a href="https://fearanddreams1123.github.io/">Lizhe Zhang</a><br>(2026 → UC Santa Cruz for PhD study)</p>
+  </div>
+  <div class="student-card">
+    <img src="/images/img/students/alex nguyen.png" alt="Alex Nguyen">
+    <p><a href="https://www.linkedin.com/in/alextongdo/">Alex Nguyen</a><br>(2026 → Gray Swan AI as ML Engineer)</p>
+  </div>
   <div class="student-card">
     <img src="/images/img/students/jinya jiang.jpg" alt="Jinya Jiang">
     <p><a href="https://yayajjiang.github.io/">Jinya Jiang</a><br>(2025 → Amazon)</p>
