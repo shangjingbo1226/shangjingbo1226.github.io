@@ -60,15 +60,20 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Wentao Chen
-    - Office Hour: TBD
+    - Office Hour: Mondays, 3 to 4 PM
+    - Location: CSE B240A
 - Xintong Li
-    - Office Hour: TBD
+    - Office Hour: Fridays, 10 to 11 AM
+    - Zoom link: TBD
 - Yangkun Wang
-    - Office Hour: TBD
+    - Office Hour: Thursdays, 4 to 5 PM
+    - Location: CSE B270A
 - Ruolan Yang
-    - Office Hour: TBD
+    - Office Hour: Wednesdays, 11 AM to 12 PM
+    - Zoom link: [https://ucsd.zoom.us/j/6754600935](https://ucsd.zoom.us/j/6754600935)
 - Shang Zhou
-    - Office Hour: TBD
+    - Office Hour: Tuesdays, 9 AM to 10 AM
+    - Zoom link: [https://ucsd.zoom.us/j/8685475322](https://ucsd.zoom.us/j/8685475322)
 
 Note: all times are in **Pacific Time**.
 
@@ -91,7 +96,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 09/24 (Thu) | Introduction: Concepts and Evaluations | HW1 out
+1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/izkpg6205mrtrscvmdmhm/AOYjsJeYRCEnPlxy_xXRGEQ?rlkey=dfk9q4c1fmalptm5r7n23hisg&dl=0) | HW1 out
 2    | 09/29 (Tue) | A Geometric View of Linear Algebra |
 2    | 10/01 (Thu) | Nearest Neighbor Classification | HW1 due, HW2 out
 3    | 10/06 (Tue) | Gradients and Optimization |

@@ -52,9 +52,11 @@ Office Hours
     - Office Hour: Wednesdays, 9 to 10 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Jerjes Aguirre
-    - Office Hour: TBD
+    - Office Hour: Thursdays, 3 to 4 PM
+    - Zoom link: TBD
 - Yuwei Zhang
-    - Office Hour: TBD
+    - Office Hour: Wednesdays, 4 to 5 PM
+    - Zoom link: TBD
 
 Note: all times are in **Pacific Time**.
 
@@ -77,7 +79,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 09/24 (Thu) | Introduction: Concepts and Evaluations | HW1 out
+1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/bblutsndc2inza9b06mrs/AJM5PTN2a7QdqnBIMFIQw8s?rlkey=5koldpjej971ixww17hgasvof&dl=0) | HW1 out
 2    | 09/29 (Tue) | A Geometric View of Linear Algebra |
 2    | 10/01 (Thu) | Nearest Neighbor Classification | HW1 due, HW2 out
 3    | 10/06 (Tue) | Gradients and Optimization |
