@@ -16,6 +16,17 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2026
 
+
+* TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition<br/>
+Anay Kulkarni, Chia En Lu, Dheeraj Mekala, Jayanth Srinivasa, Gaowen Liu and Jingbo Shang. **NeurIPS** 2026.
+* SimSD: Simple Speculative Decoding in Diffusion Language Models<br/>
+Junxia Cui, Haotian Ye, Runchu Tian, Hongcan Guo, Jinya Jiang, Haoru Li, Chaojie Ren, Yiming Huang, Kaijie Zhu, Zhongkai Yu, Kun Zhou and Jingbo Shang. **NeurIPS** 2026.
+* Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning<br/>
+Xintong Li, Sha Li, Rongmei Lin, Hongye Jin, Linwei Li, Hejie Cui, Sarah Zhang, Chia-Yuan Chang, Kewei Cheng, Yuwei Zhang, Qingyu Yin, Jingbo Shang and Bing Yin. **NeurIPS** 2026.
+* AMPS: Adaptive Modality Preference Steering via Functional Entropy<br/>
+Zihan Huang, Xintong Li, Rohan Surana, Tong Yu, Rui Wang, Julian McAuley, Jingbo Shang and Junda Wu. **NeurIPS** 2026.
+* FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale<br/>
+Runyuan He, Qiuyang Mang, Shang Zhou, Kaiyuan Liu, Hanchen Li, Huanzhi Mao, Qizheng Zhang, Zerui Li, Bo Peng, Lufeng Cheng, Tianfu Fu, Yichuan Wang, Wenhao Chai, Jingbo Shang, Alex Dimakis, Joseph E. Gonzalez and Alvin Cheung. **NeurIPS** 2026. (selected as **spotlight**)
 * DenseMixer: Improving MoE Post-Training via Precise Router Gradient<br/>
 Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, Churan Zhi, Shuohang Wang, Yelong Shen, Jianfeng Gao and Jingbo Shang. **EMNLP** 2026.
 * OLIVIA: Online Learning via Inference-time Action Adaptation<br/>
