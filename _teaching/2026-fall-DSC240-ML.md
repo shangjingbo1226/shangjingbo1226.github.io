@@ -53,10 +53,10 @@ Office Hours
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Jerjes Aguirre
     - Office Hour: Thursdays, 3 to 4 PM
-    - Zoom link: TBD
+    - Zoom link: [https://ucsd.zoom.us/j/8181455969](https://ucsd.zoom.us/j/8181455969)
 - Yuwei Zhang
     - Office Hour: Wednesdays, 4 to 5 PM
-    - Zoom link: TBD
+    - Zoom link: [https://ucsd.zoom.us/j/3962413508](https://ucsd.zoom.us/j/3962413508)
 
 Note: all times are in **Pacific Time**.
 
@@ -80,7 +80,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/bblutsndc2inza9b06mrs/AJM5PTN2a7QdqnBIMFIQw8s?rlkey=5koldpjej971ixww17hgasvof&dl=0) | HW1 out
-2    | 09/29 (Tue) | A Geometric View of Linear Algebra |
+2    | 09/29 (Tue) | [A Geometric View of Linear Algebra](https://www.dropbox.com/scl/fo/qqilnf5dmmmr723abmz09/AEkkMmAxeYStpD6BvOK9kQ8?rlkey=lnyy05lemp6ds3i6nkbiyg5x8&dl=0) |
 2    | 10/01 (Thu) | Nearest Neighbor Classification | HW1 due, HW2 out
 3    | 10/06 (Tue) | Gradients and Optimization |
 3    | 10/08 (Thu) | Least-Squares Regression, Logistic Regression, and Perceptron |
@@ -96,8 +96,8 @@ Week | Date        | Topic & Slides                                             
 8    | 11/12 (Thu) | Multi-class Classification and Feed-forward Neural Networks |
 9    | 11/17 (Tue) | Convolutional Neural Networks |
 9    | 11/19 (Thu) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
-10   | 11/24 (Tue) | Thanksgiving break (no class) |
-10   | 11/26 (Thu) | Semi-supervised Learning and Weakly-supervised Learning | ML Challenge due
+10   | 11/24 (Tue) | Semi-supervised Learning and Weakly-supervised Learning |
+10   | 11/26 (Thu) | Thanksgiving break (no class) | ML Challenge due
 11   | 12/01 (Tue) | Learning from Noisy Weak Supervision + Challenge Winner Prensentations |
 11   | 12/03 (Thu) | Large Language Models | HW5 due
 

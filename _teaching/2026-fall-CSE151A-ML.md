@@ -64,7 +64,7 @@ Office Hours
     - Location: CSE B240A
 - Xintong Li
     - Office Hour: Fridays, 10 to 11 AM
-    - Zoom link: TBD
+    - Zoom link: [https://ucsd.zoom.us/j/6681108571](https://ucsd.zoom.us/j/6681108571)
 - Yangkun Wang
     - Office Hour: Thursdays, 4 to 5 PM
     - Location: CSE B270A
@@ -97,7 +97,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/izkpg6205mrtrscvmdmhm/AOYjsJeYRCEnPlxy_xXRGEQ?rlkey=dfk9q4c1fmalptm5r7n23hisg&dl=0) | HW1 out
-2    | 09/29 (Tue) | A Geometric View of Linear Algebra |
+2    | 09/29 (Tue) | [A Geometric View of Linear Algebra](https://www.dropbox.com/scl/fo/e90996zhg9w01o8rhrkwq/AMHmHcU6MxZFDXDArMbaUA0?rlkey=ppze1t07mjqoovx8p8haoxcju&dl=0) |
 2    | 10/01 (Thu) | Nearest Neighbor Classification | HW1 due, HW2 out
 3    | 10/06 (Tue) | Gradients and Optimization |
 3    | 10/08 (Thu) | Least-Squares Regression, Logistic Regression, and Perceptron |
@@ -113,8 +113,8 @@ Week | Date        | Topic & Slides                                             
 8    | 11/12 (Thu) | Multi-class Classification and Feed-forward Neural Networks |
 9    | 11/17 (Tue) | Convolutional Neural Networks |
 9    | 11/19 (Thu) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
-10   | 11/24 (Tue) | Thanksgiving break (no class) |
-10   | 11/26 (Thu) | Semi-supervised Learning and Weakly-supervised Learning | ML Challenge due
+10   | 11/24 (Tue) | Semi-supervised Learning and Weakly-supervised Learning |
+10   | 11/26 (Thu) | Thanksgiving break (no class) | ML Challenge due
 11   | 12/01 (Tue) | Learning from Noisy Weak Supervision + Challenge Winner Prensentations |
 11   | 12/03 (Thu) | Large Language Models | HW5 due
 
