@@ -98,7 +98,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/izkpg6205mrtrscvmdmhm/AOYjsJeYRCEnPlxy_xXRGEQ?rlkey=dfk9q4c1fmalptm5r7n23hisg&dl=0) | HW1 out
 2    | 09/29 (Tue) | [A Geometric View of Linear Algebra](https://www.dropbox.com/scl/fo/e90996zhg9w01o8rhrkwq/AMHmHcU6MxZFDXDArMbaUA0?rlkey=ppze1t07mjqoovx8p8haoxcju&dl=0) |
-2    | 10/01 (Thu) | Nearest Neighbor Classification | HW1 due, HW2 out
+2    | 10/01 (Thu) | [Nearest Neighbor Classification](https://www.dropbox.com/scl/fo/3tbcdn5bhao3cvbsce0ua/AHKFoPx8_HtHhO4GXgrt1hw?rlkey=8j9wkbchkxrxcbqsar7r51xe0&dl=0) | HW1 due, HW2 out
 3    | 10/06 (Tue) | Gradients and Optimization |
 3    | 10/08 (Thu) | Least-Squares Regression, Logistic Regression, and Perceptron |
 4    | 10/13 (Tue) | Overfitting and Regularization |
