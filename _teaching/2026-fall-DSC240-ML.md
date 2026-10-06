@@ -82,8 +82,8 @@ Week | Date        | Topic & Slides                                             
 1    | 09/24 (Thu) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/scl/fo/bblutsndc2inza9b06mrs/AJM5PTN2a7QdqnBIMFIQw8s?rlkey=5koldpjej971ixww17hgasvof&dl=0) | HW1 out
 2    | 09/29 (Tue) | [A Geometric View of Linear Algebra](https://www.dropbox.com/scl/fo/qqilnf5dmmmr723abmz09/AEkkMmAxeYStpD6BvOK9kQ8?rlkey=lnyy05lemp6ds3i6nkbiyg5x8&dl=0) |
 2    | 10/01 (Thu) | [Nearest Neighbor Classification](https://www.dropbox.com/scl/fo/87ekgydbpjlq583jkrzzo/ABWYB3khmXIDIYi4mbnPEOA?rlkey=0jkt09acg66vpe2coyxku7bwp&dl=0) | HW1 due, HW2 out
-3    | 10/06 (Tue) | Gradients and Optimization |
-3    | 10/08 (Thu) | Least-Squares Regression, Logistic Regression, and Perceptron |
+3    | 10/06 (Tue) | [Gradients and Optimization](https://www.dropbox.com/scl/fo/b80wz3f8rxs9weg7g54l6/AOckULJi5helLaF2zour8pU?rlkey=5z6hpd3haco3ehhxtlvyt0ruw&dl=0) |
+3    | 10/08 (Thu) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/scl/fo/5zii9nqr3xqomu925mncq/AA6GpBw18rPPS8HrnGcw-H0?rlkey=y7ftc2s2kncqh7n9s742looea&dl=0) |
 4    | 10/13 (Tue) | Overfitting and Regularization |
 4    | 10/15 (Thu) | Support Vector Machine (SVM) | HW2 due, HW3 out
 5    | 10/20 (Tue) | SVM: Duality and Kernel |
