@@ -101,8 +101,8 @@ Week | Date        | Topic & Slides                                             
 2    | 10/01 (Thu) | [Nearest Neighbor Classification](https://www.dropbox.com/scl/fo/uefazw34y3g2fezbmztpy/AM1xJvzfBEqCQWCHSnYz5Ys?rlkey=01sp7f1n1ba4sl9ki6ibpeqg8&dl=0) | HW1 due, HW2 out
 3    | 10/06 (Tue) | [Gradients and Optimization](https://www.dropbox.com/scl/fo/o7njkcugqe7wmph38avjh/AItdbNHTeI9XRDmpxDE6YPQ?rlkey=6xvcabkd2ysfk09n0ct1fpp0z&dl=0) |
 3    | 10/08 (Thu) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/scl/fo/8wgbby4ntlb55nm1neehp/ANsKgd6G8ob-0nu1FJ05SNM?rlkey=8u0k5m3xisi2hwgl0esa0ro5s&dl=0) |
-4    | 10/13 (Tue) | Overfitting and Regularization |
-4    | 10/15 (Thu) | Support Vector Machine (SVM) | HW2 due, HW3 out
+4    | 10/13 (Tue) | [Overfitting and Regularization](https://www.dropbox.com/scl/fo/z6tswf12gjxwkuvwcdgv8/ACwgr0nzoSENevtycNYntEg?rlkey=bw1gfzxczdv33oa7bhskp519o&dl=0) |
+4    | 10/15 (Thu) | [Support Vector Machine (SVM)](https://www.dropbox.com/scl/fo/c6q228zljs10ai6o9raiy/ANLqGHSen9yYo8XJteY2GxM?rlkey=ui9p4wxaopnfot34xt0ttozj3&dl=0) | HW2 due, HW3 out
 5    | 10/20 (Tue) | SVM: Duality and Kernel |
 5    | 10/22 (Thu) | K-Means Clustering & its Variants |
 6    | 10/27 (Tue) | "Soft" Clustering: Gaussian Mixture |
