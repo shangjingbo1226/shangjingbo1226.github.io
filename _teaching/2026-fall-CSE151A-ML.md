@@ -103,8 +103,8 @@ Week | Date        | Topic & Slides                                             
 3    | 10/08 (Thu) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/scl/fo/8wgbby4ntlb55nm1neehp/ANsKgd6G8ob-0nu1FJ05SNM?rlkey=8u0k5m3xisi2hwgl0esa0ro5s&dl=0) |
 4    | 10/13 (Tue) | [Overfitting and Regularization](https://www.dropbox.com/scl/fo/z6tswf12gjxwkuvwcdgv8/ACwgr0nzoSENevtycNYntEg?rlkey=bw1gfzxczdv33oa7bhskp519o&dl=0) |
 4    | 10/15 (Thu) | [Support Vector Machine (SVM)](https://www.dropbox.com/scl/fo/c6q228zljs10ai6o9raiy/ANLqGHSen9yYo8XJteY2GxM?rlkey=ui9p4wxaopnfot34xt0ttozj3&dl=0) | HW2 due, HW3 out
-5    | 10/20 (Tue) | SVM: Duality and Kernel |
-5    | 10/22 (Thu) | K-Means Clustering & its Variants |
+5    | 10/20 (Tue) | [SVM: Duality and Kernel](https://www.dropbox.com/scl/fo/hivbdujq7pktxh7rdqikb/AK3ifgpn1sPkIrBNn9XuD_E?rlkey=dmw7qaf3b3zzibcbpttfii0ms&dl=0) |
+5    | 10/22 (Thu) | [K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/dkzgvxei89c541mfhue8o/AGXIaPyFgZyk-eo-OTbFp4c?rlkey=48w933wnpavg623aglmoc4cy1&dl=0) |
 6    | 10/27 (Tue) | "Soft" Clustering: Gaussian Mixture |
 6    | 10/29 (Thu) | Principle Component Analysis | ML Challenge out
 7    | 11/03 (Tue) | **Midterm** (no class, take-home, 24-hour) |
