@@ -88,8 +88,8 @@ Week | Date        | Topic & Slides                                             
 4    | 10/15 (Thu) | [Support Vector Machine (SVM)](https://www.dropbox.com/scl/fo/u8f82r2884pp4tg6ndsbw/AP88N-G3vrgpXvQx7bRRXEc?rlkey=0qeiyqt6dzpxzkdce5rjegjth&dl=0) | HW2 due, HW3 out
 5    | 10/20 (Tue) | [SVM: Duality and Kernel](https://www.dropbox.com/scl/fo/i0kenk1yu0rpb1nlamibf/AD4Ha9xGN0Ds9kDJD2s2cqQ?rlkey=hwtswz1yw4mw9r0wd9ryl4o6r&dl=0) |
 5    | 10/22 (Thu) | [K-Means Clustering & its Variants](https://www.dropbox.com/scl/fo/ckvugidp82w2b87skim80/AJiyfsbawBqpXv_6AJRP9hs?rlkey=9rer78yvaryy0bdd7gtw4czcc&dl=0) |
-6    | 10/27 (Tue) | "Soft" Clustering: Gaussian Mixture |
-6    | 10/29 (Thu) | Principle Component Analysis | ML Challenge out
+6    | 10/27 (Tue) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/9pakyqypbebji46rr33dc/ANFKemb_EUqsDEnIO0yIZcc?rlkey=2s1gq41iheccvvo2lkmu3a832&dl=0) |
+6    | 10/29 (Thu) | [Principle Component Analysis](https://www.dropbox.com/scl/fo/rvf588826knp3273bbw9v/APjXpMivEeYgSFOXerrBi5E?rlkey=nr9y64wmp3nx7ak1m9igf6m9w&dl=0) | ML Challenge out
 7    | 11/03 (Tue) | **Midterm** (no class, take-home, 24-hour) |
 7    | 11/05 (Thu) | Naive Bayes and Decision Tree | HW3 due，HW4 out
 8    | 11/10 (Tue) | Ensemble Learning: Bagging and Boosting |
