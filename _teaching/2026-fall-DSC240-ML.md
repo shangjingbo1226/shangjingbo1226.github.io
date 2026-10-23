@@ -118,8 +118,8 @@ Midterm (20%)
 
 It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 2 hours.
 
-- **Start**: Nov 03, 2:00 PM PT
-- **End**: Mov 04, 2:00 PM PT
+- **Start**: Nov 03, 11:00 AM PT
+- **End**: Mov 04, 11:00 AM PT
 - Midterm problems download: TBD
 - Please **make your submissions on Gradescope**.
 
