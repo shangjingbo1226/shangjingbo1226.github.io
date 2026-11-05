@@ -91,9 +91,9 @@ Week | Date        | Topic & Slides                                             
 6    | 10/27 (Tue) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/scl/fo/9pakyqypbebji46rr33dc/ANFKemb_EUqsDEnIO0yIZcc?rlkey=2s1gq41iheccvvo2lkmu3a832&dl=0) |
 6    | 10/29 (Thu) | [Principle Component Analysis](https://www.dropbox.com/scl/fo/rvf588826knp3273bbw9v/APjXpMivEeYgSFOXerrBi5E?rlkey=nr9y64wmp3nx7ak1m9igf6m9w&dl=0) | ML Challenge out
 7    | 11/03 (Tue) | **Midterm** (no class, take-home, 24-hour) |
-7    | 11/05 (Thu) | Naive Bayes and Decision Tree | HW3 due，HW4 out
-8    | 11/10 (Tue) | Ensemble Learning: Bagging and Boosting |
-8    | 11/12 (Thu) | Multi-class Classification and Feed-forward Neural Networks |
+7    | 11/05 (Thu) | [Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/802jhcf3x5zja4mj6tsrs/AMATfHEIMRUfVwl8zpysGNM?rlkey=36c66dipkdgboeqte3bbc6744&dl=0) | HW3 due，HW4 out
+8    | 11/10 (Tue) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/9p6y47vcwtfhg7gj29utb/ACaoXDmPQG33Tr-OKlprKWA?rlkey=kijwnqh5ubw6qzhtnvc9n088f&dl=0) |
+8    | 11/12 (Thu) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/ib5wl0gxnpoeodxg5xost/AEmQMIlP3OUFfdMyxj1RnLc?rlkey=9mustl3pyw7gpcr1rc8ehs1dh&dl=0) |
 9    | 11/17 (Tue) | Convolutional Neural Networks |
 9    | 11/19 (Thu) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
 10   | 11/24 (Tue) | Semi-supervised Learning and Weakly-supervised Learning |
@@ -107,9 +107,9 @@ Homework (60%)
 
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Concepts and Evaluations (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **HW2: KNN and Linear Models (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
-- **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
+- **[HW1: Concepts and Evaluations](https://www.dropbox.com/scl/fi/ra2gzfzywiz5ot3jmxp08/DSC240_HW1.pdf?rlkey=rp2bboey683xc4w02tawxjgl4&dl=0) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
+- **[HW2: KNN and Linear Models](https://www.dropbox.com/scl/fi/afz9do9pqncic88znm595/DSC240_HW2.pdf?rlkey=7iryer0gklj1y2r2cs1vhgxut&dl=0) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **[HW3: SVM and Clustering](https://www.dropbox.com/scl/fi/elm0a6ubgt27809k6a16v/DSC240_HW3.pdf?rlkey=6c38jegsnewgeff5x0cb5ve7x&dl=0) (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
@@ -120,7 +120,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: Nov 03, 11:00 AM PT
 - **End**: Mov 04, 11:00 AM PT
-- Midterm problems download: TBD
+- Midterm problems download: [here](https://www.dropbox.com/scl/fi/4n0jvxjkal3ahz58axcms/w26_dsc240_midterm.pdf?rlkey=lqqa8vamu6g8i6ukwvwovmsjg&dl=0)
 - Please **make your submissions on Gradescope**.
 
 Machine Learning Challenge (20%)
@@ -129,4 +129,4 @@ Machine Learning Challenge (20%)
 It is a individual-based machine learning competition with quantitative evaluation. The challenge runs **from Oct 29 to Nov 26**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: Please see the challenge's Rule tab.
-- Kaggle challenge link: TBD
+- Kaggle challenge link: [here](https://www.kaggle.com/t/346594357c9a485e9fa845fad98ccbdf)
