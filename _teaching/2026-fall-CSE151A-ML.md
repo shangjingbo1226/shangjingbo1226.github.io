@@ -143,7 +143,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 Machine Learning Challenge (20%)
 ======
 
-It is a individual-based machine learning competition with quantitative evaluation. The challenge runs **from Oct 29 to Nov 26**. Note that the time displayed on Kaggle is in UTC, not PT.
+It is a individual-based machine learning competition with quantitative evaluation. The challenge runs **from Oct 29 to Nov 29**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: Please see the challenge's Rule tab.
 - Kaggle challenge link: [here](https://www.kaggle.com/t/940d693ca62d4c9b85cd25742cef310c)
