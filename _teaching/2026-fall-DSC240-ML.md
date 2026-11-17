@@ -94,8 +94,8 @@ Week | Date        | Topic & Slides                                             
 7    | 11/05 (Thu) | [Naive Bayes and Decision Tree](https://www.dropbox.com/scl/fo/802jhcf3x5zja4mj6tsrs/AMATfHEIMRUfVwl8zpysGNM?rlkey=36c66dipkdgboeqte3bbc6744&dl=0) | HW3 due，HW4 out
 8    | 11/10 (Tue) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/scl/fo/9p6y47vcwtfhg7gj29utb/ACaoXDmPQG33Tr-OKlprKWA?rlkey=kijwnqh5ubw6qzhtnvc9n088f&dl=0) |
 8    | 11/12 (Thu) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/ib5wl0gxnpoeodxg5xost/AEmQMIlP3OUFfdMyxj1RnLc?rlkey=9mustl3pyw7gpcr1rc8ehs1dh&dl=0) |
-9    | 11/17 (Tue) | Convolutional Neural Networks |
-9    | 11/19 (Thu) | Bias-Variance in Deep Neural Networks | HW4 due, HW5 out
+9    | 11/17 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/scl/fo/r3kqnzc5ikg6j1m99qxtz/AMgc4Qdh4yX4FQpiJd3aE5A?rlkey=1oq8knqzwkaq9rkgqkag8szca&dl=0) |
+9    | 11/19 (Thu) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/fy6482iinlgwih38ujwdx/AM2QoGzx-55hyfQ3d3krbEU?rlkey=bfu1g5zw7vo9iv8qaa9wn3kz7&dl=0) | HW4 due, HW5 out
 10   | 11/24 (Tue) | Semi-supervised Learning and Weakly-supervised Learning |
 10   | 11/26 (Thu) | Thanksgiving break (no class) | ML Challenge due
 11   | 12/01 (Tue) | Learning from Noisy Weak Supervision + Challenge Winner Prensentations |
