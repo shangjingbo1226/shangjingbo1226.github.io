@@ -113,7 +113,7 @@ Week | Date        | Topic & Slides                                             
 8    | 11/12 (Thu) | [Multi-class Classification and Feed-forward Neural Networks](https://www.dropbox.com/scl/fo/afqkczz52v6d2vp7umowa/AHRIXtHm_ccv_r_oKA4d82E?rlkey=s583hh18arlggi88t7a5d8pzv&dl=0) |
 9    | 11/17 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/scl/fo/13q4xnyo5vp400qjoh5vo/AKRFvEr4yEgVGNsTEML3kRM?rlkey=76u4mlwrljoquvphe53ydgfv9&dl=0) |
 9    | 11/19 (Thu) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/scl/fo/zzez7o7cdqev9nvcj9xo0/ABQhufw1-eZ7Pzd9pYCXeVE?rlkey=xthb1xczfkf5ftna95tm3ub23&dl=0) | HW4 due, HW5 out
-10   | 11/24 (Tue) | Semi-supervised Learning and Weakly-supervised Learning |
+10   | 11/24 (Tue) | [Semi-supervised Learning and Weakly-supervised Learning](https://www.dropbox.com/scl/fo/wswve9rz5g8f9w3equ68m/AKYmK5GE5WfYVeQD-s9vWq8?rlkey=9bp07uhpyozitxcputgydehz9&dl=0) |
 10   | 11/26 (Thu) | Thanksgiving break (no class) | ML Challenge due
 11   | 12/01 (Tue) | Learning from Noisy Weak Supervision + Challenge Winner Prensentations |
 11   | 12/03 (Thu) | Large Language Models | HW5 due
